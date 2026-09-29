@@ -15,7 +15,8 @@
       "name": "Sumatera Utara",
       "slug": "sumatera-utara",
       "total_stations": 3,
-      "endpoint": "v1/provinces/sumatera-utara.json"
+      "endpoint": "v1/provinces/sumatera-utara.json",
+      "stations_count": 47
     },
     {
       "name": "Sumatera Barat",

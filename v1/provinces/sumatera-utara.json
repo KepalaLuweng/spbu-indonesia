@@ -1,7 +1,7 @@
 {
   "province": "Sumatera Utara",
   "province_slug": "sumatera-utara",
-  "total_stations": 3,
+  "total_stations": 47,
   "updated_at": "2026-09-30",
   "stations": [
     {
@@ -37,7 +37,242 @@
       ]
     },
     {
-      "name": "SPBU Pertamina 14.203.115 (Lubuk Pakam Deli Serdang)",
+      "name": "SPBU Pertamina 14.201.1158 (Ringroad Gagak Hitam)",
+      "brand": "Pertamina",
+      "address": "Jl. Ring Road / Gagak Hitam No. 12, Sunggal",
+      "city": "Kota Medan",
+      "latitude": 3.57412,
+      "longitude": 98.62784,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM Gallery • Alfa Express • Cuci Mobil",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.201.127 (Adam Malik Medan)",
+      "brand": "Pertamina",
+      "address": "Jl. H. Adam Malik No. 5, Medan Barat",
+      "city": "Kota Medan",
+      "latitude": 3.59871,
+      "longitude": 98.67123,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM BNI • Minimarket",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.201.1166 (Krakatau Medan)",
+      "brand": "Pertamina",
+      "address": "Jl. Gunung Krakatau No. 112, Medan Timur",
+      "city": "Kota Medan",
+      "latitude": 3.61245,
+      "longitude": 98.68819,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM Mandiri • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.201.130 (Jamin Ginting Padang Bulan)",
+      "brand": "Pertamina",
+      "address": "Jl. Jamin Ginting KM 7.5, Padang Bulan, Medan Baru",
+      "city": "Kota Medan",
+      "latitude": 3.54128,
+      "longitude": 98.64721,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM BRI & BCA • Rest Area Kampus USU",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.201.184 (Setiabudi Medan)",
+      "brand": "Pertamina",
+      "address": "Jl. Setiabudi No. 201, Medan Selayang",
+      "city": "Kota Medan",
+      "latitude": 3.55198,
+      "longitude": 98.63145,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Kedai Kopi",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.201.144 (Letda Sujono Tembung)",
+      "brand": "Pertamina",
+      "address": "Jl. Letda Sujono No. 168, Medan Tembung",
+      "city": "Kota Medan",
+      "latitude": 3.59914,
+      "longitude": 98.71892,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • Nitrogen • Alfamart",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.201.1132 (Willem Iskandar / Pancing)",
+      "brand": "Pertamina",
+      "address": "Jl. Willem Iskandar / Pasar V Pancing, Medan Tembung",
+      "city": "Kota Medan",
+      "latitude": 3.61205,
+      "longitude": 98.7112,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Dekat Kawasan Kampus UNIMED",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.201.178 (Yos Sudarso Pulo Brayan)",
+      "brand": "Pertamina",
+      "address": "Jl. K.L. Yos Sudarso KM 5.5, Pulo Brayan, Medan Barat",
+      "city": "Kota Medan",
+      "latitude": 3.62891,
+      "longitude": 98.67482,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Jalur Logistik Pelabuhan",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.201.1190 (Marelan Raya)",
+      "brand": "Pertamina",
+      "address": "Jl. Marelan Raya Pasar 2, Medan Marelan",
+      "city": "Kota Medan",
+      "latitude": 3.66782,
+      "longitude": 98.67015,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Indomaret",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.201.155 (AH Nasution Medan Johor)",
+      "brand": "Pertamina",
+      "address": "Jl. Jenderal A.H. Nasution No. 89, Medan Johor",
+      "city": "Kota Medan",
+      "latitude": 3.53812,
+      "longitude": 98.6754,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM BCA • Rest Area",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.201.162 (Brigjend Katamso Titi Kuning)",
+      "brand": "Pertamina",
+      "address": "Jl. Brigjend Katamso No. 420, Titi Kuning, Medan Maimun",
+      "city": "Kota Medan",
+      "latitude": 3.55018,
+      "longitude": 98.6894,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.204.111 (Belawan Pelabuhan)",
+      "brand": "Pertamina",
+      "address": "Jl. Pelabuhan Raya Belawan I, Medan Belawan",
+      "city": "Kota Medan",
+      "latitude": 3.78125,
+      "longitude": 98.68341,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • Area Parkir Truk & Kontainer",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.207.169 (Soekarno Hatta Binjai)",
+      "brand": "Pertamina",
+      "address": "Jl. Soekarno-Hatta KM 19, Timbang Langkat, Binjai Timur",
+      "city": "Kota Binjai",
+      "latitude": 3.60412,
+      "longitude": 98.5124,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Alfamart • Rest Area",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.207.180 (T. Amir Hamzah Binjai)",
+      "brand": "Pertamina",
+      "address": "Jl. Tengku Amir Hamzah No. 90, Jati Utomo, Binjai Utara",
+      "city": "Kota Binjai",
+      "latitude": 3.62145,
+      "longitude": 98.49012,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • Nitrogen • Minimarket",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.207.152 (Tanah Seribu Binjai Selatan)",
+      "brand": "Pertamina",
+      "address": "Jl. Jamin Ginting KM 4.5, Tanah Seribu, Binjai Selatan",
+      "city": "Kota Binjai",
+      "latitude": 3.57812,
+      "longitude": 98.48912,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • Tambal Ban & Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.203.115 (Lubuk Pakam)",
       "brand": "Pertamina",
       "address": "Jl. Lintas Medan - Tebing Tinggi KM 28, Lubuk Pakam",
       "city": "Deli Serdang",
@@ -49,6 +284,459 @@
         "Pertalite",
         "Pertamax",
         "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.203.181 (Tanjung Morawa KM 14)",
+      "brand": "Pertamina",
+      "address": "Jl. Lintas Raya Medan - Tanjung Morawa KM 14.5",
+      "city": "Deli Serdang",
+      "latitude": 3.5312,
+      "longitude": 98.7845,
+      "is_24_hours": true,
+      "facilities": "Toilet Bersih • Musholla • ATM Gallery • Food Court",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.203.190 (Bandara Kualanamu Hub)",
+      "brand": "Pertamina",
+      "address": "Jl. Arteri Bandara Kualanamu, Batang Kuis",
+      "city": "Deli Serdang",
+      "latitude": 3.6189,
+      "longitude": 98.8592,
+      "is_24_hours": true,
+      "facilities": "Toilet VIP • Musholla AC • ATM • Cafe & Rest Area Bandara",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.203.167 (Sunggal KM 11)",
+      "brand": "Pertamina",
+      "address": "Jl. Medan - Binjai KM 10.8, Lalang, Sunggal",
+      "city": "Deli Serdang",
+      "latitude": 3.5982,
+      "longitude": 98.5912,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Indomaret Point",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.203.142 (Pancur Batu)",
+      "brand": "Pertamina",
+      "address": "Jl. Jamin Ginting KM 17.5, Pancur Batu",
+      "city": "Deli Serdang",
+      "latitude": 3.4981,
+      "longitude": 98.5714,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • Rest Area Jalur Wisata Berastagi",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.203.198 (Sibolangit Wisata)",
+      "brand": "Pertamina",
+      "address": "Jl. Jamin Ginting KM 45, Sibolangit",
+      "city": "Deli Serdang",
+      "latitude": 3.3214,
+      "longitude": 98.5512,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • Warung Kopi & Makanan Hangat",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.221.286 (Berastagi Kota)",
+      "brand": "Pertamina",
+      "address": "Jl. Jamin Ginting No. 45, Tambak Lau Mulgap, Berastagi",
+      "city": "Kabupaten Karo",
+      "latitude": 3.1895,
+      "longitude": 98.5089,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM BRI • Udara Sejuk Pegunungan",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.221.240 (Kabanjahe Kota)",
+      "brand": "Pertamina",
+      "address": "Jl. Veteran No. 110, Kabanjahe",
+      "city": "Kabupaten Karo",
+      "latitude": 3.1012,
+      "longitude": 98.4954,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • Tambal Ban",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.221.291 (Merek Danau Toba)",
+      "brand": "Pertamina",
+      "address": "Jl. Lintas Kabanjahe - Sidikalang KM 25, Merek",
+      "city": "Kabupaten Karo",
+      "latitude": 2.9412,
+      "longitude": 98.5312,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • Pemandangan Puncak Danau Toba",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.211.205 (Jl. Medan Siantar)",
+      "brand": "Pertamina",
+      "address": "Jl. Medan KM 4.5, Naga Pitu, Siantar Martoba",
+      "city": "Kota Pematang Siantar",
+      "latitude": 2.9812,
+      "longitude": 99.0621,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM Mandiri • Rest Area Luas",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.211.214 (Ahmad Yani Siantar)",
+      "brand": "Pertamina",
+      "address": "Jl. Jenderal Ahmad Yani No. 34, Siantar Timur",
+      "city": "Kota Pematang Siantar",
+      "latitude": 2.9641,
+      "longitude": 99.0712,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • Minimarket",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.211.272 (Parapat Wisata Danau Toba)",
+      "brand": "Pertamina",
+      "address": "Jl. Sisingamangaraja No. 80, Parapat, Girsang Sipangan Bolon",
+      "city": "Kabupaten Simalungun",
+      "latitude": 2.6612,
+      "longitude": 98.9389,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM BCA • View Tepi Danau Toba",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.211.233 (Perdagangan)",
+      "brand": "Pertamina",
+      "address": "Jl. Siantar - Perdagangan KM 35, Bandar",
+      "city": "Kabupaten Simalungun",
+      "latitude": 3.1782,
+      "longitude": 99.3241,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • Parkir Truk Sawit",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.206.180 (Yos Sudarso Tebing Tinggi)",
+      "brand": "Pertamina",
+      "address": "Jl. Yos Sudarso No. 120, Tebing Tinggi Kota",
+      "city": "Kota Tebing Tinggi",
+      "latitude": 3.3341,
+      "longitude": 99.1678,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Alfamart",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.205.156 (Sei Rampah Sergai)",
+      "brand": "Pertamina",
+      "address": "Jl. Lintas Medan - Tebing Tinggi KM 58, Sei Rampah",
+      "city": "Serdang Bedagai",
+      "latitude": 3.4891,
+      "longitude": 99.0912,
+      "is_24_hours": true,
+      "facilities": "Toilet Bersih • Musholla • Rest Area Trans Sumatera",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.205.191 (Perbaungan)",
+      "brand": "Pertamina",
+      "address": "Jl. Lintas Sumatera KM 38, Simpang Tiga, Perbaungan",
+      "city": "Serdang Bedagai",
+      "latitude": 3.5712,
+      "longitude": 98.9612,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Tambal Ban",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.212.215 (Sentang Kisaran)",
+      "brand": "Pertamina",
+      "address": "Jl. Lintas Sumatera KM 156, Sentang, Kisaran Timur",
+      "city": "Kabupaten Asahan",
+      "latitude": 2.9781,
+      "longitude": 99.6389,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Rest Area Jalur Riau & Sumut",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.212.289 (Simpang Kawat Asahan)",
+      "brand": "Pertamina",
+      "address": "Simpang Kawat, Jl. Lintas Sumatera KM 170, Air Batu",
+      "city": "Kabupaten Asahan",
+      "latitude": 2.8912,
+      "longitude": 99.7124,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • Parkir Truk & Bus",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.213.208 (Sudirman Tanjungbalai)",
+      "brand": "Pertamina",
+      "address": "Jl. Jenderal Sudirman No. 88, Tanjungbalai Selatan",
+      "city": "Kota Tanjungbalai",
+      "latitude": 2.9612,
+      "longitude": 99.8012,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • Dekat Pelabuhan Teluk Nibung",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.216.290 (Indrapura Batu Bara)",
+      "brand": "Pertamina",
+      "address": "Jl. Lintas Sumatera KM 98, Indrapura, Air Putih",
+      "city": "Kabupaten Batu Bara",
+      "latitude": 3.2512,
+      "longitude": 99.3689,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • Rest Area",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.216.255 (Limapuluh Kota)",
+      "brand": "Pertamina",
+      "address": "Jl. Perintis Kemerdekaan, Limapuluh",
+      "city": "Kabupaten Batu Bara",
+      "latitude": 3.1612,
+      "longitude": 99.4789,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.214.225 (SM Raja Rantauprapat)",
+      "brand": "Pertamina",
+      "address": "Jl. Sisingamangaraja KM 3.5, Rantau Selatan",
+      "city": "Kabupaten Labuhanbatu",
+      "latitude": 2.0812,
+      "longitude": 99.8312,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM Mandiri & BRI • Rest Area Luas",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.214.266 (Sigambal Jalinsum)",
+      "brand": "Pertamina",
+      "address": "Jl. Lintas Sumatera KM 290, Sigambal",
+      "city": "Kabupaten Labuhanbatu",
+      "latitude": 2.0214,
+      "longitude": 99.8891,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • Rumah Makan & Istirahat Supir",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.223.318 (Balige Toba)",
+      "brand": "Pertamina",
+      "address": "Jl. Pagar Batu No. 12, Balige",
+      "city": "Kabupaten Toba",
+      "latitude": 2.3389,
+      "longitude": 99.0689,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • Dekat Wisata Danau Toba & Museum Batak",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.224.341 (Siborongborong Silangit)",
+      "brand": "Pertamina",
+      "address": "Jl. Lintas Sumatera KM 14, Siborongborong (Dekat Bandara Silangit)",
+      "city": "Tapanuli Utara",
+      "latitude": 2.1982,
+      "longitude": 98.9812,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • Dekat Akses Bandara Internasional Silangit",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.224.305 (Tarutung Kota)",
+      "brand": "Pertamina",
+      "address": "Jl. Raja Johannes Hutabarat, Tarutung",
+      "city": "Tapanuli Utara",
+      "latitude": 2.0195,
+      "longitude": 98.9689,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • Tambal Ban",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.225.311 (SM Raja Sibolga)",
+      "brand": "Pertamina",
+      "address": "Jl. Sisingamangaraja No. 195, Pancuran Gerbang, Sibolga Kota",
+      "city": "Kota Sibolga",
+      "latitude": 1.7412,
+      "longitude": 98.7891,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • Akses Pelabuhan Penyeberangan Nias",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.225.324 (Pandan Tapteng)",
+      "brand": "Pertamina",
+      "address": "Jl. Padang Sidempuan KM 8, Pandan",
+      "city": "Tapanuli Tengah",
+      "latitude": 1.6891,
+      "longitude": 98.8124,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • Tepi Pantai Pandan",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.227.312 (Sudirman Padang Sidempuan)",
+      "brand": "Pertamina",
+      "address": "Jl. Jenderal Sudirman KM 2, Sadabuan, Padang Sidempuan Utara",
+      "city": "Kota Padang Sidempuan",
+      "latitude": 1.3891,
+      "longitude": 99.2712,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM Bank Sumut & BRI",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.227.355 (Sipirok Tapsel)",
+      "brand": "Pertamina",
+      "address": "Jl. Lintas Padang Sidempuan - Tarutung KM 32, Sipirok",
+      "city": "Tapanuli Selatan",
+      "latitude": 1.5891,
+      "longitude": 99.2812,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • Rest Area Pegunungan",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
         "Solar"
       ]
     }
