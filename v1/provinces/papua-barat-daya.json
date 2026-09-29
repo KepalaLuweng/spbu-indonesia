@@ -1,0 +1,24 @@
+{
+  "province": "Papua Barat Daya",
+  "province_slug": "papua-barat-daya",
+  "total_stations": 1,
+  "updated_at": "2026-09-30",
+  "stations": [
+    {
+      "name": "SPBU Pertamina Sentral (Papua Barat Daya)",
+      "brand": "Pertamina",
+      "address": "Jl. Protokol Utama Provinsi, Pusat Kota Papua Barat Daya",
+      "city": "Kota Pusat Papua Barat Daya",
+      "latitude": -0.876,
+      "longitude": 131.255,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    }
+  ]
+}

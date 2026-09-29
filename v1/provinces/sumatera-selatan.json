@@ -1,0 +1,24 @@
+{
+  "province": "Sumatera Selatan",
+  "province_slug": "sumatera-selatan",
+  "total_stations": 1,
+  "updated_at": "2026-09-30",
+  "stations": [
+    {
+      "name": "SPBU Pertamina 24.301.14 (Demang Lebar Daun)",
+      "brand": "Pertamina",
+      "address": "Jl. Demang Lebar Daun No. 80, Ilir Barat I",
+      "city": "Kota Palembang",
+      "latitude": -2.97542,
+      "longitude": 104.73512,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    }
+  ]
+}

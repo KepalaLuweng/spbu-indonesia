@@ -1,0 +1,105 @@
+{
+  "province": "Jawa Barat",
+  "province_slug": "jawa-barat",
+  "total_stations": 6,
+  "updated_at": "2026-09-30",
+  "stations": [
+    {
+      "name": "SPBU Pertamina 34.401.16 (Dago)",
+      "brand": "Pertamina",
+      "address": "Jl. Ir. H. Juanda No. 128, Coblong",
+      "city": "Kota Bandung",
+      "latitude": -6.88542,
+      "longitude": 107.61423,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen • Coffee Shop",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.402.27 (Soekarno Hatta)",
+      "brand": "Pertamina",
+      "address": "Jl. Soekarno-Hatta No. 450, Batununggal",
+      "city": "Kota Bandung",
+      "latitude": -6.94521,
+      "longitude": 107.63512,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM Gallery • Rest Area",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.161.02 (Pajajaran)",
+      "brand": "Pertamina",
+      "address": "Jl. Raya Pajajaran No. 25, Bogor Timur",
+      "city": "Kota Bogor",
+      "latitude": -6.59821,
+      "longitude": 106.80912,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.164.08 (Margonda)",
+      "brand": "Pertamina",
+      "address": "Jl. Margonda Raya No. 340, Beji",
+      "city": "Kota Depok",
+      "latitude": -6.37214,
+      "longitude": 106.83215,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Bright Store",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.171.10 (Ahmad Yani)",
+      "brand": "Pertamina",
+      "address": "Jl. Jend. Ahmad Yani No. 15, Bekasi Selatan",
+      "city": "Kota Bekasi",
+      "latitude": -6.24152,
+      "longitude": 106.99841,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.451.05 (Kartini)",
+      "brand": "Pertamina",
+      "address": "Jl. R.A. Kartini No. 42, Kesambi",
+      "city": "Kota Cirebon",
+      "latitude": -6.71852,
+      "longitude": 108.55214,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Rest Area",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    }
+  ]
+}

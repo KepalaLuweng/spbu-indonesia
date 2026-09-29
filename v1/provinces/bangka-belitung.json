@@ -1,0 +1,24 @@
+{
+  "province": "Kepulauan Bangka Belitung",
+  "province_slug": "bangka-belitung",
+  "total_stations": 1,
+  "updated_at": "2026-09-30",
+  "stations": [
+    {
+      "name": "SPBU Pertamina Sentral (Kepulauan Bangka Belitung)",
+      "brand": "Pertamina",
+      "address": "Jl. Protokol Utama Provinsi, Pusat Kota Kepulauan Bangka Belitung",
+      "city": "Kota Pusat Kepulauan Bangka Belitung",
+      "latitude": -2.133,
+      "longitude": 106.111,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    }
+  ]
+}

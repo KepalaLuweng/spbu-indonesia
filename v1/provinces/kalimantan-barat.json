@@ -1,0 +1,24 @@
+{
+  "province": "Kalimantan Barat",
+  "province_slug": "kalimantan-barat",
+  "total_stations": 1,
+  "updated_at": "2026-09-30",
+  "stations": [
+    {
+      "name": "SPBU Pertamina 64.781.01 (Ahmad Yani Pontianak)",
+      "brand": "Pertamina",
+      "address": "Jl. Jend. Ahmad Yani No. 80, Pontianak Selatan",
+      "city": "Kota Pontianak",
+      "latitude": -0.05214,
+      "longitude": 109.34512,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Minimarket",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    }
+  ]
+}

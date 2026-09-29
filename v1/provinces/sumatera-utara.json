@@ -1,0 +1,56 @@
+{
+  "province": "Sumatera Utara",
+  "province_slug": "sumatera-utara",
+  "total_stations": 3,
+  "updated_at": "2026-09-30",
+  "stations": [
+    {
+      "name": "SPBU Pertamina 14.201.1114 (Gatot Subroto Medan)",
+      "brand": "Pertamina",
+      "address": "Jl. Gatot Subroto KM 4.5, Medan Helvetia",
+      "city": "Kota Medan",
+      "latitude": 3.58954,
+      "longitude": 98.65214,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen • Indomaret",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.201.106 (SM Raja Medan)",
+      "brand": "Pertamina",
+      "address": "Jl. Sisingamangaraja No. 88, Medan Kota",
+      "city": "Kota Medan",
+      "latitude": 3.56842,
+      "longitude": 98.69512,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Rest Area",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 14.203.115 (Lubuk Pakam Deli Serdang)",
+      "brand": "Pertamina",
+      "address": "Jl. Lintas Medan - Tebing Tinggi KM 28, Lubuk Pakam",
+      "city": "Deli Serdang",
+      "latitude": 3.55912,
+      "longitude": 98.87154,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Rest Area Jalur Trans-Sumatera",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    }
+  ]
+}

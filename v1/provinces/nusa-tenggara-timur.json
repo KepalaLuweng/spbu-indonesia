@@ -1,0 +1,24 @@
+{
+  "province": "Nusa Tenggara Timur",
+  "province_slug": "nusa-tenggara-timur",
+  "total_stations": 1,
+  "updated_at": "2026-09-30",
+  "stations": [
+    {
+      "name": "SPBU Pertamina Sentral (Nusa Tenggara Timur)",
+      "brand": "Pertamina",
+      "address": "Jl. Protokol Utama Provinsi, Pusat Kota Nusa Tenggara Timur",
+      "city": "Kota Pusat Nusa Tenggara Timur",
+      "latitude": -10.177,
+      "longitude": 123.607,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    }
+  ]
+}

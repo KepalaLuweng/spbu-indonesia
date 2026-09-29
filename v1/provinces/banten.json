@@ -1,0 +1,72 @@
+{
+  "province": "Banten",
+  "province_slug": "banten",
+  "total_stations": 4,
+  "updated_at": "2026-09-30",
+  "stations": [
+    {
+      "name": "SPBU Pertamina 34.153.22 (BSD City)",
+      "brand": "Pertamina",
+      "address": "Jl. Pahlawan Seribu No. 8, Serpong",
+      "city": "Tangerang Selatan",
+      "latitude": -6.29542,
+      "longitude": 106.66812,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen • Bright Store",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.151.15 (Cikokol)",
+      "brand": "Pertamina",
+      "address": "Jl. MH. Thamrin No. 20, Cikokol",
+      "city": "Kota Tangerang",
+      "latitude": -6.20854,
+      "longitude": 106.64512,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Car Wash",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.421.01 (Serang)",
+      "brand": "Pertamina",
+      "address": "Jl. Jendral Sudirman No. 35, Kemuning",
+      "city": "Kota Serang",
+      "latitude": -6.11842,
+      "longitude": 106.16854,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.424.03 (Cilegon)",
+      "brand": "Pertamina",
+      "address": "Jl. Raya Merak KM 4, Cilegon",
+      "city": "Kota Cilegon",
+      "latitude": -5.99214,
+      "longitude": 106.01254,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Area Truk Logistik",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    }
+  ]
+}

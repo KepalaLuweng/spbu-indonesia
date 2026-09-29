@@ -1,0 +1,24 @@
+{
+  "province": "Lampung",
+  "province_slug": "lampung",
+  "total_stations": 1,
+  "updated_at": "2026-09-30",
+  "stations": [
+    {
+      "name": "SPBU Pertamina 24.351.34 (Raden Intan)",
+      "brand": "Pertamina",
+      "address": "Jl. Raden Intan No. 55, Tanjung Karang Pusat",
+      "city": "Kota Bandar Lampung",
+      "latitude": -5.41854,
+      "longitude": 105.25812,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Rest Area Lintas Sumatera",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    }
+  ]
+}

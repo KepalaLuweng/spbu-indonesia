@@ -1,0 +1,24 @@
+{
+  "province": "Papua Selatan",
+  "province_slug": "papua-selatan",
+  "total_stations": 1,
+  "updated_at": "2026-09-30",
+  "stations": [
+    {
+      "name": "SPBU Pertamina Sentral (Papua Selatan)",
+      "brand": "Pertamina",
+      "address": "Jl. Protokol Utama Provinsi, Pusat Kota Papua Selatan",
+      "city": "Kota Pusat Papua Selatan",
+      "latitude": -8.499,
+      "longitude": 140.401,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "province": "Riau",
+  "province_slug": "riau",
+  "total_stations": 1,
+  "updated_at": "2026-09-30",
+  "stations": [
+    {
+      "name": "SPBU Pertamina 14.282.635 (Sudirman Pekanbaru)",
+      "brand": "Pertamina",
+      "address": "Jl. Jend. Sudirman No. 150, Bukit Raya",
+      "city": "Kota Pekanbaru",
+      "latitude": 0.50542,
+      "longitude": 101.44812,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Minimarket",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    }
+  ]
+}

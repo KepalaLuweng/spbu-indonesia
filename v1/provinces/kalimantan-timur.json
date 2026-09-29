@@ -1,0 +1,40 @@
+{
+  "province": "Kalimantan Timur",
+  "province_slug": "kalimantan-timur",
+  "total_stations": 2,
+  "updated_at": "2026-09-30",
+  "stations": [
+    {
+      "name": "SPBU Pertamina 64.751.02 (Kusuma Bangsa Samarinda)",
+      "brand": "Pertamina",
+      "address": "Jl. Kusuma Bangsa No. 20, Sungai Pinang",
+      "city": "Kota Samarinda",
+      "latitude": -0.49542,
+      "longitude": 117.15214,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Bright Store",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 64.761.05 (Sudirman Balikpapan)",
+      "brand": "Pertamina",
+      "address": "Jl. Jend. Sudirman No. 12, Klandasan Ilir",
+      "city": "Kota Balikpapan",
+      "latitude": -1.27214,
+      "longitude": 116.83512,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    }
+  ]
+}

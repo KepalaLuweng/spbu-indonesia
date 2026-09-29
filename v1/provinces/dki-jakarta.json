@@ -1,0 +1,136 @@
+{
+  "province": "DKI Jakarta",
+  "province_slug": "dki-jakarta",
+  "total_stations": 8,
+  "updated_at": "2026-09-30",
+  "stations": [
+    {
+      "name": "SPBU Pertamina 31.129.02 (Rasuna Said)",
+      "brand": "Pertamina",
+      "address": "Jl. H.R. Rasuna Said Kav. C-22, Setiabudi",
+      "city": "Jakarta Selatan",
+      "latitude": -6.21935,
+      "longitude": 106.83152,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen • Indomaret Point",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 31.103.01 (Cikini)",
+      "brand": "Pertamina",
+      "address": "Jl. Cikini Raya No. 113-115, Menteng",
+      "city": "Jakarta Pusat",
+      "latitude": -6.19321,
+      "longitude": 106.84012,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • Nitrogen • Bright Store",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.134.02 (MT Haryono)",
+      "brand": "Pertamina",
+      "address": "Jl. M.T. Haryono Kav. 18, Jatinegara",
+      "city": "Jakarta Timur",
+      "latitude": -6.24218,
+      "longitude": 106.86542,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM Gallery • Bright Cafe",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.116.04 (Meruya)",
+      "brand": "Pertamina",
+      "address": "Jl. Meruya Ilir Raya No. 45, Kembangan",
+      "city": "Jakarta Barat",
+      "latitude": -6.19582,
+      "longitude": 106.74512,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • Nitrogen • Tambal Ban",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.144.01 (Pluit)",
+      "brand": "Pertamina",
+      "address": "Jl. Pluit Raya No. 88, Penjaringan",
+      "city": "Jakarta Utara",
+      "latitude": -6.12642,
+      "longitude": 106.79234,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Car Wash",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 31.121.01 (Fatmawati)",
+      "brand": "Pertamina",
+      "address": "Jl. RS Fatmawati Raya No. 29, Cilandak",
+      "city": "Jakarta Selatan",
+      "latitude": -6.29124,
+      "longitude": 106.79541,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • Nitrogen • Alfamart",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.106.03 (Cempaka Putih)",
+      "brand": "Pertamina",
+      "address": "Jl. Cempaka Putih Raya No. 10",
+      "city": "Jakarta Pusat",
+      "latitude": -6.17951,
+      "longitude": 106.87123,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.139.05 (Pulo Gebang)",
+      "brand": "Pertamina",
+      "address": "Jl. Raya Pulo Gebang No. 77, Cakung",
+      "city": "Jakarta Timur",
+      "latitude": -6.21045,
+      "longitude": 106.94812,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Rest Area Driver",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    }
+  ]
+}

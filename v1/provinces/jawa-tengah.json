@@ -1,0 +1,72 @@
+{
+  "province": "Jawa Tengah",
+  "province_slug": "jawa-tengah",
+  "total_stations": 4,
+  "updated_at": "2026-09-30",
+  "stations": [
+    {
+      "name": "SPBU Pertamina 44.501.01 (Gajah Mada)",
+      "brand": "Pertamina",
+      "address": "Jl. Gajahmada No. 89, Semarang Tengah",
+      "city": "Kota Semarang",
+      "latitude": -6.98124,
+      "longitude": 110.42154,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.571.08 (Slamet Riyadi)",
+      "brand": "Pertamina",
+      "address": "Jl. Slamet Riyadi No. 370, Laweyan",
+      "city": "Kota Surakarta (Solo)",
+      "latitude": -7.56842,
+      "longitude": 110.80512,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Minimarket",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.531.04 (Purwokerto)",
+      "brand": "Pertamina",
+      "address": "Jl. Jend. Soedirman Timur No. 120",
+      "city": "Banyumas",
+      "latitude": -7.42854,
+      "longitude": 109.24812,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.591.02 (Pekalongan)",
+      "brand": "Pertamina",
+      "address": "Jl. Hayam Wuruk No. 55, Pekalongan Barat",
+      "city": "Kota Pekalongan",
+      "latitude": -6.88954,
+      "longitude": 109.67124,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Rest Area Jalur Pantura",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    }
+  ]
+}

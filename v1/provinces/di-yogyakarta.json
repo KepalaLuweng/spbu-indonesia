@@ -1,0 +1,56 @@
+{
+  "province": "DI Yogyakarta",
+  "province_slug": "di-yogyakarta",
+  "total_stations": 3,
+  "updated_at": "2026-09-30",
+  "stations": [
+    {
+      "name": "SPBU Pertamina 44.552.11 (Terban)",
+      "brand": "Pertamina",
+      "address": "Jl. C. Simanjuntak No. 18, Gondokusuman",
+      "city": "Kota Yogyakarta",
+      "latitude": -7.77854,
+      "longitude": 110.37542,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen • Circle K",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.08 (Jl. Magelang KM 5)",
+      "brand": "Pertamina",
+      "address": "Jl. Magelang KM 5.5, Mlati",
+      "city": "Sleman",
+      "latitude": -7.75412,
+      "longitude": 110.36214,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Rest Area",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.551.04 (Bantul)",
+      "brand": "Pertamina",
+      "address": "Jl. Bantul KM 7, Sewon",
+      "city": "Bantul",
+      "latitude": -7.84215,
+      "longitude": 110.34521,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • Nitrogen • Tambal Ban",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite"
+      ]
+    }
+  ]
+}

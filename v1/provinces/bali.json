@@ -1,0 +1,41 @@
+{
+  "province": "Bali",
+  "province_slug": "bali",
+  "total_stations": 2,
+  "updated_at": "2026-09-30",
+  "stations": [
+    {
+      "name": "SPBU Pertamina 54.801.12 (Sunset Road)",
+      "brand": "Pertamina",
+      "address": "Jl. Sunset Road No. 88, Kuta",
+      "city": "Badung",
+      "latitude": -8.70542,
+      "longitude": 115.17854,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen • Minimarket",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 54.801.02 (Gatot Subroto Denpasar)",
+      "brand": "Pertamina",
+      "address": "Jl. Gatot Subroto Barat No. 340, Denpasar Utara",
+      "city": "Kota Denpasar",
+      "latitude": -8.63854,
+      "longitude": 115.20512,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Car Wash",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite",
+        "Solar"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "province": "Kalimantan Tengah",
+  "province_slug": "kalimantan-tengah",
+  "total_stations": 1,
+  "updated_at": "2026-09-30",
+  "stations": [
+    {
+      "name": "SPBU Pertamina Sentral (Kalimantan Tengah)",
+      "brand": "Pertamina",
+      "address": "Jl. Protokol Utama Provinsi, Pusat Kota Kalimantan Tengah",
+      "city": "Kota Pusat Kalimantan Tengah",
+      "latitude": -2.209,
+      "longitude": 113.921,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "province": "Jambi",
+  "province_slug": "jambi",
+  "total_stations": 1,
+  "updated_at": "2026-09-30",
+  "stations": [
+    {
+      "name": "SPBU Pertamina Sentral (Jambi)",
+      "brand": "Pertamina",
+      "address": "Jl. Protokol Utama Provinsi, Pusat Kota Jambi",
+      "city": "Kota Pusat Jambi",
+      "latitude": -1.61,
+      "longitude": 103.613,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    }
+  ]
+}

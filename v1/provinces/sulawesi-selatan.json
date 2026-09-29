@@ -1,0 +1,40 @@
+{
+  "province": "Sulawesi Selatan",
+  "province_slug": "sulawesi-selatan",
+  "total_stations": 2,
+  "updated_at": "2026-09-30",
+  "stations": [
+    {
+      "name": "SPBU Pertamina 74.901.15 (Pettarani Makassar)",
+      "brand": "Pertamina",
+      "address": "Jl. A.P. Pettarani No. 33, Panakkukang",
+      "city": "Kota Makassar",
+      "latitude": -5.15854,
+      "longitude": 119.43512,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Bright Store • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 74.902.20 (Urip Sumoharjo)",
+      "brand": "Pertamina",
+      "address": "Jl. Urip Sumoharjo KM 6, Tallo",
+      "city": "Kota Makassar",
+      "latitude": -5.13842,
+      "longitude": 119.45812,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Rest Area",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    }
+  ]
+}

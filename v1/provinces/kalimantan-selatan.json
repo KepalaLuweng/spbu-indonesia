@@ -1,0 +1,24 @@
+{
+  "province": "Kalimantan Selatan",
+  "province_slug": "kalimantan-selatan",
+  "total_stations": 1,
+  "updated_at": "2026-09-30",
+  "stations": [
+    {
+      "name": "SPBU Pertamina 64.701.08 (A. Yani Banjarmasin)",
+      "brand": "Pertamina",
+      "address": "Jl. A. Yani KM 4.5, Banjarmasin Timur",
+      "city": "Kota Banjarmasin",
+      "latitude": -3.32854,
+      "longitude": 114.61542,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Rest Area",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    }
+  ]
+}

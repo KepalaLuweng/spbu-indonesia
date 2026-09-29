@@ -1,0 +1,72 @@
+{
+  "province": "Jawa Timur",
+  "province_slug": "jawa-timur",
+  "total_stations": 4,
+  "updated_at": "2026-09-30",
+  "stations": [
+    {
+      "name": "SPBU Pertamina 51.601.77 (Jemursari)",
+      "brand": "Pertamina",
+      "address": "Jl. Raya Jemursari No. 115, Wonocolo",
+      "city": "Kota Surabaya",
+      "latitude": -7.31954,
+      "longitude": 112.74812,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM Gallery • Bright Cafe",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 54.602.05 (Mayjen Sungkono)",
+      "brand": "Pertamina",
+      "address": "Jl. Mayjen Sungkono No. 89, Dukuh Pakis",
+      "city": "Kota Surabaya",
+      "latitude": -7.29142,
+      "longitude": 112.71542,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 54.651.10 (Sutoyo Malang)",
+      "brand": "Pertamina",
+      "address": "Jl. Letjen Sutoyo No. 42, Lowokwaru",
+      "city": "Kota Malang",
+      "latitude": -7.96214,
+      "longitude": 112.63514,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Minimarket",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 54.612.02 (Waru Sidoarjo)",
+      "brand": "Pertamina",
+      "address": "Jl. Raya Waru KM 12, Waru",
+      "city": "Sidoarjo",
+      "latitude": -7.35854,
+      "longitude": 112.72914,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Rest Area Jalur Utama",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    }
+  ]
+}

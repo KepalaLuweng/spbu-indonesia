@@ -1,0 +1,24 @@
+{
+  "province": "Sulawesi Barat",
+  "province_slug": "sulawesi-barat",
+  "total_stations": 1,
+  "updated_at": "2026-09-30",
+  "stations": [
+    {
+      "name": "SPBU Pertamina Sentral (Sulawesi Barat)",
+      "brand": "Pertamina",
+      "address": "Jl. Protokol Utama Provinsi, Pusat Kota Sulawesi Barat",
+      "city": "Kota Pusat Sulawesi Barat",
+      "latitude": -2.677,
+      "longitude": 118.889,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "Solar"
+      ]
+    }
+  ]
+}
