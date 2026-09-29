@@ -1,7 +1,7 @@
 {
   "province": "Kepulauan Riau",
   "province_slug": "kepulauan-riau",
-  "total_stations": 1,
+  "total_stations": 448,
   "updated_at": "2026-09-30",
   "stations": [
     {
@@ -17,6 +17,7043 @@
         "Pertalite",
         "Pertamax",
         "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU SPC",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.32321,
+      "longitude": 103.81933,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso Dunearn",
+      "brand": "Pertamina",
+      "address": "Dunearn Road No. 650, Singapore",
+      "city": "Singapore",
+      "latitude": 1.33103,
+      "longitude": 103.79868,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.05788,
+      "longitude": 103.96491,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.04007,
+      "longitude": 104.0009,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fuel Temiang",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.06224,
+      "longitude": 103.96833,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Petrol Station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.05011,
+      "longitude": 103.95373,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PERTAMINA Sukajadi",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.11395,
+      "longitude": 104.02223,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PERTAMINA Duriangkang",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.09716,
+      "longitude": 104.03658,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PERTAMINA Al-Azhar",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.13363,
+      "longitude": 104.02121,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PERTAMINA Harbour Bay",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.15402,
+      "longitude": 104.00238,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.11022,
+      "longitude": 103.9496,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fuel Bensin Mekar Sari",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.11134,
+      "longitude": 103.97866,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fuel Bensin Tiban 3",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.10934,
+      "longitude": 103.96596,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fuel Uib",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.12127,
+      "longitude": 104.00514,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PERTAMINA Belakang BCA Jodoh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.1532,
+      "longitude": 104.00568,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PERTAMINA Seraya",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.14794,
+      "longitude": 104.01703,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PERTAMINA KDA Batam Kota",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.10157,
+      "longitude": 104.07634,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Kapital Raya",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.10725,
+      "longitude": 104.09036,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fuel Station(Spbu Kabil)",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.08391,
+      "longitude": 104.1176,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PERTAMINA PIH",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.12331,
+      "longitude": 104.0578,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PERTAMINA Duta Mas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.10486,
+      "longitude": 104.03931,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PERTAMINA Sungai Panas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.13907,
+      "longitude": 104.02703,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU ESSO",
+      "brand": "Pertamina",
+      "address": "Bedok North Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.32827,
+      "longitude": 103.93962,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.55122,
+      "longitude": 103.64941,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC Bukit Batok Service Station",
+      "brand": "Pertamina",
+      "address": "Bukit Batok East Avenue 3 No. 50, Singapore",
+      "city": "Singapore",
+      "latitude": 1.34321,
+      "longitude": 103.75854,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU OSO MT. Haryono",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": -0.04489,
+      "longitude": 109.33675,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU KOTA BARU",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": -0.04783,
+      "longitude": 109.31869,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU TANJUNG PURA",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": -0.03147,
+      "longitude": 109.34521,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": -0.03438,
+      "longitude": 109.33191,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.34957,
+      "longitude": 103.7149,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU KODAM",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": -0.07369,
+      "longitude": 109.37167,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC Pasir Panjang",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.27707,
+      "longitude": 103.7907,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 2.21775,
+      "longitude": 103.54257,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Ulu Tiram",
+      "city": "Ulu Tiram",
+      "latitude": 1.58258,
+      "longitude": 103.80094,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Ulu Tiram",
+      "city": "Ulu Tiram",
+      "latitude": 1.56998,
+      "longitude": 103.80038,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": -0.03814,
+      "longitude": 109.4154,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.49388,
+      "longitude": 103.87302,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.28257,
+      "longitude": 103.82134,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Batu Hitam",
+      "brand": "Pertamina",
+      "address": "Jl Soekarno Hatta, Tanjungpinang",
+      "city": "Tanjungpinang",
+      "latitude": 0.91064,
+      "longitude": 104.44609,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Lebuhraya Hubungan Kedua",
+      "city": "Kepulauan Riau",
+      "latitude": 1.39772,
+      "longitude": 103.58665,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 2.64567,
+      "longitude": 103.62752,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU pertains",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 0.99159,
+      "longitude": 104.63191,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU CALTEX",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.6514,
+      "longitude": 103.58114,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.54268,
+      "longitude": 103.65899,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.50274,
+      "longitude": 103.85388,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.50298,
+      "longitude": 103.85339,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.48892,
+      "longitude": 103.71347,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.37881,
+      "longitude": 103.83602,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Pasir Gudang Highway No. LOT 120624",
+      "city": "Kepulauan Riau",
+      "latitude": 1.48249,
+      "longitude": 103.88107,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Jalan Kota Tinggi",
+      "city": "Kepulauan Riau",
+      "latitude": 1.5886,
+      "longitude": 103.81873,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.58776,
+      "longitude": 103.80274,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Jalan Bukit Jaya",
+      "city": "Kepulauan Riau",
+      "latitude": 1.59071,
+      "longitude": 103.8019,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.54271,
+      "longitude": 103.79266,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.45415,
+      "longitude": 103.9177,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.04406,
+      "longitude": 104.05412,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.59438,
+      "longitude": 103.82084,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 0.30039,
+      "longitude": 109.02774,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.13221,
+      "longitude": 104.01119,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.48615,
+      "longitude": 103.74787,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Jalan Yahya Awal",
+      "city": "Kepulauan Riau",
+      "latitude": 1.46701,
+      "longitude": 103.75208,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.15773,
+      "longitude": 104.1248,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Pembangunan",
+      "brand": "Pertamina",
+      "address": "Jalan Pembangunan, Pemangkat",
+      "city": "Pemangkat",
+      "latitude": 1.1752,
+      "longitude": 108.98859,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.12388,
+      "longitude": 104.1022,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.36317,
+      "longitude": 103.888,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.48695,
+      "longitude": 103.88669,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Jurong West Avenue 1 No. 10, Singapore",
+      "city": "Singapore",
+      "latitude": 1.35103,
+      "longitude": 103.72368,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Jurong East Avenue 1 No. 150, Singapore",
+      "city": "Singapore",
+      "latitude": 1.34524,
+      "longitude": 103.73277,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Mohammad Hambal",
+      "brand": "Pertamina",
+      "address": "Jalan Mohammad Hambal, Pemangkat",
+      "city": "Pemangkat",
+      "latitude": 1.17913,
+      "longitude": 108.97116,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.50785,
+      "longitude": 103.85917,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU pelabuhan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 3.03337,
+      "longitude": 105.70326,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.04552,
+      "longitude": 103.96144,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PERTAMINA Bengkong",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.15887,
+      "longitude": 104.03241,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.04021,
+      "longitude": 103.9856,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Jalan Bayu 11, Masai",
+      "city": "Masai",
+      "latitude": 1.49961,
+      "longitude": 103.86424,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.48917,
+      "longitude": 103.87082,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Jalan Masjid, Pasir Gudang",
+      "city": "Pasir Gudang",
+      "latitude": 1.48794,
+      "longitude": 103.90351,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.32541,
+      "longitude": 103.89082,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Jalan Sri Pulai, Johor Bahru",
+      "city": "Johor Bahru",
+      "latitude": 1.56414,
+      "longitude": 103.61853,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.54587,
+      "longitude": 103.71576,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Upper East Coast Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.31451,
+      "longitude": 103.93432,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.12768,
+      "longitude": 108.96945,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Bukit Cagar, Johor Bahru",
+      "city": "Johor Bahru",
+      "latitude": 1.47071,
+      "longitude": 103.7662,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC",
+      "brand": "Pertamina",
+      "address": "Changi Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.31854,
+      "longitude": 103.90864,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Tampines Avenue 8 No. 1, Singapore",
+      "city": "Singapore",
+      "latitude": 1.34937,
+      "longitude": 103.92847,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC",
+      "brand": "Pertamina",
+      "address": "Havelock Road No. 397, Singapore",
+      "city": "Singapore",
+      "latitude": 1.2885,
+      "longitude": 103.83819,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jl. Yos Sudarso, Kp. Seraya, Kec. Batu Ampar, Kota Batam, Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Jl. Yos Sudarso, Kp. Seraya, Kec. Batu Ampar, Kota Batam, Kepulauan Riau, Kampung Seraya",
+      "city": "Kampung Seraya",
+      "latitude": 1.15525,
+      "longitude": 104.02051,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Imam Bonjol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": -0.04696,
+      "longitude": 109.35455,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.49533,
+      "longitude": 103.64249,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jl. Nusantara",
+      "brand": "Pertamina",
+      "address": "Jl. Nusantara, Kijang Kota",
+      "city": "Kijang Kota",
+      "latitude": 0.86293,
+      "longitude": 104.60595,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 2.63653,
+      "longitude": 103.63544,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 2.67826,
+      "longitude": 103.60986,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Queensway No. 622, Singapore",
+      "city": "Singapore",
+      "latitude": 1.30696,
+      "longitude": 103.80246,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PERTAMINA REGATA",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.13306,
+      "longitude": 104.04255,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.13418,
+      "longitude": 104.01754,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PERTAMINA Marchelia",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.12241,
+      "longitude": 104.03266,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PERTAMINA Aston",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.14234,
+      "longitude": 104.02059,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PGN Gas Station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.12801,
+      "longitude": 104.05835,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Lorong 2 Toa Payoh",
+      "city": "Kepulauan Riau",
+      "latitude": 1.33624,
+      "longitude": 103.84647,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.36254,
+      "longitude": 103.85253,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Batu 7",
+      "brand": "Pertamina",
+      "address": "Jalan DI PANJAITAN, Tanjungpinang",
+      "city": "Tanjungpinang",
+      "latitude": 0.91624,
+      "longitude": 104.48154,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Batu 8 Bawah",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 0.9245,
+      "longitude": 104.50408,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SUKABERENANG",
+      "brand": "Pertamina",
+      "address": "Jl Ir Sutami, Tanjungpinang",
+      "city": "Tanjungpinang",
+      "latitude": 0.91447,
+      "longitude": 104.453,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU Batu 8 Atas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 0.90557,
+      "longitude": 104.48801,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Gas station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": -0.04768,
+      "longitude": 109.49095,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Indah 15/2",
+      "city": "Kepulauan Riau",
+      "latitude": 1.48279,
+      "longitude": 103.65848,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.39678,
+      "longitude": 103.63113,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.78497,
+      "longitude": 103.68291,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.76529,
+      "longitude": 103.69865,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Woodlands Avenue 1 No. 50, Singapore",
+      "city": "Singapore",
+      "latitude": 1.43093,
+      "longitude": 103.78447,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.48729,
+      "longitude": 103.74598,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.72349,
+      "longitude": 103.89887,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Jalan Datin Halimah, Johor Bahru",
+      "city": "Johor Bahru",
+      "latitude": 1.49693,
+      "longitude": 103.73751,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Jalan Yahya Awal, Johor Bahru",
+      "city": "Johor Bahru",
+      "latitude": 1.46515,
+      "longitude": 103.75329,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Jalan Tampoi",
+      "city": "Kepulauan Riau",
+      "latitude": 1.51102,
+      "longitude": 103.73301,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.5468,
+      "longitude": 103.79653,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.6072,
+      "longitude": 103.8213,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.72366,
+      "longitude": 103.89816,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.675,
+      "longitude": 103.85307,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Harmonium 23/14, Johor Bahru",
+      "city": "Johor Bahru",
+      "latitude": 1.55618,
+      "longitude": 103.79536,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 2.42895,
+      "longitude": 103.83403,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.51692,
+      "longitude": 103.70045,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.54769,
+      "longitude": 103.78669,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.54898,
+      "longitude": 103.7429,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.74023,
+      "longitude": 104.05782,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.6305,
+      "longitude": 103.75539,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.49765,
+      "longitude": 103.78934,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Jalan Harimau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.48702,
+      "longitude": 103.76052,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Jalan Harimau Tarom, Johor Bahru",
+      "city": "Johor Bahru",
+      "latitude": 1.48042,
+      "longitude": 103.76385,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC",
+      "brand": "Pertamina",
+      "address": "Punggol Central",
+      "city": "Kepulauan Riau",
+      "latitude": 1.40036,
+      "longitude": 103.90912,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.65943,
+      "longitude": 103.84461,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.05289,
+      "longitude": 103.93057,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 2.38735,
+      "longitude": 103.66551,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.03313,
+      "longitude": 104.65629,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.03844,
+      "longitude": 104.35139,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.755,
+      "longitude": 103.9216,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.50777,
+      "longitude": 103.51201,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.50876,
+      "longitude": 103.50836,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Daya, Johor Bahru",
+      "city": "Johor Bahru",
+      "latitude": 1.5746,
+      "longitude": 103.75867,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.02379,
+      "longitude": 104.0117,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Clementi Avenue 2",
+      "city": "Kepulauan Riau",
+      "latitude": 1.31466,
+      "longitude": 103.76858,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.35757,
+      "longitude": 103.95903,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.36058,
+      "longitude": 103.94767,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Jurong West Street 93 No. 21, Singapore",
+      "city": "Singapore",
+      "latitude": 1.33867,
+      "longitude": 103.6927,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Tampines Street 91",
+      "brand": "Pertamina",
+      "address": "Tampines Street 91, Singapore",
+      "city": "Singapore",
+      "latitude": 1.34866,
+      "longitude": 103.93854,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Pioneer Road No. 19",
+      "city": "Kepulauan Riau",
+      "latitude": 1.31318,
+      "longitude": 103.68754,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC",
+      "brand": "Pertamina",
+      "address": "Ang Mo Kio Avenue 1 No. 1351, Singapore",
+      "city": "Singapore",
+      "latitude": 1.36438,
+      "longitude": 103.84602,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Smart Energy",
+      "brand": "Pertamina",
+      "address": "Serangoon North Avenue 5",
+      "city": "Kepulauan Riau",
+      "latitude": 1.37575,
+      "longitude": 103.86913,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.34514,
+      "longitude": 103.77344,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Jalan Ahmad Ibrahim",
+      "city": "Kepulauan Riau",
+      "latitude": 1.32322,
+      "longitude": 103.69193,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.48249,
+      "longitude": 103.77232,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Jalan Ahmad Ibrahim",
+      "city": "Kepulauan Riau",
+      "latitude": 1.32517,
+      "longitude": 103.72454,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "MacPherson Road No. 465, Singapore",
+      "city": "Singapore",
+      "latitude": 1.33266,
+      "longitude": 103.88366,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Jalan Jurong Kechil No. 37, Singapore",
+      "city": "Singapore",
+      "latitude": 1.33993,
+      "longitude": 103.77477,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Yio Chu Kang Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.38172,
+      "longitude": 103.87652,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Skudai Pontian Highway",
+      "city": "Kepulauan Riau",
+      "latitude": 1.50898,
+      "longitude": 103.50768,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Pendidikan, Skudai",
+      "city": "Skudai",
+      "latitude": 1.54115,
+      "longitude": 103.62808,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Cnergy Queensway",
+      "brand": "Pertamina",
+      "address": "Queensway No. 260, Singapore",
+      "city": "Singapore",
+      "latitude": 1.28931,
+      "longitude": 103.80301,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petrol Station (SPC)",
+      "brand": "Pertamina",
+      "address": "Queensway",
+      "city": "Kepulauan Riau",
+      "latitude": 1.29142,
+      "longitude": 103.80093,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC",
+      "brand": "Pertamina",
+      "address": "Lorong 6 Toa Payoh",
+      "city": "Kepulauan Riau",
+      "latitude": 1.33575,
+      "longitude": 103.85544,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex Chong Pang",
+      "brand": "Pertamina",
+      "address": "Yishun Ring Road No. 3700",
+      "city": "Kepulauan Riau",
+      "latitude": 1.42963,
+      "longitude": 103.83005,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Delta Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.29263,
+      "longitude": 103.82569,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Telok Blangah Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.26936,
+      "longitude": 103.81435,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.29764,
+      "longitude": 103.83818,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso West Coast",
+      "brand": "Pertamina",
+      "address": "West Coast Road No. 181, Singapore",
+      "city": "Singapore",
+      "latitude": 1.30811,
+      "longitude": 103.76114,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Bukit Batok West Avenue 5",
+      "city": "Kepulauan Riau",
+      "latitude": 1.3667,
+      "longitude": 103.75058,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Yishun Avenue 9 No. 10, Singapore",
+      "city": "Singapore",
+      "latitude": 1.43162,
+      "longitude": 103.83985,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC",
+      "brand": "Pertamina",
+      "address": "Yishun Ring Road No. 599",
+      "city": "Kepulauan Riau",
+      "latitude": 1.41741,
+      "longitude": 103.83782,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC",
+      "brand": "Pertamina",
+      "address": "Jalan Buroh",
+      "city": "Kepulauan Riau",
+      "latitude": 1.31483,
+      "longitude": 103.7149,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Indah 5/3",
+      "city": "Kepulauan Riau",
+      "latitude": 1.48447,
+      "longitude": 103.64827,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.2948,
+      "longitude": 103.8164,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "East Coast Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.30826,
+      "longitude": 103.9079,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.37819,
+      "longitude": 103.73798,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Lebuhraya Hubungan Kedua",
+      "city": "Kepulauan Riau",
+      "latitude": 1.40055,
+      "longitude": 103.58713,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.38718,
+      "longitude": 103.59372,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Lebuhraya Hubungan Kedua",
+      "city": "Kepulauan Riau",
+      "latitude": 1.38654,
+      "longitude": 103.59343,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sinopec",
+      "brand": "Pertamina",
+      "address": "Pasir Ris Drive 4 No. 11, Singapore",
+      "city": "Singapore",
+      "latitude": 1.37092,
+      "longitude": 103.96038,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas Desaru",
+      "brand": "Pertamina",
+      "address": "Bandar Penawar",
+      "city": "Bandar Penawar",
+      "latitude": 1.57319,
+      "longitude": 104.20496,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Impian Emas 8 No. Lot PTD 107116, Johor Bahru",
+      "city": "Johor Bahru",
+      "latitude": 1.54218,
+      "longitude": 103.68735,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.52869,
+      "longitude": 103.67054,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Upper Serangoon Road No. 818",
+      "city": "Kepulauan Riau",
+      "latitude": 1.35568,
+      "longitude": 103.88071,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC",
+      "brand": "Pertamina",
+      "address": "Yio Chu Kang Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.35779,
+      "longitude": 103.87533,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.34232,
+      "longitude": 103.7373,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Cnergy",
+      "brand": "Pertamina",
+      "address": "Toh Tuck Avenue No. 50, Singapore",
+      "city": "Singapore",
+      "latitude": 1.33427,
+      "longitude": 103.75886,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SMART Energy",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.41119,
+      "longitude": 103.75776,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.64806,
+      "longitude": 103.62539,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.6503,
+      "longitude": 103.62754,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Bukit Timah Rd No. 141, Singapore",
+      "city": "Singapore",
+      "latitude": 1.31094,
+      "longitude": 103.84277,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.65933,
+      "longitude": 103.62842,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.32472,
+      "longitude": 103.8416,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.34734,
+      "longitude": 103.87165,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Tebrau Highway",
+      "city": "Kepulauan Riau",
+      "latitude": 1.5024,
+      "longitude": 103.76525,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Tebrau Highway",
+      "city": "Kepulauan Riau",
+      "latitude": 1.50371,
+      "longitude": 103.7647,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Jalan Kebun Teh",
+      "city": "Kepulauan Riau",
+      "latitude": 1.49894,
+      "longitude": 103.76502,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC",
+      "brand": "Pertamina",
+      "address": "Balestier Road No. 462",
+      "city": "Kepulauan Riau",
+      "latitude": 1.32671,
+      "longitude": 103.848,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.39117,
+      "longitude": 103.89889,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Punggol Road No. 211, Singapore",
+      "city": "Singapore",
+      "latitude": 1.38511,
+      "longitude": 103.90053,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC",
+      "brand": "Pertamina",
+      "address": "Upper Serangoon Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.35854,
+      "longitude": 103.8828,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.35882,
+      "longitude": 103.88403,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Parit H Husein",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": -0.0643,
+      "longitude": 109.35622,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Cnergy Dunman",
+      "brand": "Pertamina",
+      "address": "Dunman Road No. 743",
+      "city": "Kepulauan Riau",
+      "latitude": 1.30983,
+      "longitude": 103.901,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Jalan Kebun Teh, Johor Bahru",
+      "city": "Johor Bahru",
+      "latitude": 1.48988,
+      "longitude": 103.75677,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Parit Haji Husein 1",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": -0.05543,
+      "longitude": 109.36264,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.49779,
+      "longitude": 103.65589,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.47679,
+      "longitude": 103.66501,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Lorong Chuan No. 384, Singapore",
+      "city": "Singapore",
+      "latitude": 1.36246,
+      "longitude": 103.86816,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Lorong Chuan",
+      "city": "Kepulauan Riau",
+      "latitude": 1.35784,
+      "longitude": 103.86793,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.36867,
+      "longitude": 103.88432,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.31549,
+      "longitude": 103.91906,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "East Coast Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.31105,
+      "longitude": 103.9203,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Changi Road No. 78",
+      "city": "Kepulauan Riau",
+      "latitude": 1.31633,
+      "longitude": 103.90012,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC",
+      "brand": "Pertamina",
+      "address": "Sembawang Road No. 588, Singapore",
+      "city": "Singapore",
+      "latitude": 1.44009,
+      "longitude": 103.82521,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Jalan Buroh",
+      "city": "Kepulauan Riau",
+      "latitude": 1.30469,
+      "longitude": 103.74196,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Upper Changi Road North",
+      "city": "Kepulauan Riau",
+      "latitude": 1.35978,
+      "longitude": 103.96975,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Upper Bukit Timah Road No. 926, Singapore",
+      "city": "Singapore",
+      "latitude": 1.377,
+      "longitude": 103.76257,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.34887,
+      "longitude": 103.83781,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.50606,
+      "longitude": 103.84274,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.27175,
+      "longitude": 103.80709,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 0.89446,
+      "longitude": 108.97499,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Yio Chu Kang Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.36101,
+      "longitude": 103.87391,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex Alexandra",
+      "brand": "Pertamina",
+      "address": "Alexandra Road No. 360, Singapore",
+      "city": "Singapore",
+      "latitude": 1.29041,
+      "longitude": 103.80659,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Holland Road No. 297, Singapore",
+      "city": "Singapore",
+      "latitude": 1.31778,
+      "longitude": 103.78551,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Jalan Beringin",
+      "city": "Kepulauan Riau",
+      "latitude": 1.49063,
+      "longitude": 103.76664,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU ESSO",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.31621,
+      "longitude": 103.83691,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC Bukit Timah",
+      "brand": "Pertamina",
+      "address": "Bukit Timah Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.31805,
+      "longitude": 103.83206,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.31882,
+      "longitude": 103.83345,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Jalan Tampoi, Johor Bahru",
+      "city": "Johor Bahru",
+      "latitude": 1.52003,
+      "longitude": 103.74568,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Tampoi, Johor Bahru",
+      "city": "Johor Bahru",
+      "latitude": 1.5171,
+      "longitude": 103.74447,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.32052,
+      "longitude": 103.9161,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC",
+      "brand": "Pertamina",
+      "address": "Upper East Coast Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.31426,
+      "longitude": 103.93114,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Tebrau Highway, Johor Bahru",
+      "city": "Johor Bahru",
+      "latitude": 1.51405,
+      "longitude": 103.75791,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Tebrau Highway, Johor Bahru",
+      "city": "Johor Bahru",
+      "latitude": 1.51209,
+      "longitude": 103.75954,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Johor Bahru Inner Ring Road, Johor Bahru",
+      "city": "Johor Bahru",
+      "latitude": 1.46733,
+      "longitude": 103.74891,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Yahya Awal Interchange",
+      "brand": "Pertamina",
+      "address": "Jalan Yahya Awal Interchange, Johor Bahru",
+      "city": "Johor Bahru",
+      "latitude": 1.46791,
+      "longitude": 103.74923,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.31105,
+      "longitude": 103.88362,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Yahya Awal, Johor Bahru",
+      "city": "Johor Bahru",
+      "latitude": 1.47586,
+      "longitude": 103.74768,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Jalan Tun Abdul Razak, Johor Bahru",
+      "city": "Johor Bahru",
+      "latitude": 1.48227,
+      "longitude": 103.75295,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Langkasuka",
+      "city": "Kepulauan Riau",
+      "latitude": 1.50352,
+      "longitude": 103.74243,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Jalan Dewata, Johor Bahru",
+      "city": "Johor Bahru",
+      "latitude": 1.50238,
+      "longitude": 103.74928,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Jalan Dewata, Johor Bahru",
+      "city": "Johor Bahru",
+      "latitude": 1.50041,
+      "longitude": 103.74669,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Pasir Panjang Road No. 242A, Singapore",
+      "city": "Singapore",
+      "latitude": 1.28012,
+      "longitude": 103.78558,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Mounbatten Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.30256,
+      "longitude": 103.88427,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sinopec Bukit Timah",
+      "brand": "Pertamina",
+      "address": "Bukit Timah Road No. 623A",
+      "city": "Kepulauan Riau",
+      "latitude": 1.32475,
+      "longitude": 103.80862,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC",
+      "brand": "Pertamina",
+      "address": "Upper Thomson Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.37194,
+      "longitude": 103.82891,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Upper Thomson Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.37047,
+      "longitude": 103.82816,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "East Coast Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.30904,
+      "longitude": 103.91083,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Binjai Park",
+      "city": "Kepulauan Riau",
+      "latitude": 1.33525,
+      "longitude": 103.78674,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Sembawang Road",
+      "brand": "Pertamina",
+      "address": "Sembawang Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.40345,
+      "longitude": 103.81855,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.41636,
+      "longitude": 103.6942,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Sembawang Road No. 593, Singapore",
+      "city": "Singapore",
+      "latitude": 1.44017,
+      "longitude": 103.82454,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Ajunied Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.32436,
+      "longitude": 103.88077,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "MacPherson Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.32872,
+      "longitude": 103.87223,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Upper Ajunied Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.33235,
+      "longitude": 103.87895,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC",
+      "brand": "Pertamina",
+      "address": "MacPherson Road No. 429, Singapore",
+      "city": "Singapore",
+      "latitude": 1.33191,
+      "longitude": 103.88042,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Bedok South Avenue 1",
+      "city": "Kepulauan Riau",
+      "latitude": 1.32233,
+      "longitude": 103.93255,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Geylang Road No. 638",
+      "city": "Kepulauan Riau",
+      "latitude": 1.31423,
+      "longitude": 103.88909,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Jalan Dedap 1",
+      "city": "Kepulauan Riau",
+      "latitude": 1.53235,
+      "longitude": 103.80785,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC Bukit Panjang",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.38336,
+      "longitude": 103.77268,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.49465,
+      "longitude": 103.81294,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.50487,
+      "longitude": 103.82287,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC",
+      "brand": "Pertamina",
+      "address": "Jalan Bukit Merah No. 3800, Singapore",
+      "city": "Singapore",
+      "latitude": 1.28419,
+      "longitude": 103.81856,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC",
+      "brand": "Pertamina",
+      "address": "Commonwealth Avenue No. 490, Singapore",
+      "city": "Singapore",
+      "latitude": 1.30572,
+      "longitude": 103.79521,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Upper Thomson Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.35797,
+      "longitude": 103.82841,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC",
+      "brand": "Pertamina",
+      "address": "Ang Mo Kio Avenue 1",
+      "city": "Kepulauan Riau",
+      "latitude": 1.36544,
+      "longitude": 103.83956,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Tanjong Katong Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.31132,
+      "longitude": 103.89443,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "1091 Woodland Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.43425,
+      "longitude": 103.76202,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.32495,
+      "longitude": 103.82694,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Balestier Road No. 542",
+      "city": "Kepulauan Riau",
+      "latitude": 1.32677,
+      "longitude": 103.84524,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Jalan Buroh",
+      "city": "Kepulauan Riau",
+      "latitude": 1.30963,
+      "longitude": 103.755,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Upper Thomson Road",
+      "city": "Kepulauan Riau",
+      "latitude": 1.37308,
+      "longitude": 103.82895,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Holland Road No. 174, Singapore",
+      "city": "Singapore",
+      "latitude": 1.31247,
+      "longitude": 103.79622,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Bacang 36, Pasir Gudang",
+      "city": "Pasir Gudang",
+      "latitude": 1.49119,
+      "longitude": 103.92699,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Kota Masai 2, Pasir Gudang",
+      "city": "Pasir Gudang",
+      "latitude": 1.48412,
+      "longitude": 103.94777,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.45463,
+      "longitude": 103.90508,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.67512,
+      "longitude": 104.01922,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Kota Tinggi",
+      "city": "Kepulauan Riau",
+      "latitude": 1.57244,
+      "longitude": 103.81327,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Kota Tinggi",
+      "city": "Kepulauan Riau",
+      "latitude": 1.56839,
+      "longitude": 103.81265,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.52164,
+      "longitude": 103.81763,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.49373,
+      "longitude": 103.80083,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Jalan Masai Lama",
+      "city": "Kepulauan Riau",
+      "latitude": 1.52039,
+      "longitude": 103.82161,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.52444,
+      "longitude": 103.81677,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Jalan Masai Lama, Masai",
+      "city": "Masai",
+      "latitude": 1.52731,
+      "longitude": 103.81655,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 0.89248,
+      "longitude": 109.01514,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.66754,
+      "longitude": 103.58887,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas Jalan Tampoi 3",
+      "brand": "Pertamina",
+      "address": "Jalan Tampoi",
+      "city": "Kepulauan Riau",
+      "latitude": 1.50581,
+      "longitude": 103.71472,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC Sumang",
+      "brand": "Pertamina",
+      "address": "Sumang Link No. 10, Singapore",
+      "city": "Singapore",
+      "latitude": 1.41035,
+      "longitude": 103.90099,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.36911,
+      "longitude": 103.54823,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Persiaran Cahaya Masai, Pasir Gudang",
+      "city": "Pasir Gudang",
+      "latitude": 1.50562,
+      "longitude": 103.9226,
+      "is_24_hours": true,
+      "facilities": "Toilet • ATM",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Jalan Kong Kong, Pasir Gudang",
+      "city": "Pasir Gudang",
+      "latitude": 1.49303,
+      "longitude": 103.91901,
+      "is_24_hours": true,
+      "facilities": "Toilet • ATM",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 2.43496,
+      "longitude": 103.83457,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Tampoi",
+      "city": "Kepulauan Riau",
+      "latitude": 1.51023,
+      "longitude": 103.72401,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Skudai Highway",
+      "city": "Kepulauan Riau",
+      "latitude": 1.50018,
+      "longitude": 103.69737,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Tun Abdul Razak Susur 5",
+      "city": "Kepulauan Riau",
+      "latitude": 1.48813,
+      "longitude": 103.74462,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.87766,
+      "longitude": 103.61107,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.51382,
+      "longitude": 103.63467,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso Petrol Station",
+      "brand": "Pertamina",
+      "address": "Sengkang West Way No. 150, Singapore",
+      "city": "Singapore",
+      "latitude": 1.39529,
+      "longitude": 103.88034,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.65823,
+      "longitude": 103.58606,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Kempas Lama",
+      "brand": "Pertamina",
+      "address": "Jalan Kempas Lama",
+      "city": "Kepulauan Riau",
+      "latitude": 1.54434,
+      "longitude": 103.69777,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.7167,
+      "longitude": 103.96202,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.52384,
+      "longitude": 103.6778,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.5455,
+      "longitude": 103.68368,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Jalan Persekutuan 1",
+      "city": "Kepulauan Riau",
+      "latitude": 1.58769,
+      "longitude": 103.64879,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.59245,
+      "longitude": 103.64761,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Persekutuan 1",
+      "city": "Kepulauan Riau",
+      "latitude": 1.58847,
+      "longitude": 103.64771,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Jalan Persekutuan 1",
+      "city": "Kepulauan Riau",
+      "latitude": 1.59142,
+      "longitude": 103.64714,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.67408,
+      "longitude": 103.53203,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.03706,
+      "longitude": 103.97666,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Pusat Bandar",
+      "city": "Kepulauan Riau",
+      "latitude": 1.47362,
+      "longitude": 103.93237,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.51051,
+      "longitude": 103.83218,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron Jalan Tun Abdul Razak",
+      "brand": "Pertamina",
+      "address": "Jalan Tun Abdul Razak No. 18, Johor Bahru",
+      "city": "Johor Bahru",
+      "latitude": 1.45952,
+      "longitude": 103.76585,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Rosmerah 2/1",
+      "city": "Kepulauan Riau",
+      "latitude": 1.53451,
+      "longitude": 103.79437,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Jalan Rosmerah Utama No. Lot 26289, Johor Bahru",
+      "city": "Johor Bahru",
+      "latitude": 1.53366,
+      "longitude": 103.79611,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Jalan Persiaran Molek Utama",
+      "city": "Kepulauan Riau",
+      "latitude": 1.52868,
+      "longitude": 103.79125,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Persiaran Molek Utama",
+      "city": "Kepulauan Riau",
+      "latitude": 1.52322,
+      "longitude": 103.78613,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Tebrau Highway",
+      "city": "Kepulauan Riau",
+      "latitude": 1.51361,
+      "longitude": 103.75909,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.47577,
+      "longitude": 103.76295,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.54026,
+      "longitude": 103.76767,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Jalan Rambai 10",
+      "city": "Kepulauan Riau",
+      "latitude": 1.48486,
+      "longitude": 103.94966,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Jalan Pandan",
+      "city": "Kepulauan Riau",
+      "latitude": 1.52487,
+      "longitude": 103.76992,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Bertam 23",
+      "city": "Kepulauan Riau",
+      "latitude": 1.54107,
+      "longitude": 103.76797,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Jalan Baja",
+      "city": "Kepulauan Riau",
+      "latitude": 1.4437,
+      "longitude": 103.9134,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Pasir Gudang Highway",
+      "city": "Kepulauan Riau",
+      "latitude": 1.52959,
+      "longitude": 103.75861,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Pasir Gudang Highway",
+      "city": "Kepulauan Riau",
+      "latitude": 1.52999,
+      "longitude": 103.75932,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Pasir Gudang Highway",
+      "city": "Kepulauan Riau",
+      "latitude": 1.53005,
+      "longitude": 103.75694,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Pasir Gudang Highway",
+      "city": "Kepulauan Riau",
+      "latitude": 1.53949,
+      "longitude": 103.77901,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Pusat Bandar, Pasir Gudang",
+      "city": "Pasir Gudang",
+      "latitude": 1.47006,
+      "longitude": 103.90507,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.56545,
+      "longitude": 103.60144,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Lebuhraya Utara–Selatan",
+      "city": "Kepulauan Riau",
+      "latitude": 1.57993,
+      "longitude": 103.64938,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Jalan Persiaran Tanjung",
+      "city": "Kepulauan Riau",
+      "latitude": 1.51368,
+      "longitude": 103.70649,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Padi Ria",
+      "city": "Kepulauan Riau",
+      "latitude": 1.50087,
+      "longitude": 103.71811,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Lebuhraya Utara–Selatan",
+      "city": "Kepulauan Riau",
+      "latitude": 1.57935,
+      "longitude": 103.65034,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Pandan",
+      "city": "Kepulauan Riau",
+      "latitude": 1.52505,
+      "longitude": 103.77276,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Lebuhraya Pasir Gudang",
+      "city": "Kepulauan Riau",
+      "latitude": 1.52267,
+      "longitude": 103.73068,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Bukit Kempas 1/5",
+      "city": "Kepulauan Riau",
+      "latitude": 1.52622,
+      "longitude": 103.6963,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Kempas Baru",
+      "city": "Kepulauan Riau",
+      "latitude": 1.52951,
+      "longitude": 103.72085,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Lurah 23",
+      "city": "Kepulauan Riau",
+      "latitude": 1.53294,
+      "longitude": 103.71688,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Jalan Gelang Patah-Ulu Choh",
+      "city": "Kepulauan Riau",
+      "latitude": 1.47765,
+      "longitude": 103.58337,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.51821,
+      "longitude": 103.7441,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Skudai Highway",
+      "city": "Kepulauan Riau",
+      "latitude": 1.5392,
+      "longitude": 103.66085,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Skudai Highway",
+      "city": "Kepulauan Riau",
+      "latitude": 1.48861,
+      "longitude": 103.72906,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Pasir Gudang Highway",
+      "city": "Kepulauan Riau",
+      "latitude": 1.50164,
+      "longitude": 103.68673,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Jalan Persisiran Perling",
+      "city": "Kepulauan Riau",
+      "latitude": 1.49924,
+      "longitude": 103.68211,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Lebuhraya Hubungan Kedua",
+      "city": "Kepulauan Riau",
+      "latitude": 1.39995,
+      "longitude": 103.58692,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.28447,
+      "longitude": 103.81504,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Lebuhraya Pasir Gudang",
+      "city": "Kepulauan Riau",
+      "latitude": 1.52457,
+      "longitude": 103.73299,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Lebuhraya Skudai",
+      "city": "Kepulauan Riau",
+      "latitude": 1.62855,
+      "longitude": 103.63731,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Lebuhraya Skudai",
+      "city": "Kepulauan Riau",
+      "latitude": 1.62739,
+      "longitude": 103.63872,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Lebuhraya Skudai",
+      "city": "Kepulauan Riau",
+      "latitude": 1.63133,
+      "longitude": 103.63435,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.56611,
+      "longitude": 103.61264,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.55838,
+      "longitude": 103.59601,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Pasir Gudang",
+      "city": "Pasir Gudang",
+      "latitude": 1.50226,
+      "longitude": 103.90206,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 2.41701,
+      "longitude": 103.83932,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 2.4273,
+      "longitude": 103.83496,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 2.43345,
+      "longitude": 103.83413,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol Tenggaroh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 2.09715,
+      "longitude": 103.86914,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Kota Tinggi-Kulai",
+      "city": "Jalan Kota Tinggi-Kulai",
+      "latitude": 1.67151,
+      "longitude": 103.60776,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.73256,
+      "longitude": 103.91478,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.51347,
+      "longitude": 103.65673,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.52602,
+      "longitude": 103.66496,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.54542,
+      "longitude": 103.65444,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.50771,
+      "longitude": 103.63942,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.60589,
+      "longitude": 104.09049,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.55104,
+      "longitude": 103.73941,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.5388,
+      "longitude": 103.62812,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.53824,
+      "longitude": 103.62982,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.47372,
+      "longitude": 103.66876,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.47611,
+      "longitude": 103.67936,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.48547,
+      "longitude": 103.63862,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.52649,
+      "longitude": 103.66573,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.5452,
+      "longitude": 103.64459,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.639,
+      "longitude": 103.62587,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.63947,
+      "longitude": 103.61895,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Jalan Siakap, Kampung Sungai Rengit No. 41A, Bandar Penawar, Johor",
+      "city": "Bandar Penawar, Johor",
+      "latitude": 1.35376,
+      "longitude": 104.22677,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.37401,
+      "longitude": 104.22503,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.73352,
+      "longitude": 103.90434,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.73633,
+      "longitude": 103.90801,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.7423,
+      "longitude": 103.91873,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.50888,
+      "longitude": 103.68827,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.50815,
+      "longitude": 103.68871,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.71929,
+      "longitude": 103.88863,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.65028,
+      "longitude": 103.57854,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.61043,
+      "longitude": 103.66999,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.48499,
+      "longitude": 103.8916,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.52455,
+      "longitude": 103.64504,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Jalan Kempas",
+      "city": "Kepulauan Riau",
+      "latitude": 1.51669,
+      "longitude": 103.72898,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.49276,
+      "longitude": 103.86728,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas Taman Setia Indah 1",
+      "brand": "Pertamina",
+      "address": "Jalan Setia 1, Johor Bahru",
+      "city": "Johor Bahru",
+      "latitude": 1.56955,
+      "longitude": 103.75475,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 2.66489,
+      "longitude": 103.61612,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 2.40394,
+      "longitude": 103.85176,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.49622,
+      "longitude": 103.53052,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.49803,
+      "longitude": 103.6989,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sinopec Woodlands",
+      "brand": "Pertamina",
+      "address": "Woodlands Avenue 5 No. 150, Singapore",
+      "city": "Singapore",
+      "latitude": 1.43266,
+      "longitude": 103.79876,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Jalan R&R Skudai, Kawasan R&R Skudai No. 13, Senai",
+      "city": "Senai",
+      "latitude": 1.58978,
+      "longitude": 103.63516,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Jalan R&R Skudai, Senai",
+      "city": "Senai",
+      "latitude": 1.58974,
+      "longitude": 103.63591,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.59484,
+      "longitude": 103.62949,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.83946,
+      "longitude": 103.62522,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.65668,
+      "longitude": 103.50815,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.06799,
+      "longitude": 104.22887,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.60771,
+      "longitude": 103.82246,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron Skudai 2",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.53305,
+      "longitude": 103.66579,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.63395,
+      "longitude": 103.66222,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.63359,
+      "longitude": 103.66138,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.56207,
+      "longitude": 103.75883,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.54399,
+      "longitude": 103.76239,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas KM7 Jalan Skudai",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.48654,
+      "longitude": 103.71535,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.66915,
+      "longitude": 103.56729,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sinopec",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.42036,
+      "longitude": 103.84805,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso Bukit Timah",
+      "brand": "Pertamina",
+      "address": "Bukit Timah Road No. 751, Singapore",
+      "city": "Singapore",
+      "latitude": 1.33,
+      "longitude": 103.79901,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC Adam Road",
+      "brand": "Pertamina",
+      "address": "Adam Road No. 31, Singapore",
+      "city": "Singapore",
+      "latitude": 1.32824,
+      "longitude": 103.8137,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.49238,
+      "longitude": 103.87737,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.50958,
+      "longitude": 103.92289,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.5676,
+      "longitude": 103.59477,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas Bandar Dato'",
+      "brand": "Pertamina",
+      "address": "Jalan Dato' Onn Utama, Johor Bahru",
+      "city": "Johor Bahru",
+      "latitude": 1.56114,
+      "longitude": 103.7322,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.55704,
+      "longitude": 103.80165,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.55425,
+      "longitude": 103.8021,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.56305,
+      "longitude": 103.80666,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.5625,
+      "longitude": 103.80582,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Senggarang",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 0.9588,
+      "longitude": 104.45182,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 0.91077,
+      "longitude": 108.99677,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 0.90053,
+      "longitude": 108.98731,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 0.91667,
+      "longitude": 108.98277,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 0.92809,
+      "longitude": 108.98475,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.59137,
+      "longitude": 103.64815,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex Taman Mutiara Rini",
+      "brand": "Pertamina",
+      "address": "Jalan Gelang Patah-Skudai, Skudai",
+      "city": "Skudai",
+      "latitude": 1.51626,
+      "longitude": 103.63402,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Jalan Kepas Lama No. Lot 2989, Johor Bahru",
+      "city": "Johor Bahru",
+      "latitude": 1.57124,
+      "longitude": 103.71861,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Refuelling Station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.27008,
+      "longitude": 103.79321,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.49929,
+      "longitude": 103.73599,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Daya",
+      "city": "Kepulauan Riau",
+      "latitude": 1.53656,
+      "longitude": 103.76237,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.47019,
+      "longitude": 103.65424,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Riau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.47753,
+      "longitude": 103.86439,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC Tanjong Katong",
+      "brand": "Pertamina",
+      "address": "Swanage Road No. 1, Singapore",
+      "city": "Singapore",
+      "latitude": 1.30828,
+      "longitude": 103.8946,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex Tanjong Katong",
+      "brand": "Pertamina",
+      "address": "Tanjong Katong Road No. 265, Singapore",
+      "city": "Singapore",
+      "latitude": 1.30749,
+      "longitude": 103.89568,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso Choa Chu Kang Way",
+      "brand": "Pertamina",
+      "address": "Choa Chu Kang Way No. 31, Singapore",
+      "city": "Singapore",
+      "latitude": 1.37753,
+      "longitude": 103.75018,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.50407,
+      "longitude": 103.88458,
+      "is_24_hours": true,
+      "facilities": "ATM",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Caltex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.43589,
+      "longitude": 103.61842,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.50216,
+      "longitude": 103.6554,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.52186,
+      "longitude": 103.5489,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.45129,
+      "longitude": 103.59601,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petronas",
+      "brand": "Pertamina",
+      "address": "Jalan Pontian Lama",
+      "city": "Kepulauan Riau",
+      "latitude": 1.56334,
+      "longitude": 103.61592,
+      "is_24_hours": true,
+      "facilities": "ATM",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BHPetrol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 2.45123,
+      "longitude": 103.83,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPC Admiralty Road",
+      "brand": "Pertamina",
+      "address": "Admiralty Road No. 250, Singapore",
+      "city": "Singapore",
+      "latitude": 1.44251,
+      "longitude": 103.77629,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Singapore",
+      "brand": "Pertamina",
+      "address": "Singapore",
+      "city": "Singapore",
+      "latitude": 1.37578,
+      "longitude": 103.71314,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Pasir Ris Drive 1",
+      "city": "Kepulauan Riau",
+      "latitude": 1.37496,
+      "longitude": 103.9406,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Jalan Tanah Kuning, Kijang Kota",
+      "city": "Kijang Kota",
+      "latitude": 0.84196,
+      "longitude": 104.60466,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU 13.291.701 KM 19 Kijang",
+      "brand": "Pertamina",
+      "address": "Jalan Nusantara, Gunung Lengkuas",
+      "city": "Gunung Lengkuas",
+      "latitude": 0.88976,
+      "longitude": 104.57372,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Tanjung Uban Lama",
+      "brand": "Pertamina",
+      "address": "Jalan Tanjung Uban Lama, Tanjungpinang",
+      "city": "Tanjungpinang",
+      "latitude": 0.92007,
+      "longitude": 104.51151,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Esso",
+      "brand": "Pertamina",
+      "address": "Choa Chu Kang Drive No. 50, Singapore",
+      "city": "Singapore",
+      "latitude": 1.39529,
+      "longitude": 103.74731,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petron",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Riau",
+      "city": "Kepulauan Riau",
+      "latitude": 1.45462,
+      "longitude": 103.58456,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
       ]
     }
   ]

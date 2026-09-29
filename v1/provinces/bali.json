@@ -1,7 +1,7 @@
 {
   "province": "Bali",
   "province_slug": "bali",
-  "total_stations": 2,
+  "total_stations": 293,
   "updated_at": "2026-09-30",
   "stations": [
     {
@@ -35,6 +35,4589 @@
         "Pertamax Turbo",
         "Dexlite",
         "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.35256,
+      "longitude": 114.60395,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.3248,
+      "longitude": 114.54098,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.3398,
+      "longitude": 115.03203,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Bypass Ngurah Rai",
+      "brand": "Pertamina",
+      "address": "Jalan Bypass Ngurah Rai, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.72123,
+      "longitude": 115.19429,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.71371,
+      "longitude": 115.22316,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.50249,
+      "longitude": 115.13503,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Gas Station Sunset Road 54.803.31",
+      "brand": "Pertamina",
+      "address": "Sunset Road No. 27, Kuta, Kabupaten Badung, Bali, Indonesia",
+      "city": "Kuta, Kabupaten Badung, Bali, Indonesia",
+      "latitude": -8.71295,
+      "longitude": 115.18591,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.75261,
+      "longitude": 115.21809,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.74336,
+      "longitude": 115.17501,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.47708,
+      "longitude": 115.61576,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.72085,
+      "longitude": 115.18019,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.54499,
+      "longitude": 115.21456,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Gas Station 54.803.20",
+      "brand": "Pertamina",
+      "address": "Jalan Dewi Sri, Legian, Kuta, Kabupaten Badung, Bali, Indonesia",
+      "city": "Legian, Kuta, Kabupaten Badung, Bali, Indonesia",
+      "latitude": -8.70261,
+      "longitude": 115.17571,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Bypass Ngurah Rai",
+      "brand": "Pertamina",
+      "address": "Jalan Bypass Ngurah Rai, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.67234,
+      "longitude": 115.2588,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 54.801.32",
+      "brand": "Pertamina",
+      "address": "Jalan Gunung Soputan No. 29, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.687,
+      "longitude": 115.18673,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Uluwatu 2",
+      "brand": "Pertamina",
+      "address": "Jalan Uluwatu 2, Jimbaran",
+      "city": "Jimbaran",
+      "latitude": -8.78198,
+      "longitude": 115.17485,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.3843,
+      "longitude": 115.19544,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.56027,
+      "longitude": 115.15397,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.63089,
+      "longitude": 115.13276,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.60231,
+      "longitude": 115.26085,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Bypass Ngurah Rai",
+      "brand": "Pertamina",
+      "address": "Jalan Bypass Ngurah Rai, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.65164,
+      "longitude": 115.25418,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.54397,
+      "longitude": 115.21465,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.43749,
+      "longitude": 115.59282,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.62418,
+      "longitude": 115.25712,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.62946,
+      "longitude": 115.17298,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pompa Bensin",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.64901,
+      "longitude": 115.18638,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Sunset Road",
+      "brand": "Pertamina",
+      "address": "Sunset Road, Kuta",
+      "city": "Kuta",
+      "latitude": -8.71515,
+      "longitude": 115.18631,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.54363,
+      "longitude": 115.14073,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.52006,
+      "longitude": 115.17435,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.33372,
+      "longitude": 115.18667,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 54.803.19",
+      "brand": "Pertamina",
+      "address": "Sunset Road, Seminyak, Benoa, Kuta Selatan, Kabupaten Badung, Bali, Indonesia",
+      "city": "Seminyak, Benoa, Kuta Selatan, Kabupaten Badung, Bali, Indonesia",
+      "latitude": -8.68902,
+      "longitude": 115.17178,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.67429,
+      "longitude": 115.25422,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.67728,
+      "longitude": 115.2321,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Raya Puputan",
+      "brand": "Pertamina",
+      "address": "Raya Puputan, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.67301,
+      "longitude": 115.22621,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.67308,
+      "longitude": 115.24012,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.40435,
+      "longitude": 115.58842,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.18632,
+      "longitude": 114.97747,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.75788,
+      "longitude": 115.16874,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 54.803.06 Gas Station",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Kerobokan, Kerobokan Kelod, Kuta Utara, Kabupaten Badung, Bali, Indonesia",
+      "city": "Kerobokan Kelod, Kuta Utara, Kabupaten Badung, Bali, Indonesia",
+      "latitude": -8.67298,
+      "longitude": 115.16518,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.66681,
+      "longitude": 115.23152,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.82016,
+      "longitude": 115.14985,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.72406,
+      "longitude": 115.23128,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Kamboja",
+      "brand": "Pertamina",
+      "address": "Jalan Kamboja, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.65666,
+      "longitude": 115.22508,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.19109,
+      "longitude": 114.93267,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.54693,
+      "longitude": 115.48592,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 54.805.12",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.52316,
+      "longitude": 115.27594,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Hayam Wuruk",
+      "brand": "Pertamina",
+      "address": "Jalan Hayam Wuruk, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.66637,
+      "longitude": 115.24156,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Tukad Pakerisan",
+      "brand": "Pertamina",
+      "address": "Tukad Pakerisan, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.68622,
+      "longitude": 115.22638,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Hayam Wuruk",
+      "brand": "Pertamina",
+      "address": "Jalan Hayam Wuruk, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.66037,
+      "longitude": 115.2394,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Raya Sesetan",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Sesetan, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.67897,
+      "longitude": 115.21491,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.5118,
+      "longitude": 115.50188,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.50346,
+      "longitude": 115.55834,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.08248,
+      "longitude": 115.14324,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.14501,
+      "longitude": 115.04995,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.11527,
+      "longitude": 115.07973,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.23454,
+      "longitude": 115.55207,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Suwung Batan Kendal",
+      "brand": "Pertamina",
+      "address": "Suwung Batan Kendal, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.71078,
+      "longitude": 115.22349,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.7145,
+      "longitude": 115.2158,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Gunung Batukaru",
+      "brand": "Pertamina",
+      "address": "Jalan Gunung Batukaru, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.65971,
+      "longitude": 115.20316,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.5527,
+      "longitude": 115.44028,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 54.801.35",
+      "brand": "Pertamina",
+      "address": "Jalan Bypass Gatot Subroto, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.63826,
+      "longitude": 115.20897,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.36216,
+      "longitude": 115.19103,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Bypass Gatot Subroto",
+      "brand": "Pertamina",
+      "address": "Jalan Bypass Gatot Subroto, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.63594,
+      "longitude": 115.21873,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Raya Semebaung",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Semebaung",
+      "city": "Bali",
+      "latitude": -8.535,
+      "longitude": 115.30661,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 54.803.18",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.54909,
+      "longitude": 115.23857,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.49891,
+      "longitude": 115.03422,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.63594,
+      "longitude": 115.23773,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.63644,
+      "longitude": 115.25194,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.79179,
+      "longitude": 115.2144,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.40201,
+      "longitude": 115.58969,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Imam Bonjol",
+      "brand": "Pertamina",
+      "address": "Jalan Imam Bonjol, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.6752,
+      "longitude": 115.20234,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.57489,
+      "longitude": 115.27624,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.56688,
+      "longitude": 115.27476,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Petrol Station",
+      "brand": "Pertamina",
+      "address": "Jalan Imam Bonjol, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.69587,
+      "longitude": 115.18713,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Pura Demak",
+      "brand": "Pertamina",
+      "address": "Jalan Pura Demak, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.68142,
+      "longitude": 115.19262,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.36288,
+      "longitude": 115.34609,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Kebo Iwa",
+      "brand": "Pertamina",
+      "address": "Jalan Kebo Iwa, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.63642,
+      "longitude": 115.18535,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.46697,
+      "longitude": 115.35249,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.2646,
+      "longitude": 115.0513,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.34857,
+      "longitude": 114.89584,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.64153,
+      "longitude": 115.27829,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pompa bensin",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.60607,
+      "longitude": 115.23607,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Bypass Gatot Subroto",
+      "brand": "Pertamina",
+      "address": "Jalan Bypass Gatot Subroto, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.63893,
+      "longitude": 115.20392,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.60181,
+      "longitude": 115.32479,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.58101,
+      "longitude": 115.35262,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.55381,
+      "longitude": 115.2515,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.46274,
+      "longitude": 115.2976,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.17729,
+      "longitude": 114.75006,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.20388,
+      "longitude": 114.88405,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.32279,
+      "longitude": 115.61914,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Small place",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.27858,
+      "longitude": 115.37934,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.56552,
+      "longitude": 115.28801,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pom bensin blahbatuh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.56625,
+      "longitude": 115.30498,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pelumas Pertamina 54.805.09",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.5288,
+      "longitude": 115.27171,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.61216,
+      "longitude": 115.30929,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.63578,
+      "longitude": 115.28722,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.79352,
+      "longitude": 115.12915,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.19181,
+      "longitude": 114.95006,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.67789,
+      "longitude": 115.57178,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.40877,
+      "longitude": 115.2449,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.67707,
+      "longitude": 115.53272,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan WR Supratman",
+      "brand": "Pertamina",
+      "address": "Jalan WR Supratman, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.64139,
+      "longitude": 115.2518,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.78458,
+      "longitude": 115.19683,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jl. Batur Raya",
+      "brand": "Pertamina",
+      "address": "Jl. Batur Raya, Jimbaran",
+      "city": "Jimbaran",
+      "latitude": -8.7844,
+      "longitude": 115.1881,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.78336,
+      "longitude": 115.18682,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Pulau Kawe",
+      "brand": "Pertamina",
+      "address": "Jalan Pulau Kawe, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.67676,
+      "longitude": 115.2071,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.18244,
+      "longitude": 114.43871,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.63721,
+      "longitude": 115.17697,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.56333,
+      "longitude": 115.26165,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.16473,
+      "longitude": 115.02131,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Bypass Gatot Subroto",
+      "brand": "Pertamina",
+      "address": "Jalan Bypass Gatot Subroto, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.63653,
+      "longitude": 115.19475,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.67055,
+      "longitude": 115.19096,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.71327,
+      "longitude": 115.22484,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Bensin motorbike",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.76608,
+      "longitude": 115.59282,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.59416,
+      "longitude": 115.18675,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.57212,
+      "longitude": 115.13915,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.28596,
+      "longitude": 114.97681,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.71779,
+      "longitude": 115.20221,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.69538,
+      "longitude": 115.25907,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.77038,
+      "longitude": 115.17819,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.6386,
+      "longitude": 115.17421,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Teuku Umar Barat",
+      "brand": "Pertamina",
+      "address": "Jalan Teuku Umar Barat, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.68214,
+      "longitude": 115.19136,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.67888,
+      "longitude": 115.49008,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.2007,
+      "longitude": 114.83214,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.71834,
+      "longitude": 115.52295,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.26646,
+      "longitude": 115.05472,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.44834,
+      "longitude": 115.23947,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.42692,
+      "longitude": 115.68395,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.44371,
+      "longitude": 115.57883,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.09528,
+      "longitude": 115.11176,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.56848,
+      "longitude": 115.37462,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.4512,
+      "longitude": 115.31849,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.80798,
+      "longitude": 115.11522,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.69281,
+      "longitude": 115.44932,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.68829,
+      "longitude": 115.43778,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.44786,
+      "longitude": 115.28057,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.45236,
+      "longitude": 115.27971,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.45331,
+      "longitude": 115.27961,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.64561,
+      "longitude": 115.16043,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.76911,
+      "longitude": 115.17182,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pompa Bensin",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.12721,
+      "longitude": 115.0793,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pompa Bensin",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.11315,
+      "longitude": 115.08267,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 54.684.09",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.11486,
+      "longitude": 114.40132,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.43964,
+      "longitude": 115.30811,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.3182,
+      "longitude": 115.34671,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.44466,
+      "longitude": 115.36279,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Bunutin",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.51337,
+      "longitude": 115.34547,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Buwit",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.61739,
+      "longitude": 115.11615,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.08533,
+      "longitude": 115.17515,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.42836,
+      "longitude": 115.42332,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.32705,
+      "longitude": 115.22266,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Small garage",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.28871,
+      "longitude": 115.47995,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.41545,
+      "longitude": 115.28074,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.41853,
+      "longitude": 115.29836,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.32949,
+      "longitude": 115.32565,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pom Bensin 54.803.01",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.61213,
+      "longitude": 115.19249,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.66407,
+      "longitude": 115.15335,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.34842,
+      "longitude": 114.57858,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 54.822.16",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.35759,
+      "longitude": 114.6246,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.36646,
+      "longitude": 114.66158,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.40139,
+      "longitude": 114.77905,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.44178,
+      "longitude": 114.87113,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.49569,
+      "longitude": 115.04923,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 54.821.04",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.54959,
+      "longitude": 115.12316,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.23701,
+      "longitude": 115.13859,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.17589,
+      "longitude": 115.00364,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.32928,
+      "longitude": 115.17194,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.46902,
+      "longitude": 115.13722,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.45449,
+      "longitude": 115.13851,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Kerobokan, Kerobokan Kelod, North Kuta, Bali",
+      "city": "Kerobokan Kelod, North Kuta, Bali",
+      "latitude": -8.67365,
+      "longitude": 115.17781,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.62455,
+      "longitude": 115.20898,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.5625,
+      "longitude": 115.22044,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Darmasaba",
+      "brand": "Pertamina",
+      "address": "Darmasaba",
+      "city": "Darmasaba",
+      "latitude": -8.58958,
+      "longitude": 115.2157,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.36764,
+      "longitude": 115.30749,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.26823,
+      "longitude": 115.34229,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.14094,
+      "longitude": 115.20028,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.17443,
+      "longitude": 115.18777,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.27915,
+      "longitude": 115.37803,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.17712,
+      "longitude": 115.46472,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.11849,
+      "longitude": 115.18728,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.13901,
+      "longitude": 115.21382,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.21297,
+      "longitude": 115.32377,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.12639,
+      "longitude": 115.21675,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.28718,
+      "longitude": 115.31954,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.42397,
+      "longitude": 115.24627,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.19454,
+      "longitude": 115.29068,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.09176,
+      "longitude": 115.17589,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.13126,
+      "longitude": 115.21034,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PetraMINA",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.14988,
+      "longitude": 115.05715,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.43773,
+      "longitude": 115.47939,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.41519,
+      "longitude": 115.57931,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.42617,
+      "longitude": 115.4415,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.40368,
+      "longitude": 115.42096,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.39067,
+      "longitude": 115.59749,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.42167,
+      "longitude": 115.68343,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.34063,
+      "longitude": 115.61911,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.46265,
+      "longitude": 115.62582,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.45292,
+      "longitude": 115.65199,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.42641,
+      "longitude": 115.68092,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.53144,
+      "longitude": 115.49593,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.54773,
+      "longitude": 115.48523,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.52274,
+      "longitude": 115.36516,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.07911,
+      "longitude": 115.21992,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.71092,
+      "longitude": 115.2335,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamini",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.35192,
+      "longitude": 115.5891,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamini",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.40705,
+      "longitude": 115.48426,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamini",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.26623,
+      "longitude": 115.0537,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.27032,
+      "longitude": 115.06155,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.27281,
+      "longitude": 115.05737,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.69609,
+      "longitude": 115.45193,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Cửa hàng Xăng dầu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.11403,
+      "longitude": 115.1351,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PetraMini",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.14912,
+      "longitude": 115.09814,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fuel Station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.46312,
+      "longitude": 115.40603,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fuel Station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.51078,
+      "longitude": 115.40205,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fuel Station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.30929,
+      "longitude": 115.39684,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fuel Station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.36527,
+      "longitude": 115.41912,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.14657,
+      "longitude": 115.24728,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fuel Station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.48585,
+      "longitude": 115.40117,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fuel Station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.50482,
+      "longitude": 115.21035,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fuel Station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.25996,
+      "longitude": 115.0277,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fuel Station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.52198,
+      "longitude": 115.21379,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fuel Station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.2953,
+      "longitude": 115.17403,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Cửa hàng Xăng dầu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.25291,
+      "longitude": 114.98121,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fuel Station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.27667,
+      "longitude": 114.97083,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fuel Station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.37118,
+      "longitude": 114.6256,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fuel Station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.26614,
+      "longitude": 114.96965,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Cửa hàng Xăng dầu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.16654,
+      "longitude": 114.50705,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Cửa hàng Xăng dầu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.14423,
+      "longitude": 114.59547,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fuel Station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.38246,
+      "longitude": 114.59751,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.30241,
+      "longitude": 114.51608,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fuel Station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.36082,
+      "longitude": 114.57181,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fuel Station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.55254,
+      "longitude": 115.07647,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fuel Station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.49252,
+      "longitude": 114.95845,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fuel Station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.50855,
+      "longitude": 115.07788,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fuel Station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.43781,
+      "longitude": 114.86383,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petramini",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.19156,
+      "longitude": 114.95883,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.65045,
+      "longitude": 115.20905,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Toyaning II",
+      "brand": "Pertamina",
+      "address": "Jalan Toyaning II",
+      "city": "Bali",
+      "latitude": -8.82574,
+      "longitude": 115.15108,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.83186,
+      "longitude": 115.20505,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamini",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.7066,
+      "longitude": 115.25312,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.45564,
+      "longitude": 115.60163,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.43752,
+      "longitude": 115.19627,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Uluwatu",
+      "brand": "Pertamina",
+      "address": "Jalan Uluwatu, Ungasan",
+      "city": "Ungasan",
+      "latitude": -8.79786,
+      "longitude": 115.16122,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Raya Sesetan",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Sesetan, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.69965,
+      "longitude": 115.21946,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.70916,
+      "longitude": 115.22107,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan H.O.S. Cokroaminoto",
+      "brand": "Pertamina",
+      "address": "Jalan H.O.S. Cokroaminoto, Denpasar",
+      "city": "Denpasar",
+      "latitude": -8.64476,
+      "longitude": 115.20958,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.73898,
+      "longitude": 115.17984,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.80641,
+      "longitude": 115.2011,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.25785,
+      "longitude": 115.16173,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.10247,
+      "longitude": 115.28363,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.52419,
+      "longitude": 115.26371,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.79345,
+      "longitude": 115.21519,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.52774,
+      "longitude": 115.24378,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.52628,
+      "longitude": 115.29506,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.67777,
+      "longitude": 115.21162,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.54037,
+      "longitude": 115.40988,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 54.805.20",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.50522,
+      "longitude": 115.2717,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.56466,
+      "longitude": 115.41658,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.21519,
+      "longitude": 114.94017,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.19331,
+      "longitude": 114.92226,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.41608,
+      "longitude": 115.28065,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petrolimex",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.17711,
+      "longitude": 114.74921,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Gas Station Buluh Indah (54.801.31)",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.64336,
+      "longitude": 115.19629,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.36217,
+      "longitude": 115.18996,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.52815,
+      "longitude": 115.00128,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.52357,
+      "longitude": 115.20042,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Padma Sari (P. Bayu)",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.48263,
+      "longitude": 115.09806,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PERTASHOP TIMPAG (CV Restu Mahitala)",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.48697,
+      "longitude": 115.09456,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PERTASHOP TIMPAG (CV Restu Mahitala)",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.48643,
+      "longitude": 115.09522,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Sunset Road 54.803.34",
+      "brand": "Pertamina",
+      "address": "Sunset Road, Kuta, Kabupaten Badung, Bali, Indonesia",
+      "city": "Kuta, Kabupaten Badung, Bali, Indonesia",
+      "latitude": -8.69869,
+      "longitude": 115.17805,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.60285,
+      "longitude": 115.17164,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Distributor Minicon Bali (Penghemat BBM)",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.48831,
+      "longitude": 115.09323,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop Telagatawang",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.47928,
+      "longitude": 115.4469,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.53664,
+      "longitude": 115.33343,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Buana Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Buana Raya No. 101, Padang Sambian, Denpasar, Bali, Indonesia",
+      "city": "Padang Sambian, Denpasar, Bali, Indonesia",
+      "latitude": -8.66712,
+      "longitude": 115.18772,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.56724,
+      "longitude": 115.39163,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.55011,
+      "longitude": 115.37502,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.47474,
+      "longitude": 114.93264,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.22624,
+      "longitude": 114.94483,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.25093,
+      "longitude": 114.47887,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.2235,
+      "longitude": 115.25431,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.13529,
+      "longitude": 115.10138,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.42019,
+      "longitude": 114.80868,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.35686,
+      "longitude": 114.63078,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.42695,
+      "longitude": 114.83478,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.62322,
+      "longitude": 115.23637,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.14895,
+      "longitude": 114.63239,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.54833,
+      "longitude": 115.30842,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.54135,
+      "longitude": 115.32109,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.61892,
+      "longitude": 115.18312,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bali",
+      "city": "Bali",
+      "latitude": -8.69146,
+      "longitude": 115.22793,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
       ]
     }
   ]

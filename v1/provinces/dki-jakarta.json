@@ -1,7 +1,7 @@
 {
   "province": "DKI Jakarta",
   "province_slug": "dki-jakarta",
-  "total_stations": 8,
+  "total_stations": 483,
   "updated_at": "2026-09-30",
   "stations": [
     {
@@ -130,6 +130,7469 @@
         "Pertamax",
         "Dexlite",
         "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.37134,
+      "longitude": 106.89654,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.13242,
+      "longitude": 106.93364,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.1294,
+      "longitude": 106.9069,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.34549,
+      "longitude": 106.75397,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Beji",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.3742,
+      "longitude": 106.81352,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.37372,
+      "longitude": 106.91775,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Bojongkulur",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Parpostel, Bojongkulur, Gunungputri, Kabupaten Bogor",
+      "city": "Bojongkulur, Gunungputri, Kabupaten Bogor",
+      "latitude": -6.3195,
+      "longitude": 106.9662,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.30202,
+      "longitude": 106.9567,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.09446,
+      "longitude": 106.68985,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.31121,
+      "longitude": 106.9244,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.142,
+      "longitude": 106.68541,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.31812,
+      "longitude": 106.78935,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-15322",
+      "brand": "Pertamina",
+      "address": "Jalan Rawa Buntu",
+      "city": "DKI Jakarta",
+      "latitude": -6.34387,
+      "longitude": 106.6872,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 31.127.01",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.27352,
+      "longitude": 106.81882,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.13413",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.2219,
+      "longitude": 106.88624,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-13417",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.23529,
+      "longitude": 106.87782,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU 34-13910",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.18549,
+      "longitude": 106.94808,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 10048251",
+      "brand": "Pertamina",
+      "address": "Bekasi Raya No. 23, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.1843,
+      "longitude": 106.94455,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34 10203",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.19709,
+      "longitude": 106.81397,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-10504",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.18483,
+      "longitude": 106.87504,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.11405",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.20366,
+      "longitude": 106.79702,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 11602",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.17896,
+      "longitude": 106.74861,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-11611",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.18683,
+      "longitude": 106.72536,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.112.01",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.15556,
+      "longitude": 106.80712,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34 11605",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.19724,
+      "longitude": 106.75179,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-11606",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.19822,
+      "longitude": 106.76022,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-13908",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.18954,
+      "longitude": 106.96733,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 11607",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.19606,
+      "longitude": 106.72984,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 31.102.02",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.17857,
+      "longitude": 106.81819,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite"
+      ]
+    },
+    {
+      "name": "SPBU 34-10205",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.1804,
+      "longitude": 106.81362,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBG A.31.03.01",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.1931,
+      "longitude": 106.89979,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 13208",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.19663,
+      "longitude": 106.87485,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34 133 02",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.23383,
+      "longitude": 106.8762,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-10604",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.16776,
+      "longitude": 106.84266,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-13907",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.20783,
+      "longitude": 106.95396,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-13905",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.19974,
+      "longitude": 106.95595,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-13709",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.3408,
+      "longitude": 106.87487,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-11609",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.2191,
+      "longitude": 106.73094,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 3412601",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.34287,
+      "longitude": 106.81794,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.1977,
+      "longitude": 106.75338,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 11604",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.21894,
+      "longitude": 106.76049,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34 11608",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.21734,
+      "longitude": 106.76352,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 31.118-02",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.15519,
+      "longitude": 106.71123,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPBT Kemhan",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.24277,
+      "longitude": 106.87793,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 - 11509",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.21271,
+      "longitude": 106.77248,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 31-118-03",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.15897,
+      "longitude": 106.69286,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPBG 31.A.124.02",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.29571,
+      "longitude": 106.77233,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Tanjung Barat",
+      "brand": "Pertamina",
+      "address": "Jalan Tanjung Barat, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.30051,
+      "longitude": 106.8406,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 12410",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.30409,
+      "longitude": 106.78206,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-15119",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.11468,
+      "longitude": 106.68892,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-13306",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.21973,
+      "longitude": 106.86771,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-11403",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.19014,
+      "longitude": 106.79315,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.114.07",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.18894,
+      "longitude": 106.78798,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-13421",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.21833,
+      "longitude": 106.94258,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 3412606",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.33382,
+      "longitude": 106.80659,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.27406,
+      "longitude": 106.84654,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-11806",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.1304,
+      "longitude": 106.70332,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.11511",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.19505,
+      "longitude": 106.78194,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-11801",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.14306,
+      "longitude": 106.69829,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.11512",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.19622,
+      "longitude": 106.76914,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 11508",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.20053,
+      "longitude": 106.7693,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 11505",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.19789,
+      "longitude": 106.77163,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.13706",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.36607,
+      "longitude": 106.88855,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.32888,
+      "longitude": 106.88616,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.11507",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.2086,
+      "longitude": 106.77013,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.124.11",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.26349,
+      "longitude": 106.78665,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.11506",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.17726,
+      "longitude": 106.75753,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.11510",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.18001,
+      "longitude": 106.76642,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-12409",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.30926,
+      "longitude": 106.78074,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-13808",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.33196,
+      "longitude": 106.88887,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 - 12608",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.32892,
+      "longitude": 106.8254,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 - 12609",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.31344,
+      "longitude": 106.81247,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 - 12508",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.327,
+      "longitude": 106.82266,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-11802",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.10365,
+      "longitude": 106.71093,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.11504",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.18891,
+      "longitude": 106.762,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.16924",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.35342,
+      "longitude": 106.86026,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.34001,
+      "longitude": 106.8909,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU 34 - 12507",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.29629,
+      "longitude": 106.81523,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.24736,
+      "longitude": 106.91139,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-13409",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.22577,
+      "longitude": 106.92312,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 134 126 10",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.35357,
+      "longitude": 106.81079,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 126 11",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.34989,
+      "longitude": 106.80211,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.11704",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.16414,
+      "longitude": 106.77656,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-13704",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.32099,
+      "longitude": 106.86544,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-12407",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.28222,
+      "longitude": 106.79145,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Total",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.28382,
+      "longitude": 106.79013,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.11502",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.16545,
+      "longitude": 106.76351,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-11714",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.16923,
+      "longitude": 106.7284,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 - 12605",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.31225,
+      "longitude": 106.83679,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.3183,
+      "longitude": 106.83658,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 - 12603",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.32083,
+      "longitude": 106.83712,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-14304",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.11092,
+      "longitude": 106.88352,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-14308",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.11019,
+      "longitude": 106.88498,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPBG PT Jakarta Utilitas Propertindo",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.31143,
+      "longitude": 106.88402,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.12204",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.22869,
+      "longitude": 106.77814,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 11708",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.18271,
+      "longitude": 106.71883,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-11705",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.16929,
+      "longitude": 106.72726,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-11706",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.15259,
+      "longitude": 106.71932,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-13803",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.31653,
+      "longitude": 106.89188,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-11707",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.13048,
+      "longitude": 106.72954,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-11711",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.14463,
+      "longitude": 106.7213,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 31.114.03",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.1662,
+      "longitude": 106.78712,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 31.122.04",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.25948,
+      "longitude": 106.78209,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-13708",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.34511,
+      "longitude": 106.88307,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-11712",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.15461,
+      "longitude": 106.74495,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-11703",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.14883,
+      "longitude": 106.72827,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.11402",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.17426,
+      "longitude": 106.80325,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-11710",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.13388,
+      "longitude": 106.73078,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.12213",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.25993,
+      "longitude": 106.77685,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.12302",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.25731,
+      "longitude": 106.78135,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34 122 14",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.25328,
+      "longitude": 106.77319,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34 - 12303",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.25816,
+      "longitude": 106.76635,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34 - 12301",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.27006,
+      "longitude": 106.76508,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 3412306",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.27058,
+      "longitude": 106.75999,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Mako Kolinlamil 32-14301",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.16555,
+      "longitude": 106.88985,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.117.13",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.1583,
+      "longitude": 106.766,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34 - 14201",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.15841,
+      "longitude": 106.90149,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.11205",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.2081,
+      "longitude": 106.7881,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34. 12115",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.25955,
+      "longitude": 106.78886,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 33.11301",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.14522,
+      "longitude": 106.77648,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPBB",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.10415,
+      "longitude": 106.7764,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 - 14406",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.10679,
+      "longitude": 106.7751,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.10277,
+      "longitude": 106.77194,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.14409",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.10723,
+      "longitude": 106.71983,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.14410",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.13409,
+      "longitude": 106.75119,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 14411",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.12161,
+      "longitude": 106.7325,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.11603,
+      "longitude": 106.78536,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPBG",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.11828,
+      "longitude": 106.79188,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPBKB 10.2.1.001",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.13993,
+      "longitude": 106.76734,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.14404",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.13874,
+      "longitude": 106.76356,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 - 14412",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.10721,
+      "longitude": 106.80069,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 3414401",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.12575,
+      "longitude": 106.80175,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-14205",
+      "brand": "Pertamina",
+      "address": "Jalan Terusan Boulevard Timur / Pintu I, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.16676,
+      "longitude": 106.91523,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.14107",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.13838,
+      "longitude": 106.93566,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.14106",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.10731,
+      "longitude": 106.96259,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34 - 14109",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.10292,
+      "longitude": 106.93724,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SBPU 31-143-01",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.14533,
+      "longitude": 106.88955,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-14204",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.15296,
+      "longitude": 106.88642,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-143-03",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.13083,
+      "longitude": 106.82976,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-14405",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.13379,
+      "longitude": 106.81717,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-12705",
+      "brand": "Pertamina",
+      "address": "Jalan Letnan Jenderal MT Haryono",
+      "city": "DKI Jakarta",
+      "latitude": -6.24381,
+      "longitude": 106.8528,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-14108",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.11103,
+      "longitude": 106.94829,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 3415402",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.31796,
+      "longitude": 106.76918,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 33.154.01",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.3054,
+      "longitude": 106.77301,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-15404",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.3108,
+      "longitude": 106.77123,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.30259,
+      "longitude": 106.76093,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Oil gas",
+      "brand": "Pertamina",
+      "address": "Jalan Kalimalang",
+      "city": "DKI Jakarta",
+      "latitude": -6.24607,
+      "longitude": 106.90586,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Blue Gazz",
+      "brand": "Pertamina",
+      "address": "Jalan Kincir Raya, Cengkareng Timur, West Jakarta",
+      "city": "Cengkareng Timur, West Jakarta",
+      "latitude": -6.14714,
+      "longitude": 106.73001,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Bulevar Harapan Indah",
+      "brand": "Pertamina",
+      "address": "Jalan Bulevar Harapan Indah",
+      "city": "DKI Jakarta",
+      "latitude": -6.16005,
+      "longitude": 106.97449,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU pgn",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.16618,
+      "longitude": 106.79311,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamini",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.16167,
+      "longitude": 106.79644,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamini",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.11532,
+      "longitude": 106.89602,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamini",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.11436,
+      "longitude": 106.8995,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamini",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.11659,
+      "longitude": 106.8031,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamini",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.11355,
+      "longitude": 106.8027,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamini",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.12063,
+      "longitude": 106.80371,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamini",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.12408,
+      "longitude": 106.80385,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamini",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.11185,
+      "longitude": 106.80261,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.11881,
+      "longitude": 106.80345,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.11739,
+      "longitude": 106.80323,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamini",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.33862,
+      "longitude": 106.82892,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamini",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.35043,
+      "longitude": 106.81979,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamini",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.35164,
+      "longitude": 106.81941,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Jalan Raden Saleh Raya, Karang Mulya",
+      "city": "Karang Mulya",
+      "latitude": -6.20383,
+      "longitude": 106.71724,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamini",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.35157,
+      "longitude": 106.93583,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.11516,
+      "longitude": 106.68076,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.19578,
+      "longitude": 106.81433,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPBG Ancol",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.12772,
+      "longitude": 106.83057,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.21297,
+      "longitude": 106.94579,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Bensin Kong Janin",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.29328,
+      "longitude": 106.99863,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.29055,
+      "longitude": 106.99597,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Mini",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.3325,
+      "longitude": 106.83427,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pom bensin Ciledug",
+      "brand": "Pertamina",
+      "address": "Jalan Haji Oemar Said Cokroaminoto",
+      "city": "DKI Jakarta",
+      "latitude": -6.22562,
+      "longitude": 106.71227,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Pondok Randu Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Pondok Randu Raya",
+      "city": "DKI Jakarta",
+      "latitude": -6.17567,
+      "longitude": 106.72491,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPBG 31-A-125-03",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.30079,
+      "longitude": 106.82106,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.29521,
+      "longitude": 106.99884,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.30014,
+      "longitude": 106.99898,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.12484,
+      "longitude": 106.82991,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamini",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.32311,
+      "longitude": 106.85779,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.29205,
+      "longitude": 106.98513,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BP",
+      "brand": "Pertamina",
+      "address": "Jl. Alternatif Cibubur, Harjamukti, Cimanggis, Depok, Jawa Barat",
+      "city": "DKI Jakarta",
+      "latitude": -6.37592,
+      "longitude": 106.90445,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Jl. Raya Alternatif Cibubur, Jatisampurna, Jatisampurna, Bekasi",
+      "city": "DKI Jakarta",
+      "latitude": -6.37489,
+      "longitude": 106.91459,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.29277,
+      "longitude": 106.79436,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.18736,
+      "longitude": 106.9325,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.15409",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.36039,
+      "longitude": 106.7483,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.33391,
+      "longitude": 106.84769,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.22988,
+      "longitude": 106.72298,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BP",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.20012,
+      "longitude": 106.70444,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BP",
+      "brand": "Pertamina",
+      "address": "Jalan Utan Jati",
+      "city": "DKI Jakarta",
+      "latitude": -6.14531,
+      "longitude": 106.70667,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU bp Ultimate",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.17573,
+      "longitude": 106.80138,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.162,
+      "longitude": 106.98988,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BP",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.32094,
+      "longitude": 106.83619,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.29449,
+      "longitude": 106.9964,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BP",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.2127,
+      "longitude": 106.84366,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.30422,
+      "longitude": 106.99093,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.2956,
+      "longitude": 106.99985,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Kelapa 2",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.35513,
+      "longitude": 106.84581,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Kelapa 2 Pal",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.35533,
+      "longitude": 106.85401,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-13416",
+      "brand": "Pertamina",
+      "address": "Jalan Jend. Pol. RS. Soekanto, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.22767,
+      "longitude": 106.92632,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.133.07",
+      "brand": "Pertamina",
+      "address": "Jalan Jatinegara Barat Raya, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.21442,
+      "longitude": 106.86243,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Perintis Kemerdekaan",
+      "brand": "Pertamina",
+      "address": "Jalan Perintis Kemerdekaan",
+      "city": "DKI Jakarta",
+      "latitude": -6.17358,
+      "longitude": 106.8909,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-15414",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.34384,
+      "longitude": 106.76579,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-15207",
+      "brand": "Pertamina",
+      "address": "Jalan Pondok Kacang, Tangerang Selatan",
+      "city": "Tangerang Selatan",
+      "latitude": -6.24465,
+      "longitude": 106.69438,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.12661,
+      "longitude": 106.80347,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 31.107.01",
+      "brand": "Pertamina",
+      "address": "Jalan Industri Raya, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.14923,
+      "longitude": 106.8385,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.165.05",
+      "brand": "Pertamina",
+      "address": "Jalan Cinere Raya No. 12B, Cinere, Depok",
+      "city": "Depok",
+      "latitude": -6.34283,
+      "longitude": 106.77878,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.16503",
+      "brand": "Pertamina",
+      "address": "Jalan Cinere Raya No. 2",
+      "city": "DKI Jakarta",
+      "latitude": -6.32034,
+      "longitude": 106.78367,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Jatibening",
+      "brand": "Pertamina",
+      "address": "Jalan Dokter Ratna, Jatibening, Kota Bekasi",
+      "city": "Kota Bekasi",
+      "latitude": -6.26525,
+      "longitude": 106.95045,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Raya Margonda",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Margonda No. 346, Depok",
+      "city": "Depok",
+      "latitude": -6.37414,
+      "longitude": 106.8329,
+      "is_24_hours": true,
+      "facilities": "ATM",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Pajajaran Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Pajajaran Raya",
+      "city": "DKI Jakarta",
+      "latitude": -6.33647,
+      "longitude": 106.74002,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.23374,
+      "longitude": 106.96567,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan RA Kartini",
+      "brand": "Pertamina",
+      "address": "Jalan RA Kartini",
+      "city": "DKI Jakarta",
+      "latitude": -6.24982,
+      "longitude": 107.00001,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.37951,
+      "longitude": 106.74602,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-12806",
+      "brand": "Pertamina",
+      "address": "Jalan Prof. Dr. Soepomo No. 57, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.23846,
+      "longitude": 106.84425,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU POM Bensin PERTAMINA",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.22288,
+      "longitude": 106.70506,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-17141",
+      "brand": "Pertamina",
+      "address": "Jalan Ahmad Yani, Bekasi",
+      "city": "Bekasi",
+      "latitude": -6.25816,
+      "longitude": 106.99404,
+      "is_24_hours": true,
+      "facilities": "Toilet • ATM",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Bintaro Sektor 9",
+      "brand": "Pertamina",
+      "address": "Jalan Boulevard Bintaro Jaya, Parigi, Tangerang Selatan",
+      "city": "Tangerang Selatan",
+      "latitude": -6.27308,
+      "longitude": 106.7125,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Daan Mogot",
+      "brand": "Pertamina",
+      "address": "Jalan Daan Mogot, Tanjung Duren Utara, Jakarta Barat",
+      "city": "Jakarta Barat",
+      "latitude": -6.1657,
+      "longitude": 106.78282,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 31.171.01",
+      "brand": "Pertamina",
+      "address": "Jalan Ahmad Yani No. 1, Bekasi",
+      "city": "Bekasi",
+      "latitude": -6.25097,
+      "longitude": 106.99216,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-17114",
+      "brand": "Pertamina",
+      "address": "Jalan Cut Meutia, Bekasi",
+      "city": "Bekasi",
+      "latitude": -6.26194,
+      "longitude": 106.99873,
+      "is_24_hours": true,
+      "facilities": "Toilet • ATM",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-17102",
+      "brand": "Pertamina",
+      "address": "Jalan Siliwangi, Bekasi",
+      "city": "Bekasi",
+      "latitude": -6.26062,
+      "longitude": 106.99526,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-17122",
+      "brand": "Pertamina",
+      "address": "Jalan Pekayon Raya, Bekasi",
+      "city": "Bekasi",
+      "latitude": -6.25691,
+      "longitude": 106.98842,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-17105",
+      "brand": "Pertamina",
+      "address": "Jalan Pekayon Raya, Kota Bekasi",
+      "city": "Kota Bekasi",
+      "latitude": -6.27895,
+      "longitude": 106.97281,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.174.17",
+      "brand": "Pertamina",
+      "address": "Jalan Swatantra-Jatiasih, Kota Bekasi",
+      "city": "Kota Bekasi",
+      "latitude": -6.28748,
+      "longitude": 106.96833,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU 34-15117",
+      "brand": "Pertamina",
+      "address": "Jalan Raden Fattah, Tangerang Selatan",
+      "city": "Tangerang Selatan",
+      "latitude": -6.23219,
+      "longitude": 106.70225,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34 171 43",
+      "brand": "Pertamina",
+      "address": "Cikunir Raya",
+      "city": "DKI Jakarta",
+      "latitude": -6.25934,
+      "longitude": 106.95924,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.17145",
+      "brand": "Pertamina",
+      "address": "Jalan Siliwangi, Bekasi",
+      "city": "Bekasi",
+      "latitude": -6.27078,
+      "longitude": 106.9937,
+      "is_24_hours": true,
+      "facilities": "Toilet • ATM",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BP",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.30413,
+      "longitude": 106.84348,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Aria Putra",
+      "brand": "Pertamina",
+      "address": "Jalan Aria Putra",
+      "city": "DKI Jakarta",
+      "latitude": -6.31628,
+      "longitude": 106.7415,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Letnan Sutopo",
+      "brand": "Pertamina",
+      "address": "Jalan Letnan Sutopo",
+      "city": "DKI Jakarta",
+      "latitude": -6.2954,
+      "longitude": 106.68021,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.29498,
+      "longitude": 106.71394,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.21439,
+      "longitude": 106.68159,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.37299,
+      "longitude": 106.872,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.19314,
+      "longitude": 106.8762,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Kemang Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Kemang Raya, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.2668,
+      "longitude": 106.81569,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Pramuka",
+      "brand": "Pertamina",
+      "address": "Jalan Pramuka, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.1981,
+      "longitude": 106.85484,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Matraman Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Matraman Raya",
+      "city": "DKI Jakarta",
+      "latitude": -6.20261,
+      "longitude": 106.85736,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.137.11",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Bogor, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.3007,
+      "longitude": 106.86968,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 13414",
+      "brand": "Pertamina",
+      "address": "Jalan Jend. Basuki Rahmat, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.22652,
+      "longitude": 106.87973,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.13420",
+      "brand": "Pertamina",
+      "address": "Jalan Kalimalang, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.23897,
+      "longitude": 106.88836,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-10501",
+      "brand": "Pertamina",
+      "address": "Jalan Pramuka, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.1923,
+      "longitude": 106.86503,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPBG PGN Pondok Ungu",
+      "brand": "Pertamina",
+      "address": "Jalan Sultan Agung, Kota Bekasi",
+      "city": "Kota Bekasi",
+      "latitude": -6.20091,
+      "longitude": 106.97554,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SBPU 34-13602 Pertamina",
+      "brand": "Pertamina",
+      "address": "Jalan Dewi Sartika, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.25213,
+      "longitude": 106.86465,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Cempaka Putih Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Cempaka Putih Raya, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.17607,
+      "longitude": 106.86771,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.13201",
+      "brand": "Pertamina",
+      "address": "Jalan I Gusti Ngurah Rai, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.21375,
+      "longitude": 106.89332,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Mampang Prapatan VIII",
+      "brand": "Pertamina",
+      "address": "Jalan Mampang Prapatan VIII, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.24783,
+      "longitude": 106.82686,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Limo Raya",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.36643,
+      "longitude": 106.77535,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-12804",
+      "brand": "Pertamina",
+      "address": "Jalan Prof. Dr. Soepomo, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.23591,
+      "longitude": 106.84465,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.127.01",
+      "brand": "Pertamina",
+      "address": "Jalan Mampang Prapatan Raya, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.26154,
+      "longitude": 106.82896,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-13502",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Condet, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.28951,
+      "longitude": 106.85576,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-13206",
+      "brand": "Pertamina",
+      "address": "Jalan Pemuda, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.19381,
+      "longitude": 106.88716,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Metro Jaya",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Bogor, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.29061,
+      "longitude": 106.87169,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.18427,
+      "longitude": 106.73041,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU 34-13209",
+      "brand": "Pertamina",
+      "address": "Jalan Pemuda, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.19255,
+      "longitude": 106.88247,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPB Dinas Mabes POLRI",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.23815,
+      "longitude": 106.80084,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPBT 32-12402",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.1557,
+      "longitude": 106.88679,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Condet Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Condet Raya",
+      "city": "DKI Jakarta",
+      "latitude": -6.28563,
+      "longitude": 106.8552,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan I Gusti Ngurah Rai",
+      "brand": "Pertamina",
+      "address": "Jalan I Gusti Ngurah Rai",
+      "city": "DKI Jakarta",
+      "latitude": -6.22112,
+      "longitude": 106.96461,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-10506",
+      "brand": "Pertamina",
+      "address": "Jalan Letjend Suprapto, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.17511,
+      "longitude": 106.85232,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-13911",
+      "brand": "Pertamina",
+      "address": "Jalan Pangeran Komarudin, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.2031,
+      "longitude": 106.94697,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan KH. Samanhudi",
+      "brand": "Pertamina",
+      "address": "Jalan KH. Samanhudi, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.16048,
+      "longitude": 106.83523,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Buncit Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Buncit Raya, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.28715,
+      "longitude": 106.82593,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.10701",
+      "brand": "Pertamina",
+      "address": "Jalan Sukarjo Wiryopranoto, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.16167,
+      "longitude": 106.82598,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Pertamina",
+      "brand": "Pertamina",
+      "address": "Pertamina",
+      "city": "DKI Jakarta",
+      "latitude": -6.19316,
+      "longitude": 106.97158,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.13.603",
+      "brand": "Pertamina",
+      "address": "Jalan Jati Waringin, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.25192,
+      "longitude": 106.90889,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.10101",
+      "brand": "Pertamina",
+      "address": "Jalan K.H. Zainul Arifin, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.16074,
+      "longitude": 106.81559,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Raya Margonda",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Margonda",
+      "city": "DKI Jakarta",
+      "latitude": -6.37507,
+      "longitude": 106.83198,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pommini",
+      "brand": "Pertamina",
+      "address": "Jalan Squadron",
+      "city": "DKI Jakarta",
+      "latitude": -6.26887,
+      "longitude": 106.87752,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34. 136.05",
+      "brand": "Pertamina",
+      "address": "Jalan Halim Perdanakusuma, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.25146,
+      "longitude": 106.88105,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-13801",
+      "brand": "Pertamina",
+      "address": "Jalan Pintu II TMII No. 4, Pinang Ranti, Jakarta Timur",
+      "city": "Jakarta Timur",
+      "latitude": -6.29127,
+      "longitude": 106.88838,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Jati Waringin",
+      "brand": "Pertamina",
+      "address": "Jalan Jati Waringin",
+      "city": "DKI Jakarta",
+      "latitude": -6.27532,
+      "longitude": 106.91299,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-13903",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Penggilingan, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.20451,
+      "longitude": 106.93483,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan RS Fatmawati",
+      "brand": "Pertamina",
+      "address": "Jalan RS Fatmawati",
+      "city": "DKI Jakarta",
+      "latitude": -6.27224,
+      "longitude": 106.79793,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.14825,
+      "longitude": 106.83089,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.106.03",
+      "brand": "Pertamina",
+      "address": "Jalan Gunung Sahari Raya, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.15021,
+      "longitude": 106.83535,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 31.139.01",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Bekasi, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.18209,
+      "longitude": 106.93431,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-13418",
+      "brand": "Pertamina",
+      "address": "Jalan H. Naman, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.24637,
+      "longitude": 106.94261,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Tahi Bonar Simatupang",
+      "brand": "Pertamina",
+      "address": "Jalan Tahi Bonar Simatupang, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.29584,
+      "longitude": 106.82521,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Pahlawan Revolusi",
+      "brand": "Pertamina",
+      "address": "Jalan Pahlawan Revolusi",
+      "city": "DKI Jakarta",
+      "latitude": -6.2384,
+      "longitude": 106.89908,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan TB Simatupang",
+      "brand": "Pertamina",
+      "address": "Jalan TB Simatupang, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.30265,
+      "longitude": 106.8584,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-13804",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.30894,
+      "longitude": 106.86899,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Tahi Bonar Simatupang",
+      "brand": "Pertamina",
+      "address": "Jalan Tahi Bonar Simatupang, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.29255,
+      "longitude": 106.81153,
+      "is_24_hours": true,
+      "facilities": "ATM",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-12504",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.28114,
+      "longitude": 106.81929,
+      "is_24_hours": true,
+      "facilities": "ATM",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-13412",
+      "brand": "Pertamina",
+      "address": "Jalan Jend. Basuki Rahmat, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.22929,
+      "longitude": 106.8923,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-14209",
+      "brand": "Pertamina",
+      "address": "Jalan Logistik, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.1344,
+      "longitude": 106.91617,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Hankam Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Hankam Raya",
+      "city": "DKI Jakarta",
+      "latitude": -6.29744,
+      "longitude": 106.92207,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-14103",
+      "brand": "Pertamina",
+      "address": "Jalan Plumpang Semper, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.13121,
+      "longitude": 106.91479,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-13802",
+      "brand": "Pertamina",
+      "address": "Jalan Pondok Gede No. 40, Lubang Buaya, Jakarta Timur",
+      "city": "Jakarta Timur",
+      "latitude": -6.28963,
+      "longitude": 106.89659,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU 34-134-22",
+      "brand": "Pertamina",
+      "address": "Jalan Kalimalang, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.24784,
+      "longitude": 106.93002,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-13406",
+      "brand": "Pertamina",
+      "address": "Jalan Bintara Jaya, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.23375,
+      "longitude": 106.94594,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.14207",
+      "brand": "Pertamina",
+      "address": "Jalan Plumpang Semper, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.12896,
+      "longitude": 106.90794,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Radin Inten II",
+      "brand": "Pertamina",
+      "address": "Jalan Radin Inten II, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.23742,
+      "longitude": 106.9226,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-13419",
+      "brand": "Pertamina",
+      "address": "Jalan Radin Inten II, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.242,
+      "longitude": 106.92033,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.14413",
+      "brand": "Pertamina",
+      "address": "Jalan Benyamin Sueb, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.13953,
+      "longitude": 106.8473,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BP",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.14811,
+      "longitude": 106.86018,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 12512",
+      "brand": "Pertamina",
+      "address": "Jalan Buncit Raya, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.29048,
+      "longitude": 106.82353,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Depot Gas Pertamina",
+      "brand": "Pertamina",
+      "address": "Jalan Fajar Baru 2 No. 1, Cengkareng Timur, West Jakarta",
+      "city": "Cengkareng Timur, West Jakarta",
+      "latitude": -6.14529,
+      "longitude": 106.72989,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Ampera VII",
+      "brand": "Pertamina",
+      "address": "Jalan Ampera VII, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.1342,
+      "longitude": 106.83458,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 3414407",
+      "brand": "Pertamina",
+      "address": "Jalan Jambatan Tiga Raya, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.13122,
+      "longitude": 106.79185,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34. 12401",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.25857,
+      "longitude": 106.79665,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Gandaria I",
+      "brand": "Pertamina",
+      "address": "Jalan Gandaria I, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.24425,
+      "longitude": 106.78802,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.30756,
+      "longitude": 106.87788,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Jombang Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Jombang Raya",
+      "city": "DKI Jakarta",
+      "latitude": -6.26785,
+      "longitude": 106.70655,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-15416",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.30157,
+      "longitude": 106.75141,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bintaro Utama 3",
+      "brand": "Pertamina",
+      "address": "Bintaro Utama 3",
+      "city": "DKI Jakarta",
+      "latitude": -6.2725,
+      "longitude": 106.7493,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina WR Supratman",
+      "brand": "Pertamina",
+      "address": "WR Supratman, Tangerang Selatan",
+      "city": "Tangerang Selatan",
+      "latitude": -6.28095,
+      "longitude": 106.74636,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Pangeran Antasari",
+      "brand": "Pertamina",
+      "address": "Jalan Pangeran Antasari",
+      "city": "DKI Jakarta",
+      "latitude": -6.26229,
+      "longitude": 106.80854,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Jenderal Gatot Subroto",
+      "brand": "Pertamina",
+      "address": "Jalan Jenderal Gatot Subroto, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.23286,
+      "longitude": 106.82258,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Jalan Jombang Raya",
+      "city": "DKI Jakarta",
+      "latitude": -6.24846,
+      "longitude": 106.70166,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan RS Fatmawati",
+      "brand": "Pertamina",
+      "address": "Jalan RS Fatmawati, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.2721,
+      "longitude": 106.79718,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina (Self-Service)",
+      "brand": "Pertamina",
+      "address": "Jalan Letnan Sutopo",
+      "city": "DKI Jakarta",
+      "latitude": -6.29431,
+      "longitude": 106.68065,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Jati Makmur",
+      "brand": "Pertamina",
+      "address": "Jalan Jati Makmur, Bekasi",
+      "city": "Bekasi",
+      "latitude": -6.286,
+      "longitude": 106.92286,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-17413",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.29311,
+      "longitude": 106.96117,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.28845,
+      "longitude": 106.93926,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Raya Jatimekar",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Jatimekar, Kota Bekasi",
+      "city": "Kota Bekasi",
+      "latitude": -6.28657,
+      "longitude": 106.95137,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Dokter Ratna",
+      "brand": "Pertamina",
+      "address": "Jalan Dokter Ratna",
+      "city": "DKI Jakarta",
+      "latitude": -6.27025,
+      "longitude": 106.9506,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.24901,
+      "longitude": 106.95961,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.32974,
+      "longitude": 106.946,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-13402",
+      "brand": "Pertamina",
+      "address": "Jalan Pahlawan Revolusi, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.24271,
+      "longitude": 106.90204,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.10502",
+      "brand": "Pertamina",
+      "address": "Jalan Letjend Suprapto, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.17298,
+      "longitude": 106.86186,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-131505",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Bogor",
+      "city": "DKI Jakarta",
+      "latitude": -6.28082,
+      "longitude": 106.87195,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pommini",
+      "brand": "Pertamina",
+      "address": "Jalan Kerja Bakti",
+      "city": "DKI Jakarta",
+      "latitude": -6.27206,
+      "longitude": 106.877,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-14310",
+      "brand": "Pertamina",
+      "address": "Jalan Gaya Motor Raya, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.13591,
+      "longitude": 106.89096,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-17115",
+      "brand": "Pertamina",
+      "address": "Jalan Kemang Sari Raya",
+      "city": "DKI Jakarta",
+      "latitude": -6.27443,
+      "longitude": 106.93524,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Jati Waringin",
+      "brand": "Pertamina",
+      "address": "Jalan Jati Waringin",
+      "city": "DKI Jakarta",
+      "latitude": -6.27042,
+      "longitude": 106.91167,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan I Gusti Ngurah Rai",
+      "brand": "Pertamina",
+      "address": "Jalan I Gusti Ngurah Rai, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.214,
+      "longitude": 106.90529,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-14301",
+      "brand": "Pertamina",
+      "address": "Jalan Danau Sunter Utara, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.13863,
+      "longitude": 106.86735,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-13506",
+      "brand": "Pertamina",
+      "address": "Jalan Pusdiklat Depnaker No. 18, Makasar, Jakarta Timur",
+      "city": "Jakarta Timur",
+      "latitude": -6.28539,
+      "longitude": 106.87949,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Supriyadi",
+      "brand": "Pertamina",
+      "address": "Jalan Supriyadi, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.30688,
+      "longitude": 106.87553,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-13202",
+      "brand": "Pertamina",
+      "address": "Jalan Perintis Kemerdekaan, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.17966,
+      "longitude": 106.90338,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Dr. KRT Radjiman Widyodiningrat",
+      "brand": "Pertamina",
+      "address": "Jalan Dr. KRT Radjiman Widyodiningrat, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.20649,
+      "longitude": 106.92313,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamini",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Bogor",
+      "city": "DKI Jakarta",
+      "latitude": -6.2843,
+      "longitude": 106.87147,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-14307",
+      "brand": "Pertamina",
+      "address": "Jalan Danau Sunter Selatan, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.14665,
+      "longitude": 106.88572,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-14306",
+      "brand": "Pertamina",
+      "address": "Jalan Danau Sunter Selatan, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.14642,
+      "longitude": 106.87373,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Ciledug Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Ciledug Raya",
+      "city": "DKI Jakarta",
+      "latitude": -6.23644,
+      "longitude": 106.74271,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-14305",
+      "brand": "Pertamina",
+      "address": "Jalab Sunter Kemayoran, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.16211,
+      "longitude": 106.87534,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.12901",
+      "brand": "Pertamina",
+      "address": "Jalan Minangkabau Timur, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.21301,
+      "longitude": 106.84437,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Kwitang",
+      "brand": "Pertamina",
+      "address": "Jalan Kramat Raya, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.18501,
+      "longitude": 106.8436,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.10605",
+      "brand": "Pertamina",
+      "address": "Jalan Letjend Suprapto, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.17406,
+      "longitude": 106.85363,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Ceger Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Ceger Raya",
+      "city": "DKI Jakarta",
+      "latitude": -6.26133,
+      "longitude": 106.73907,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.33961,
+      "longitude": 106.88985,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.12304",
+      "brand": "Pertamina",
+      "address": "Jalan Bintaro Permai, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.26171,
+      "longitude": 106.75674,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Boulevard Graha Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Boulevard Graha Raya",
+      "city": "DKI Jakarta",
+      "latitude": -6.23136,
+      "longitude": 106.68129,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina KH Hasyim Ashari",
+      "brand": "Pertamina",
+      "address": "KH Hasyim Ashari",
+      "city": "DKI Jakarta",
+      "latitude": -6.22294,
+      "longitude": 106.69307,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Ciledug Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Ciledug Raya, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.23699,
+      "longitude": 106.75299,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 31 114 01",
+      "brand": "Pertamina",
+      "address": "Jalan Letjen S. Parman, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.19361,
+      "longitude": 106.7979,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sukabakti, Ciputat",
+      "brand": "Pertamina",
+      "address": "Jalan Aria Putra Raya",
+      "city": "DKI Jakarta",
+      "latitude": -6.30621,
+      "longitude": 106.71895,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Jombang Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Jombang Raya",
+      "city": "DKI Jakarta",
+      "latitude": -6.30112,
+      "longitude": 106.7147,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Bintaro Jaya",
+      "brand": "Pertamina",
+      "address": "Jalan Bintaro Jaya",
+      "city": "DKI Jakarta",
+      "latitude": -6.27998,
+      "longitude": 106.71759,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Merpati Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Merpati Raya",
+      "city": "DKI Jakarta",
+      "latitude": -6.30051,
+      "longitude": 106.73131,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Bintaro Sektor 7",
+      "brand": "Pertamina",
+      "address": "MH Thamrin No. 7, Pondok Jaya, Tangerang Selatan",
+      "city": "Tangerang Selatan",
+      "latitude": -6.27511,
+      "longitude": 106.72289,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Tegal Rotan Raya",
+      "brand": "Pertamina",
+      "address": "Tegal Rotan Raya",
+      "city": "DKI Jakarta",
+      "latitude": -6.28596,
+      "longitude": 106.72599,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BP",
+      "brand": "Pertamina",
+      "address": "Jalan Boulevard Bintaro Jaya",
+      "city": "DKI Jakarta",
+      "latitude": -6.27394,
+      "longitude": 106.70138,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-13604 Pertamina",
+      "brand": "Pertamina",
+      "address": "Jalan Dewi Sartika, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.25714,
+      "longitude": 106.86382,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 3410301",
+      "brand": "Pertamina",
+      "address": "Jalan Gereja Theresia, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.19145,
+      "longitude": 106.82825,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Pantai Indah Kapuk",
+      "brand": "Pertamina",
+      "address": "Jalan Pantai Indah Kapuk, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.10628,
+      "longitude": 106.74111,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 33-142-01",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Kelapa Hybrida, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.14852,
+      "longitude": 106.91675,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Letnan Jenderal MT Haryono",
+      "brand": "Pertamina",
+      "address": "Jalan Letnan Jenderal MT Haryono, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.24258,
+      "longitude": 106.85248,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.102.06",
+      "brand": "Pertamina",
+      "address": "Jalan Hang Lekir I, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.22903,
+      "longitude": 106.79729,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-14208",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.14518,
+      "longitude": 106.8951,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-14210",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.147,
+      "longitude": 106.8967,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Gandaria I",
+      "brand": "Pertamina",
+      "address": "Jalan Gandaria I",
+      "city": "DKI Jakarta",
+      "latitude": -6.24281,
+      "longitude": 106.78772,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 10201",
+      "brand": "Pertamina",
+      "address": "Jalan Penjernihan I, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.20251,
+      "longitude": 106.80627,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Siaga Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Siaga Raya",
+      "city": "DKI Jakarta",
+      "latitude": -6.27178,
+      "longitude": 106.83809,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-12805",
+      "brand": "Pertamina",
+      "address": "Jalan Casablanca, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.22523,
+      "longitude": 106.84117,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-14101",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Tipar Cakung, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.14379,
+      "longitude": 106.92243,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-14206",
+      "brand": "Pertamina",
+      "address": "Jalan Pegangsaan Dua, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.153,
+      "longitude": 106.91638,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Envogas 31.A.139.04",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Bekasi, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.19097,
+      "longitude": 106.90643,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.11828,
+      "longitude": 106.92474,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Hajjah R. Rasuna Said",
+      "brand": "Pertamina",
+      "address": "Jalan Hajjah R. Rasuna Said, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.22858,
+      "longitude": 106.83384,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Jatipadang Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Jatipadang Raya",
+      "city": "DKI Jakarta",
+      "latitude": -6.2871,
+      "longitude": 106.82932,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.29152,
+      "longitude": 106.81184,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Gedong Panjang",
+      "brand": "Pertamina",
+      "address": "Jalan Gedong Panjang, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.1303,
+      "longitude": 106.80569,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-11301",
+      "brand": "Pertamina",
+      "address": "Jalan Profesor Doktor Latumeten, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.14868,
+      "longitude": 106.79476,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 31.103.03",
+      "brand": "Pertamina",
+      "address": "Jalan Cikini Raya, Menteng, Jakarta Pusat",
+      "city": "Jakarta Pusat",
+      "latitude": -6.19607,
+      "longitude": 106.8405,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.14083,
+      "longitude": 106.82718,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Hayam Wuruk",
+      "brand": "Pertamina",
+      "address": "Jalan Hayam Wuruk, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.15671,
+      "longitude": 106.8189,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Tahi Bonar Simatupang",
+      "brand": "Pertamina",
+      "address": "Jalan Tahi Bonar Simatupang, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.30252,
+      "longitude": 106.85304,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Profesor Doktor Latumeten",
+      "brand": "Pertamina",
+      "address": "Jalan Profesor Doktor Latumeten, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.15586,
+      "longitude": 106.79235,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Kapten Tendean",
+      "brand": "Pertamina",
+      "address": "Jalan Kapten Tendean, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.24027,
+      "longitude": 106.82045,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPBG Jakprogas",
+      "brand": "Pertamina",
+      "address": "Jalan Perintis Kemerdekaan, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.17092,
+      "longitude": 106.88657,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Pluit Selatan Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Pluit Selatan Raya, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.12475,
+      "longitude": 106.79633,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Tentara Pelajar",
+      "brand": "Pertamina",
+      "address": "Jalan Tentara Pelajar, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.22139,
+      "longitude": 106.79054,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Aipda K.S. Tubun",
+      "brand": "Pertamina",
+      "address": "Jalan Aipda K.S. Tubun, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.19817,
+      "longitude": 106.8031,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.19917,
+      "longitude": 106.69674,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 31.114.04",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.17639,
+      "longitude": 106.80168,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Ciater Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Ciater Raya",
+      "city": "DKI Jakarta",
+      "latitude": -6.31482,
+      "longitude": 106.70139,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.32325,
+      "longitude": 106.68373,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BP",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.32048,
+      "longitude": 106.68173,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-15421",
+      "brand": "Pertamina",
+      "address": "Jalan Cendrawasih Raya",
+      "city": "DKI Jakarta",
+      "latitude": -6.29098,
+      "longitude": 106.73127,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Laksamana RE Martadinata",
+      "brand": "Pertamina",
+      "address": "Jalan Laksamana RE Martadinata",
+      "city": "DKI Jakarta",
+      "latitude": -6.32696,
+      "longitude": 106.74757,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Parakan",
+      "brand": "Pertamina",
+      "address": "Jalan Parakan",
+      "city": "DKI Jakarta",
+      "latitude": -6.34596,
+      "longitude": 106.71268,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Siliwangi",
+      "brand": "Pertamina",
+      "address": "Jalan Siliwangi",
+      "city": "DKI Jakarta",
+      "latitude": -6.34461,
+      "longitude": 106.72015,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Dockter Setia Budi",
+      "brand": "Pertamina",
+      "address": "Jalan Dockter Setia Budi",
+      "city": "DKI Jakarta",
+      "latitude": -6.34858,
+      "longitude": 106.73714,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Ciater Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Ciater Raya",
+      "city": "DKI Jakarta",
+      "latitude": -6.31351,
+      "longitude": 106.69232,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-17117",
+      "brand": "Pertamina",
+      "address": "Jalan Sultan Agung, Bekasi",
+      "city": "Bekasi",
+      "latitude": -6.20896,
+      "longitude": 106.97744,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 31.171.05",
+      "brand": "Pertamina",
+      "address": "Jalan Sultan Agung, Kota Bekasi",
+      "city": "Kota Bekasi",
+      "latitude": -6.20169,
+      "longitude": 106.9765,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU 32-14201",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.15666,
+      "longitude": 106.88645,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan İr H. Juanda",
+      "brand": "Pertamina",
+      "address": "Jalan İr H. Juanda",
+      "city": "DKI Jakarta",
+      "latitude": -6.31246,
+      "longitude": 106.75187,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Letjend Suprapto",
+      "brand": "Pertamina",
+      "address": "Jalan Letjend Suprapto, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.17526,
+      "longitude": 106.8483,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Bekasi",
+      "brand": "Pertamina",
+      "address": "Jalan Jenderal Sudirman, Kayuringin Jaya, Kota Bekasi",
+      "city": "Kota Bekasi",
+      "latitude": -6.23134,
+      "longitude": 106.98724,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Ir. Haji Juanda",
+      "brand": "Pertamina",
+      "address": "Jalan Ir. Haji Juanda, Bekasi",
+      "city": "Bekasi",
+      "latitude": -6.23376,
+      "longitude": 106.99437,
+      "is_24_hours": true,
+      "facilities": "Toilet • ATM",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU 34-13901",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Bekasi Timur, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.21175,
+      "longitude": 106.8902,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BP",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.31431,
+      "longitude": 106.69675,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-17410",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.35218,
+      "longitude": 106.92158,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.3759,
+      "longitude": 106.68233,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.34724,
+      "longitude": 106.69105,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.34666,
+      "longitude": 106.69707,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.32214,
+      "longitude": 106.70884,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.25847,
+      "longitude": 106.92668,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.25844,
+      "longitude": 106.92839,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 11612",
+      "brand": "Pertamina",
+      "address": "Jalan Kembang Kerep, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.19788,
+      "longitude": 106.74196,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Teuku Nyak Arief",
+      "brand": "Pertamina",
+      "address": "Jalan Teuku Nyak Arief",
+      "city": "DKI Jakarta",
+      "latitude": -6.23131,
+      "longitude": 106.78977,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Dokter Cipto Mangunkusumo",
+      "brand": "Pertamina",
+      "address": "Jalan Dokter Cipto Mangunkusumo",
+      "city": "DKI Jakarta",
+      "latitude": -6.24227,
+      "longitude": 106.7126,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.34207,
+      "longitude": 106.69252,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Jalan KKN, Petukangan, DKI Jakarta",
+      "city": "Petukangan, DKI Jakarta",
+      "latitude": -6.24095,
+      "longitude": 106.75602,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-12208",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.2488,
+      "longitude": 106.77785,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-17137",
+      "brand": "Pertamina",
+      "address": "Jalan Pangeran Jayakarta, Kota Bekasi",
+      "city": "Kota Bekasi",
+      "latitude": -6.22693,
+      "longitude": 106.98681,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina - 34.12307",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.27845,
+      "longitude": 106.77277,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 31-11804",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.13082,
+      "longitude": 106.68796,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.127.07",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Pasar Minggu",
+      "city": "DKI Jakarta",
+      "latitude": -6.24486,
+      "longitude": 106.84223,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 - 12602",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.31863,
+      "longitude": 106.83764,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BP Grand Galaxy",
+      "brand": "Pertamina",
+      "address": "Jalan Pulau Ribung, Kota Bekasi",
+      "city": "Kota Bekasi",
+      "latitude": -6.26737,
+      "longitude": 106.97452,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Pekayon",
+      "brand": "Pertamina",
+      "address": "Jalan Pekayon Raya, Jaka Setia, Kota Bekasi",
+      "city": "Kota Bekasi",
+      "latitude": -6.27642,
+      "longitude": 106.97552,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU 34.174.14",
+      "brand": "Pertamina",
+      "address": "Jalan Swatantra V, Jatiasih, Kota Bekasi",
+      "city": "Kota Bekasi",
+      "latitude": -6.29638,
+      "longitude": 106.96857,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Jatikramat",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Jatikramat No. 2A, Jatikramat, Kota Bekasi",
+      "city": "Kota Bekasi",
+      "latitude": -6.28698,
+      "longitude": 106.94444,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-17130",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.17656,
+      "longitude": 106.99936,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-17123",
+      "brand": "Pertamina",
+      "address": "Jalan Harapan Indah Raya, Bekasi",
+      "city": "Bekasi",
+      "latitude": -6.1855,
+      "longitude": 106.97752,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Margajaya",
+      "brand": "Pertamina",
+      "address": "Jalan Ahmad Yani, Marga Jaya, Kota Bekasi",
+      "city": "Kota Bekasi",
+      "latitude": -6.25015,
+      "longitude": 106.99232,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU BP Gunung Putri",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Ciangsana, Kabupaten Bogor",
+      "city": "Kabupaten Bogor",
+      "latitude": -6.34633,
+      "longitude": 106.96219,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-16928",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Ciangsana, Kabupaten Bogor",
+      "city": "Kabupaten Bogor",
+      "latitude": -6.3475,
+      "longitude": 106.96168,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-16914",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Ciangsana",
+      "city": "DKI Jakarta",
+      "latitude": -6.37566,
+      "longitude": 106.94533,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 31.B.968.01",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Ciangsana",
+      "city": "DKI Jakarta",
+      "latitude": -6.37609,
+      "longitude": 106.94486,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Ciater",
+      "brand": "Pertamina",
+      "address": "Jalan Ciater Raya No. 4, Ciater, Tangerang Selatan",
+      "city": "Tangerang Selatan",
+      "latitude": -6.3159,
+      "longitude": 106.70269,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.30022,
+      "longitude": 106.83504,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.27571,
+      "longitude": 106.6953,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.17101",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Narogong, Kota Bekasi",
+      "city": "Kota Bekasi",
+      "latitude": -6.28637,
+      "longitude": 106.98656,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-13810",
+      "brand": "Pertamina",
+      "address": "Jalan Mabes Hankam, Bambu Apus, Jakarta Timur",
+      "city": "Jakarta Timur",
+      "latitude": -6.30886,
+      "longitude": 106.89704,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU SPBG Terminal Pinang Ranti",
+      "brand": "Pertamina",
+      "address": "Jalan Pondok Gede, Pinang Ranti, Jakarta Timur",
+      "city": "Jakarta Timur",
+      "latitude": -6.29119,
+      "longitude": 106.88673,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Pasar Minggu",
+      "brand": "Pertamina",
+      "address": "Jalan Kyai Haji Guru Amin, Pancoran, Jakarta Selatan",
+      "city": "Jakarta Selatan",
+      "latitude": -6.25139,
+      "longitude": 106.84314,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU VIVO MT Haryono",
+      "brand": "Pertamina",
+      "address": "Jalan Letnan Jenderal MT Haryono, Tebet Bara, Jakarta Selatan",
+      "city": "Jakarta Selatan",
+      "latitude": -6.24271,
+      "longitude": 106.84977,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Kalimalang",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Kalimalang, Jakasampurna, Kota Bekasi",
+      "city": "Kota Bekasi",
+      "latitude": -6.24928,
+      "longitude": 106.95221,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Warung Buncit",
+      "brand": "Pertamina",
+      "address": "Jalan Buncit Raya, Kalibata, Jakarta Selatan",
+      "city": "Jakarta Selatan",
+      "latitude": -6.26426,
+      "longitude": 106.83,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Pejaten",
+      "brand": "Pertamina",
+      "address": "Jalan Warung Jati Barat No. 14C, Ragunan, Jakarta Selatan",
+      "city": "Jakarta Selatan",
+      "latitude": -6.28461,
+      "longitude": 106.827,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Kemang",
+      "brand": "Pertamina",
+      "address": "Jalan Kemang Raya No. 32, Bangka, Jakarta Selatan",
+      "city": "Jakarta Selatan",
+      "latitude": -6.26109,
+      "longitude": 106.81532,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Cilandak",
+      "brand": "Pertamina",
+      "address": "Jalan Cilandak KKO No. 7, Cilandak Timur, Jakarta Selatan",
+      "city": "Jakarta Selatan",
+      "latitude": -6.30968,
+      "longitude": 106.81349,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Antasari",
+      "brand": "Pertamina",
+      "address": "Jalan Cipete Raya No. 38, Cipete Selatan, Jakarta Selatan",
+      "city": "Jakarta Selatan",
+      "latitude": -6.27791,
+      "longitude": 106.80796,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Tendean",
+      "brand": "Pertamina",
+      "address": "Jalan Kapten Tendean, Kuningan Barat, Jakarta Selatan",
+      "city": "Jakarta Selatan",
+      "latitude": -6.23913,
+      "longitude": 106.81874,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Radar Auri",
+      "brand": "Pertamina",
+      "address": "Jalan Radar Auri, Cibubur, Jakarta Timur",
+      "city": "Jakarta Timur",
+      "latitude": -6.36943,
+      "longitude": 106.8871,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Cideng",
+      "brand": "Pertamina",
+      "address": "Jalan Cideng Timur No. 15P, Petojo Utara, Jakarta Pusat",
+      "city": "Jakarta Pusat",
+      "latitude": -6.16659,
+      "longitude": 106.81103,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Bintaro 1",
+      "brand": "Pertamina",
+      "address": "Jalan Bintaro Barat, Bintaro, Jakarta Selatan",
+      "city": "Jakarta Selatan",
+      "latitude": -6.26929,
+      "longitude": 106.75459,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Kedoya",
+      "brand": "Pertamina",
+      "address": "Jalan Panjang Raya No. 13, Kedoya Utara, Jakarta Barat",
+      "city": "Jakarta Barat",
+      "latitude": -6.17491,
+      "longitude": 106.76544,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Pamulang",
+      "brand": "Pertamina",
+      "address": "Jalan Pajajaran Raya No. 45b, Pamulang Barat, Tangerang Selatan",
+      "city": "Tangerang Selatan",
+      "latitude": -6.33986,
+      "longitude": 106.73901,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Limo",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.36663,
+      "longitude": 106.77452,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina COCO 31.131.01",
+      "brand": "Pertamina",
+      "address": "Jalan Pramuka No. 13, Utan Kayu Utara, Jakarta Timur",
+      "city": "Jakarta Timur",
+      "latitude": -6.19335,
+      "longitude": 106.86406,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina COCO 31.133.01",
+      "brand": "Pertamina",
+      "address": "Jalan Otto Iskandar Dinata No. 69-71, Bidara Cina, Jakarta Timur",
+      "city": "Jakarta Timur",
+      "latitude": -6.23118,
+      "longitude": 106.86768,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina COCO 31.134.01",
+      "brand": "Pertamina",
+      "address": "Jalan Haji Darip, Jatinegara Kaum, Jakarta Timur",
+      "city": "Jakarta Timur",
+      "latitude": -6.21238,
+      "longitude": 106.90025,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina COCO 31.134.02",
+      "brand": "Pertamina",
+      "address": "Jalan Laksamana Malahayati, Duren Sawit, Jakarta Timur",
+      "city": "Jakarta Timur",
+      "latitude": -6.24742,
+      "longitude": 106.91806,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina COCO 31.136.02",
+      "brand": "Pertamina",
+      "address": "Jalan Mayor Jenderal Sutoyo No. 1, Cililitan, Jakarta Timur",
+      "city": "Jakarta Timur",
+      "latitude": -6.26011,
+      "longitude": 106.86779,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina COCO 31.137.01",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Bogor No. 14, Pekayon, Jakarta Timur",
+      "city": "Jakarta Timur",
+      "latitude": -6.35303,
+      "longitude": 106.86247,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina COCO 31.139.02",
+      "brand": "Pertamina",
+      "address": "Jalan Bekasi Raya No. 21, Rawa Terate, Jakarta Timur",
+      "city": "Jakarta Timur",
+      "latitude": -6.18295,
+      "longitude": 106.91468,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 33-13402",
+      "brand": "Pertamina",
+      "address": "Jalan Kolonel Soegiono No. 15, Duren Sawit, Jakarta Timur",
+      "city": "Jakarta Timur",
+      "latitude": -6.22893,
+      "longitude": 106.91251,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 33-13401",
+      "brand": "Pertamina",
+      "address": "Jalan Laksamana Malahayati No. 42, Pondok Kelapa, Jakarta Timur",
+      "city": "Jakarta Timur",
+      "latitude": -6.2491,
+      "longitude": 106.94128,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-13101",
+      "brand": "Pertamina",
+      "address": "Jalan Jenderal Ahmad Yani No. 114, Utan Kayu Utara, Jakarta Timur",
+      "city": "Jakarta Timur",
+      "latitude": -6.19617,
+      "longitude": 106.87372,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-13805",
+      "brand": "Pertamina",
+      "address": "Jalan Pagelarang No. 47, Setu, Jakarta Timur",
+      "city": "Jakarta Timur",
+      "latitude": -6.30594,
+      "longitude": 106.9167,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-13503",
+      "brand": "Pertamina",
+      "address": "Jalan Taman Mini I, Pinang Ranti, Jakarta Timur",
+      "city": "Jakarta Timur",
+      "latitude": -6.295,
+      "longitude": 106.8822,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-13504",
+      "brand": "Pertamina",
+      "address": "Jalan Pondok Gede No. 39, Pinang Ranti, Jakarta Timur",
+      "city": "Jakarta Timur",
+      "latitude": -6.29064,
+      "longitude": 106.8845,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-13102",
+      "brand": "Pertamina",
+      "address": "Jalan Matraman No. 46-50, Kebon Manggis, Jakarta Timur",
+      "city": "Jakarta Timur",
+      "latitude": -6.20261,
+      "longitude": 106.85617,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-13103",
+      "brand": "Pertamina",
+      "address": "Jalan Matraman No. 84, Kebon Manggis, Jakarta Timur",
+      "city": "Jakarta Timur",
+      "latitude": -6.20504,
+      "longitude": 106.85743,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.32184,
+      "longitude": 106.74678,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.32107,
+      "longitude": 106.74583,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.24643,
+      "longitude": 106.96539,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.12167,
+      "longitude": 106.8043,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.10724,
+      "longitude": 106.92216,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU bp",
+      "brand": "Pertamina",
+      "address": "Jalan Karang Tengah Raya No. 19",
+      "city": "DKI Jakarta",
+      "latitude": -6.30317,
+      "longitude": 106.78112,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
       ]
     }
   ]

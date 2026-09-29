@@ -1,7 +1,7 @@
 {
   "province": "Bengkulu",
   "province_slug": "bengkulu",
-  "total_stations": 1,
+  "total_stations": 141,
   "updated_at": "2026-09-30",
   "stations": [
     {
@@ -18,6 +18,2095 @@
         "Pertamax",
         "Dexlite",
         "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Air Sebakul",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.83199,
+      "longitude": 102.34601,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.317.101 Tanjung Enim",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.73061,
+      "longitude": 103.8014,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.7,
+      "longitude": 103.28233,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.66915,
+      "longitude": 103.69887,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.60923,
+      "longitude": 103.10071,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.78603,
+      "longitude": 103.55578,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.81089,
+      "longitude": 102.26985,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pom Bensin Perandonan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.97088,
+      "longitude": 103.21358,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pom Spbu Pendopo",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.78978,
+      "longitude": 102.97001,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pom Spbu Pertamina Air Perikan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.02954,
+      "longitude": 103.23569,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pump bensin dan indomaret muara enim",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.63158,
+      "longitude": 103.77545,
+      "is_24_hours": true,
+      "facilities": "Minimarket",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -5.02376,
+      "longitude": 103.74159,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Simpang Manna",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.03384,
+      "longitude": 103.2641,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamini Taba Jemekeh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.28613,
+      "longitude": 102.88237,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamini",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.29997,
+      "longitude": 102.85761,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Tebing Tinggi",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.58615,
+      "longitude": 103.08311,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Lintik",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -5.22961,
+      "longitude": 103.9245,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.47445,
+      "longitude": 103.02428,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -5.1745,
+      "longitude": 103.9384,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.79896,
+      "longitude": 103.90667,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.0762,
+      "longitude": 103.42646,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.05447,
+      "longitude": 103.8789,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.06253,
+      "longitude": 103.83542,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.09967,
+      "longitude": 103.62746,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.10612,
+      "longitude": 103.62526,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.04561,
+      "longitude": 103.47601,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.05006,
+      "longitude": 103.28049,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.08355,
+      "longitude": 103.35452,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.0473,
+      "longitude": 103.20721,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.03865,
+      "longitude": 103.24365,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.96447,
+      "longitude": 103.46425,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.80534,
+      "longitude": 103.52038,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.00836,
+      "longitude": 103.23545,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.04295,
+      "longitude": 103.4274,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.46334,
+      "longitude": 103.0609,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.27338,
+      "longitude": 102.94426,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.5906,
+      "longitude": 103.0848,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.24417,
+      "longitude": 103.03177,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.77789,
+      "longitude": 103.5245,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.70144,
+      "longitude": 103.31979,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.76192,
+      "longitude": 103.44332,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.78359,
+      "longitude": 103.54075,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.43347,
+      "longitude": 103.04794,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.76303,
+      "longitude": 103.5017,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.27198,
+      "longitude": 102.95572,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.15419,
+      "longitude": 102.27804,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.62762,
+      "longitude": 102.58631,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.39001,
+      "longitude": 102.49287,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.48751,
+      "longitude": 102.52041,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.35514,
+      "longitude": 102.45533,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.57664,
+      "longitude": 102.53345,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.29309,
+      "longitude": 102.89562,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.44504,
+      "longitude": 102.513,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.52687,
+      "longitude": 102.51903,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.47447,
+      "longitude": 102.67807,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.12393,
+      "longitude": 102.20761,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.29643,
+      "longitude": 102.42147,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.58441,
+      "longitude": 102.63767,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.67112,
+      "longitude": 101.22735,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.34919,
+      "longitude": 102.05989,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.65367,
+      "longitude": 101.31664,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.1624,
+      "longitude": 102.18418,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.2528,
+      "longitude": 101.65694,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.8504,
+      "longitude": 101.4338,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.05881,
+      "longitude": 101.50785,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.65904,
+      "longitude": 101.25481,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.09453,
+      "longitude": 101.52607,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.78569,
+      "longitude": 101.39845,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.38041,
+      "longitude": 102.13259,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.36183,
+      "longitude": 101.83403,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.73643,
+      "longitude": 101.36144,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.4882,
+      "longitude": 102.10522,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.36257,
+      "longitude": 102.09671,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.92079,
+      "longitude": 101.44805,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.63539,
+      "longitude": 101.28074,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.68584,
+      "longitude": 101.34433,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.66614,
+      "longitude": 101.3443,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.14765,
+      "longitude": 101.55509,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.99486,
+      "longitude": 101.49457,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.2729,
+      "longitude": 102.06055,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.38229,
+      "longitude": 101.84596,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.60333,
+      "longitude": 101.12247,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.25449,
+      "longitude": 101.13609,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bengkulu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.43752,
+      "longitude": 101.15093,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.39901,
+      "longitude": 101.15331,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.48831,
+      "longitude": 101.09134,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.3761,
+      "longitude": 101.14809,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Kampung Bali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.78422,
+      "longitude": 102.26572,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Rawa Makmur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.76599,
+      "longitude": 102.2693,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pagar Dewa",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.8428,
+      "longitude": 102.32165,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Km. 8",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.82704,
+      "longitude": 102.30274,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Km. 6",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.81899,
+      "longitude": 102.29516,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Bumi Ayu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.8527,
+      "longitude": 102.31406,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.382.05",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.8087,
+      "longitude": 102.29297,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Kandang",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.87014,
+      "longitude": 102.31214,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.307.157",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.4516,
+      "longitude": 103.95203,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Karang Dalo",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.0542,
+      "longitude": 103.2938,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Tanah Patah",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.80248,
+      "longitude": 102.27547,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Kembang Sri",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.79114,
+      "longitude": 102.35983,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sendawar",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.23846,
+      "longitude": 102.77829,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Maje",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.85867,
+      "longitude": 103.45136,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Bintuhan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.79572,
+      "longitude": 103.35675,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.383.15",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.66753,
+      "longitude": 102.2345,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Bernai",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.30274,
+      "longitude": 102.69502,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Tais",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.07358,
+      "longitude": 102.57765,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Silaut",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.33541,
+      "longitude": 101.1545,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pelawan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.38957,
+      "longitude": 102.70286,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.385.08",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.45163,
+      "longitude": 102.91593,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Bathin VIII",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.24426,
+      "longitude": 102.50756,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sarolangun",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.31192,
+      "longitude": 102.73176,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Karang Mendapo",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.21184,
+      "longitude": 102.78509,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU SPBI BANGKO",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.76565,
+      "longitude": 103.83103,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPBI",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.71864,
+      "longitude": 103.78772,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Singkut",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.5133,
+      "longitude": 102.71314,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Kepahiang",
+      "brand": "Pertamina",
+      "address": "Pasar Kepahiang",
+      "city": "Pasar Kepahiang",
+      "latitude": -3.645,
+      "longitude": 102.58015,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 21.391.11",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.62683,
+      "longitude": 102.55791,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Simpang Nangka",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Curup - Lubuk Linggau, Curup",
+      "city": "Curup",
+      "latitude": -3.45089,
+      "longitude": 102.58169,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Padang Ulak Tanding",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.3634,
+      "longitude": 102.80856,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.386.10",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.43657,
+      "longitude": 102.21555,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.386.28",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.44494,
+      "longitude": 102.16205,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.383.17",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.6405,
+      "longitude": 101.16152,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Aur Ringit",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.60543,
+      "longitude": 103.17655,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.385.09",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.47912,
+      "longitude": 102.92924,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Ahmad Yani",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.45646,
+      "longitude": 102.92162,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Talo",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -4.16611,
+      "longitude": 102.70223,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU 24.316.51",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.27896,
+      "longitude": 102.86431,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.383.22",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.55506,
+      "longitude": 101.10164,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.316.91",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.18071,
+      "longitude": 102.94776,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.316.53",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.73913,
+      "longitude": 102.89793,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBUSimpang Semambang",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.13713,
+      "longitude": 103.12953,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU 24.316.89",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.59497,
+      "longitude": 102.74933,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU 24.316.93",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.99671,
+      "longitude": 102.7942,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 24.316.135",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.27336,
+      "longitude": 102.92742,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Babat Toman",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.73963,
+      "longitude": 103.63224,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Merdeka",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.8961,
+      "longitude": 103.84921,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PERTASHOP",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.50772,
+      "longitude": 102.6959,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.307.158",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -2.86769,
+      "longitude": 103.84323,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.316.187",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.25783,
+      "longitude": 102.99022,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24-361-90",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.2945,
+      "longitude": 103.05948,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Tebing Tinggi",
+      "brand": "Pertamina",
+      "address": "Area SPBU Bengkulu",
+      "city": "Bengkulu",
+      "latitude": -3.56564,
+      "longitude": 103.0761,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
       ]
     }
   ]

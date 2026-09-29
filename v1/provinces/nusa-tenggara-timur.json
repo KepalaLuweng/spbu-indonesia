@@ -1,7 +1,7 @@
 {
   "province": "Nusa Tenggara Timur",
   "province_slug": "nusa-tenggara-timur",
-  "total_stations": 1,
+  "total_stations": 77,
   "updated_at": "2026-09-30",
   "stations": [
     {
@@ -18,6 +18,1201 @@
         "Pertamax",
         "Dexlite",
         "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -9.13792,
+      "longitude": 124.89534,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Oebesa",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -9.87059,
+      "longitude": 124.3003,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -9.47194,
+      "longitude": 124.48175,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -9.09797,
+      "longitude": 124.89502,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 54.851.10",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -10.15645,
+      "longitude": 123.64319,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -10.14712,
+      "longitude": 123.61109,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Galaxi",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -9.62493,
+      "longitude": 119.38771,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Benita",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -9.62877,
+      "longitude": 119.40713,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Labuan Bajo",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.51277,
+      "longitude": 119.88755,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sernaru",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.50406,
+      "longitude": 119.90026,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Daleng",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.68954,
+      "longitude": 120.22373,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -9.65873,
+      "longitude": 120.28723,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.57783,
+      "longitude": 119.01326,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Bobou",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.78469,
+      "longitude": 120.98917,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Gatot Subroto",
+      "brand": "Pertamina",
+      "address": "Jalan Gatot Subroto",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.84612,
+      "longitude": 121.66621,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pompa Bensin Anakalang",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -9.58932,
+      "longitude": 119.56805,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.76716,
+      "longitude": 122.05216,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.76212,
+      "longitude": 121.18503,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -10.16839,
+      "longitude": 123.62853,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.3485,
+      "longitude": 120.76136,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU pertamina gas station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.56821,
+      "longitude": 121.2737,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU OEBA",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -10.15786,
+      "longitude": 123.58675,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.60463,
+      "longitude": 120.46756,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.81247,
+      "longitude": 120.99949,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -9.10088,
+      "longitude": 124.8767,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.57566,
+      "longitude": 120.48076,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina gas station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.59151,
+      "longitude": 120.44228,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 54.851.15",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -9.97375,
+      "longitude": 124.07067,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -9.46201,
+      "longitude": 124.47972,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.83334,
+      "longitude": 121.63446,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.54663,
+      "longitude": 119.90281,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.64601,
+      "longitude": 120.35333,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.84116,
+      "longitude": 120.87159,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Petrol Station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.49519,
+      "longitude": 119.87813,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 54.851.03 Pasir Panjang",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -10.14897,
+      "longitude": 123.60922,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.37416,
+      "longitude": 120.33823,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.79214,
+      "longitude": 120.58265,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 54.872.02 Benita",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -9.42934,
+      "longitude": 119.23879,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.7737,
+      "longitude": 121.89038,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.64097,
+      "longitude": 122.30504,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.63955,
+      "longitude": 122.20731,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.73211,
+      "longitude": 121.33505,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.63083,
+      "longitude": 122.21209,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -9.65288,
+      "longitude": 120.26627,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -10.1489,
+      "longitude": 123.6442,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -10.15403,
+      "longitude": 123.63334,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -10.16698,
+      "longitude": 123.59656,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.62967,
+      "longitude": 122.23919,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Eltari",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -10.16638,
+      "longitude": 123.60868,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Betun",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -9.57065,
+      "longitude": 124.89971,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -9.65619,
+      "longitude": 120.25584,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Lama",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -9.69977,
+      "longitude": 119.87956,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Oesao",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -10.11303,
+      "longitude": 123.80438,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.6386,
+      "longitude": 122.27676,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Hikam",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.36269,
+      "longitude": 123.44874,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.61319,
+      "longitude": 120.48409,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU POM BENSIN NIKI_NIKI",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -9.8319,
+      "longitude": 124.45968,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Keduutul",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.30026,
+      "longitude": 120.47101,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Abomkase Fuel",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.99112,
+      "longitude": 125.19945,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Naresa",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -9.19343,
+      "longitude": 124.88353,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Halilulik",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -9.26684,
+      "longitude": 124.86652,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pompa Bensin Oepura",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -10.19048,
+      "longitude": 123.60729,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Kasetnana",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -9.86627,
+      "longitude": 124.25621,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.81745,
+      "longitude": 120.61634,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Jembatan Besi",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.30059,
+      "longitude": 120.47583,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Lasiana",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -10.14068,
+      "longitude": 123.66221,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.80787,
+      "longitude": 120.58958,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -8.60417,
+      "longitude": 120.53814,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -10.08249,
+      "longitude": 123.86615,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Naibonat",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -10.0757,
+      "longitude": 123.87648,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -10.17506,
+      "longitude": 123.61872,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nusa Tenggara Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -10.16692,
+      "longitude": 123.60776,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PERTAMINA",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -10.17173,
+      "longitude": 123.38822,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Irmão Timor Sucursal",
+      "brand": "Pertamina",
+      "address": "Rua de Padimau",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -9.20173,
+      "longitude": 124.36094,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop Bello",
+      "brand": "Pertamina",
+      "address": "Area SPBU Nusa Tenggara Timur",
+      "city": "Nusa Tenggara Timur",
+      "latitude": -10.2141,
+      "longitude": 123.61975,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Aitula Fuel Station",
+      "brand": "Pertamina",
+      "address": "estrada Maria tapo, Maliana",
+      "city": "Maliana",
+      "latitude": -8.99196,
+      "longitude": 125.18646,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
       ]
     }
   ]

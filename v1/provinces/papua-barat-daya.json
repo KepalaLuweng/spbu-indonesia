@@ -1,7 +1,7 @@
 {
   "province": "Papua Barat Daya",
   "province_slug": "papua-barat-daya",
-  "total_stations": 1,
+  "total_stations": 13,
   "updated_at": "2026-09-30",
   "stations": [
     {
@@ -18,6 +18,198 @@
         "Pertamax",
         "Dexlite",
         "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Papua Barat Daya",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Barat Daya",
+      "city": "Papua Barat Daya",
+      "latitude": -0.42556,
+      "longitude": 130.81025,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Papua Barat Daya",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Barat Daya",
+      "city": "Papua Barat Daya",
+      "latitude": -1.12329,
+      "longitude": 131.28151,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Papua Barat Daya",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Barat Daya",
+      "city": "Papua Barat Daya",
+      "latitude": -0.92341,
+      "longitude": 131.33704,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Papua Barat Daya",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Barat Daya",
+      "city": "Papua Barat Daya",
+      "latitude": -0.92183,
+      "longitude": 131.33432,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Papua Barat Daya",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Barat Daya",
+      "city": "Papua Barat Daya",
+      "latitude": -1.10464,
+      "longitude": 131.48378,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Papua Barat Daya",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Barat Daya",
+      "city": "Papua Barat Daya",
+      "latitude": -0.86108,
+      "longitude": 131.25068,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Papua Barat Daya",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Barat Daya",
+      "city": "Papua Barat Daya",
+      "latitude": -0.88333,
+      "longitude": 131.26703,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPBN Perikanan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Barat Daya",
+      "city": "Papua Barat Daya",
+      "latitude": -0.88399,
+      "longitude": 131.26425,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Barat Daya",
+      "city": "Papua Barat Daya",
+      "latitude": -0.8694,
+      "longitude": 131.25311,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Barat Daya",
+      "city": "Papua Barat Daya",
+      "latitude": -0.8776,
+      "longitude": 131.26067,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Jl Jendral Ahmad Yani",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Barat Daya",
+      "city": "Papua Barat Daya",
+      "latitude": -0.88269,
+      "longitude": 131.28308,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fef",
+      "brand": "Pertamina",
+      "address": "Wayo, Fef, Tambrauw",
+      "city": "Tambrauw",
+      "latitude": -0.80774,
+      "longitude": 132.44277,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
       ]
     }
   ]

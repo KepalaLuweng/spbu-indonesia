@@ -1,7 +1,7 @@
 {
   "province": "Papua Selatan",
   "province_slug": "papua-selatan",
-  "total_stations": 1,
+  "total_stations": 6,
   "updated_at": "2026-09-30",
   "stations": [
     {
@@ -18,6 +18,84 @@
         "Pertamax",
         "Dexlite",
         "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Kios BBM",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Selatan",
+      "city": "Papua Selatan",
+      "latitude": -5.53411,
+      "longitude": 138.13754,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Harbor of Wowi river >>3ways river",
+      "brand": "Pertamina",
+      "address": "Siret River",
+      "city": "Papua Selatan",
+      "latitude": -5.36218,
+      "longitude": 139.38724,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Papua Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Selatan",
+      "city": "Papua Selatan",
+      "latitude": -4.87518,
+      "longitude": 139.48062,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Ahmad Yani",
+      "brand": "Pertamina",
+      "address": "Jalan Ahmad Yani, Merauke, Merauke",
+      "city": "Merauke",
+      "latitude": -8.51153,
+      "longitude": 140.40654,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Parakomando",
+      "brand": "Pertamina",
+      "address": "Merauke",
+      "city": "Merauke",
+      "latitude": -8.49539,
+      "longitude": 140.40062,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
       ]
     }
   ]

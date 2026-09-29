@@ -1,7 +1,7 @@
 {
   "province": "Aceh",
   "province_slug": "aceh",
-  "total_stations": 1,
+  "total_stations": 179,
   "updated_at": "2026-09-30",
   "stations": [
     {
@@ -18,6 +18,2667 @@
         "Pertamax",
         "Dexlite",
         "Solar"
+      ]
+    },
+    {
+      "name": "SPBU PENGKALA",
+      "brand": "Pertamina",
+      "address": "JL. BLANGKEJEREN - TAKENGON",
+      "city": "Aceh",
+      "latitude": 4.00071,
+      "longitude": 97.34129,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU RAKLUNUNG",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.98917,
+      "longitude": 97.3437,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Merdeka",
+      "brand": "Pertamina",
+      "address": "Jalan Merdeka, Lhokseumawe",
+      "city": "Lhokseumawe",
+      "latitude": 5.18241,
+      "longitude": 97.13955,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.72988,
+      "longitude": 96.82557,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU JULI",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.19191,
+      "longitude": 96.70192,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.73052,
+      "longitude": 96.84938,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Kota Tapaktuan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.25353,
+      "longitude": 97.17499,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Kasman Lizar",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 2.62858,
+      "longitude": 98.01976,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "Spbu Alue Awee",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.13365,
+      "longitude": 97.15129,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.86673,
+      "longitude": 95.34503,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.4443,
+      "longitude": 95.72952,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU lampaseh jaya no 14.231.482",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.56349,
+      "longitude": 95.32358,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.11588,
+      "longitude": 97.20255,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.59685,
+      "longitude": 97.91465,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU pertamina jeulingke 14.239.405",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.57231,
+      "longitude": 95.3439,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.01593,
+      "longitude": 98.28765,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU LAMPENEURUT 13.233.404",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.50989,
+      "longitude": 95.34763,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PAGAR AIR 14 233458",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.52697,
+      "longitude": 95.36246,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBUN 18.232.004",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.55851,
+      "longitude": 95.28813,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Lambhuk",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.55395,
+      "longitude": 95.33722,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 14.233463",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.54218,
+      "longitude": 95.36772,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 2.26943,
+      "longitude": 97.81687,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Petramina Gas Station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.17435,
+      "longitude": 98.04954,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.36658,
+      "longitude": 95.60797,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.37257,
+      "longitude": 95.89209,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.31909,
+      "longitude": 97.95011,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.44345,
+      "longitude": 97.85995,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.48534,
+      "longitude": 97.97269,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop - Tanjong Keumala",
+      "brand": "Pertamina",
+      "address": "Jl. Elak Kreung Mane - Buket Rata, Tanjong Keumala, Aceh Utara",
+      "city": "Aceh Utara",
+      "latitude": 5.21977,
+      "longitude": 96.95908,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.07755,
+      "longitude": 98.11706,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.25481,
+      "longitude": 98.06166,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.30686,
+      "longitude": 98.05045,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.12515,
+      "longitude": 97.44424,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Coco Aceh 11.231.401",
+      "brand": "Pertamina",
+      "address": "Jalan Jenderal Sudirman",
+      "city": "Aceh",
+      "latitude": 5.52475,
+      "longitude": 95.30259,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.50249,
+      "longitude": 97.80671,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.07419,
+      "longitude": 97.33902,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 2.65094,
+      "longitude": 98.23158,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 2.65075,
+      "longitude": 98.29061,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 2.89001,
+      "longitude": 97.66002,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.79667,
+      "longitude": 96.78183,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.09001,
+      "longitude": 96.21379,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.03562,
+      "longitude": 96.26378,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.45514,
+      "longitude": 97.06088,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.56733,
+      "longitude": 96.98395,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.61231,
+      "longitude": 96.943,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.75425,
+      "longitude": 96.82806,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.98759,
+      "longitude": 96.49543,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.90517,
+      "longitude": 96.69757,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.99913,
+      "longitude": 96.52482,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.4144,
+      "longitude": 97.09613,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.9237,
+      "longitude": 96.6813,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.77812,
+      "longitude": 96.81169,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.29978,
+      "longitude": 97.14966,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.07148,
+      "longitude": 96.24067,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.55329,
+      "longitude": 96.99785,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.67136,
+      "longitude": 96.90247,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.14152,
+      "longitude": 96.15876,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.47379,
+      "longitude": 95.79282,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.30487,
+      "longitude": 95.97497,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.3325,
+      "longitude": 95.94829,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.53318,
+      "longitude": 95.27816,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.56082,
+      "longitude": 95.29426,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.5743,
+      "longitude": 95.68336,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.88414,
+      "longitude": 95.40499,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.54758,
+      "longitude": 95.28709,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.3486,
+      "longitude": 95.2415,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.50444,
+      "longitude": 95.26912,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.55444,
+      "longitude": 95.28897,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.89941,
+      "longitude": 95.32229,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.55828,
+      "longitude": 95.31089,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.19815,
+      "longitude": 96.42603,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.19965,
+      "longitude": 96.56555,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.3429,
+      "longitude": 95.99449,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.25756,
+      "longitude": 96.19512,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.19994,
+      "longitude": 96.3959,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.41807,
+      "longitude": 95.88655,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.2664,
+      "longitude": 96.01846,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.22934,
+      "longitude": 96.29601,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.51549,
+      "longitude": 95.84193,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.29387,
+      "longitude": 96.02247,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.1877,
+      "longitude": 96.4986,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.26531,
+      "longitude": 96.12439,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.59065,
+      "longitude": 95.51089,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.25848,
+      "longitude": 96.07623,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.25271,
+      "longitude": 96.25672,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.36457,
+      "longitude": 95.97852,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.1922,
+      "longitude": 96.43653,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.25169,
+      "longitude": 96.04352,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.62211,
+      "longitude": 95.39891,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.32042,
+      "longitude": 96.00233,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.20337,
+      "longitude": 96.6956,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.37132,
+      "longitude": 95.97332,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.1927,
+      "longitude": 96.62439,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.74852,
+      "longitude": 96.77173,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.69023,
+      "longitude": 96.83613,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.63429,
+      "longitude": 96.72823,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.00078,
+      "longitude": 96.69337,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.90145,
+      "longitude": 96.73868,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.66282,
+      "longitude": 96.74621,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.59751,
+      "longitude": 96.79943,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.81358,
+      "longitude": 96.73807,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.59615,
+      "longitude": 96.7807,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.793,
+      "longitude": 96.7349,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.61481,
+      "longitude": 96.72765,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.13896,
+      "longitude": 96.71752,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.70651,
+      "longitude": 96.82361,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.62458,
+      "longitude": 96.83269,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.6287,
+      "longitude": 96.70781,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.62838,
+      "longitude": 96.65021,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.8294,
+      "longitude": 96.13114,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.31935,
+      "longitude": 96.19,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.52516,
+      "longitude": 96.12201,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.22483,
+      "longitude": 96.17022,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.45386,
+      "longitude": 96.15901,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.58666,
+      "longitude": 96.68964,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.5902,
+      "longitude": 97.00916,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.20454,
+      "longitude": 96.30654,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.63235,
+      "longitude": 96.85299,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.1602,
+      "longitude": 96.30307,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.26533,
+      "longitude": 96.35062,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.24236,
+      "longitude": 96.32115,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.25385,
+      "longitude": 96.4322,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.60482,
+      "longitude": 96.86263,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.62712,
+      "longitude": 96.95414,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.09086,
+      "longitude": 97.28406,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.41117,
+      "longitude": 97.11389,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.62952,
+      "longitude": 96.84417,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.55372,
+      "longitude": 96.82442,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.81718,
+      "longitude": 97.55222,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.9777,
+      "longitude": 97.34681,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.95105,
+      "longitude": 97.36313,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.36636,
+      "longitude": 97.91641,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.42521,
+      "longitude": 97.88952,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.11117,
+      "longitude": 98.28257,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.52141,
+      "longitude": 97.79959,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.53547,
+      "longitude": 97.78234,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.07288,
+      "longitude": 98.24493,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.67052,
+      "longitude": 97.66138,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.47608,
+      "longitude": 97.81813,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.20384,
+      "longitude": 98.02256,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.69772,
+      "longitude": 98.15408,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Babahrot",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.88362,
+      "longitude": 96.712,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Raya Medan-Banda Aceh",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Medan-Banda Aceh, Lhokseumawe",
+      "city": "Lhokseumawe",
+      "latitude": 5.21644,
+      "longitude": 97.05982,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.21029,
+      "longitude": 97.10097,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Merdeka",
+      "brand": "Pertamina",
+      "address": "Jalan Merdeka, Lhokseumawe",
+      "city": "Lhokseumawe",
+      "latitude": 5.17917,
+      "longitude": 97.14656,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Darussalam",
+      "brand": "Pertamina",
+      "address": "Jalan Darussalam",
+      "city": "Aceh",
+      "latitude": 5.20414,
+      "longitude": 97.13185,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.52893,
+      "longitude": 95.29562,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.1699,
+      "longitude": 97.13404,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.20041,
+      "longitude": 96.76925,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU H Zamhur NO.1.231.484",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.53508,
+      "longitude": 95.33067,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU-14231462",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.51829,
+      "longitude": 95.31549,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Bakongan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 2.91568,
+      "longitude": 97.50199,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU pom bensin polisi lamteumen barat asrama polisi",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.5304,
+      "longitude": 95.29548,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU 14.208.153",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.00852,
+      "longitude": 98.22525,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 14-239412",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.55607,
+      "longitude": 95.32851,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 00-44-02-A",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.55494,
+      "longitude": 95.32237,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.44887,
+      "longitude": 98.01213,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.10726,
+      "longitude": 96.28901,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sinabang",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 2.46854,
+      "longitude": 96.38227,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Simpang Jam",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.54732,
+      "longitude": 95.31611,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU MATANGKULI",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.036,
+      "longitude": 97.27694,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Lhoksukon",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.04259,
+      "longitude": 97.32762,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Ranto",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.06142,
+      "longitude": 97.31186,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU MINI",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.10408,
+      "longitude": 97.31859,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Simpang Rangkaya",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.05819,
+      "longitude": 97.26002,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.31677,
+      "longitude": 95.59381,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.15359,
+      "longitude": 96.14359,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.1868,
+      "longitude": 96.0973,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.63515,
+      "longitude": 95.59963,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.63259,
+      "longitude": 95.5889,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.17882,
+      "longitude": 97.28962,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU MADAT ACEH TIMUR",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.11401,
+      "longitude": 97.46279,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop CV Marjansa Utama",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.18008,
+      "longitude": 97.37024,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 5.11019,
+      "longitude": 97.35701,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.18166,
+      "longitude": 98.05219,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 3.46268,
+      "longitude": 97.82729,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Aceh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 4.01759,
+      "longitude": 97.29527,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Oyon",
+      "brand": "Pertamina",
+      "address": "Area SPBU Aceh",
+      "city": "Aceh",
+      "latitude": 2.64793,
+      "longitude": 98.00285,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
       ]
     }
   ]

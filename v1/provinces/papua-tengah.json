@@ -1,7 +1,7 @@
 {
   "province": "Papua Tengah",
   "province_slug": "papua-tengah",
-  "total_stations": 1,
+  "total_stations": 6,
   "updated_at": "2026-09-30",
   "stations": [
     {
@@ -18,6 +18,83 @@
         "Pertamax",
         "Dexlite",
         "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Papua Tengah",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Tengah",
+      "city": "Papua Tengah",
+      "latitude": -3.27445,
+      "longitude": 135.58332,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Papua Tengah",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Tengah",
+      "city": "Papua Tengah",
+      "latitude": -3.35676,
+      "longitude": 135.504,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Papua Tengah",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Tengah",
+      "city": "Papua Tengah",
+      "latitude": -4.14615,
+      "longitude": 137.0942,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU LIP Fuel Station",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Tengah",
+      "city": "Papua Tengah",
+      "latitude": -4.4437,
+      "longitude": 136.8779,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU LIP Fuel Tank Area",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Tengah",
+      "city": "Papua Tengah",
+      "latitude": -4.43853,
+      "longitude": 136.88388,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
       ]
     }
   ]

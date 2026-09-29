@@ -1,7 +1,7 @@
 {
   "province": "Kalimantan Selatan",
   "province_slug": "kalimantan-selatan",
-  "total_stations": 1,
+  "total_stations": 95,
   "updated_at": "2026-09-30",
   "stations": [
     {
@@ -18,6 +18,1496 @@
         "Pertamax",
         "Dexlite",
         "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Angsau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.79009,
+      "longitude": 114.77618,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Bati-Bati",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.5567,
+      "longitude": 114.73732,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU H. Budi",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.79983,
+      "longitude": 114.77012,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Liang Anggang",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.46214,
+      "longitude": 114.70353,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sarang Halang",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.82056,
+      "longitude": 114.78836,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.98211,
+      "longitude": 114.40878,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU APMS Pemuda",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.0008,
+      "longitude": 114.39269,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU No. 64.174.07",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.40482,
+      "longitude": 115.25988,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.41612,
+      "longitude": 115.98739,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.44262,
+      "longitude": 114.84829,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pagatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.60699,
+      "longitude": 115.92013,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Refuueling PT. BCS",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.65145,
+      "longitude": 116.36275,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.1412,
+      "longitude": 115.38935,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -1.92221,
+      "longitude": 115.59832,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Tanah Grogot",
+      "brand": "Pertamina",
+      "address": "Jln. Jendral Sudirman",
+      "city": "Kalimantan Selatan",
+      "latitude": -1.90667,
+      "longitude": 116.19112,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -1.71583,
+      "longitude": 114.84021,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 64-710406",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.4673,
+      "longitude": 115.22363,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 64.737.01",
+      "brand": "Pertamina",
+      "address": "Jl. Ahmad Yani",
+      "city": "Kalimantan Selatan",
+      "latitude": -1.80935,
+      "longitude": 115.16309,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 64.707.01",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.44715,
+      "longitude": 114.80676,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.31928,
+      "longitude": 115.46602,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.2518,
+      "longitude": 114.61126,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.03314,
+      "longitude": 115.56872,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.42936,
+      "longitude": 115.2469,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 61.707.01",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.44306,
+      "longitude": 114.82626,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU No.64-701-02",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.28961,
+      "longitude": 114.59118,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Kasarangan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.61844,
+      "longitude": 115.29259,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 65.707.01",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.44063,
+      "longitude": 114.84292,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 64.707.05",
+      "brand": "Pertamina",
+      "address": "Jalan Trikora, Banjarbaru",
+      "city": "Banjarbaru",
+      "latitude": -3.46068,
+      "longitude": 114.84218,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 63.707.01",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.47544,
+      "longitude": 114.85147,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.44275,
+      "longitude": 114.81838,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 63.707.003",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.46079,
+      "longitude": 114.79434,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 64.707.009",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.43385,
+      "longitude": 114.80504,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU 65.715.01 Mahe Pasar",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.04132,
+      "longitude": 115.46192,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Daha Barat 65.712.003",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.67953,
+      "longitude": 115.02657,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PERTAMINA KILO 4",
+      "brand": "Pertamina",
+      "address": "Kesuma Bangsa",
+      "city": "Kalimantan Selatan",
+      "latitude": -1.88495,
+      "longitude": 116.17736,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPBKB AKR",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.722,
+      "longitude": 115.29657,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU No.64.713.03",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.67429,
+      "longitude": 115.32833,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.649,
+      "longitude": 115.80184,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -1.81694,
+      "longitude": 115.98539,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "jl.trikora",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.4603,
+      "longitude": 114.82695,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 6476202",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -1.76764,
+      "longitude": 116.11676,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop Bakau",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.40418,
+      "longitude": 116.24617,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Perthashop Halangan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.32382,
+      "longitude": 115.31059,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop CV Melda Nauli Jaya",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -1.83286,
+      "longitude": 115.93014,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop 6P.76203",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -1.83046,
+      "longitude": 115.94505,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 64.715.01",
+      "brand": "Pertamina",
+      "address": "Jalan Ahmad Yani, Tabalong",
+      "city": "Tabalong",
+      "latitude": -2.17319,
+      "longitude": 115.41537,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 64-701-01",
+      "brand": "Pertamina",
+      "address": "Jalan Zafri Zam-Zam, Banjarmasin",
+      "city": "Banjarmasin",
+      "latitude": -3.32081,
+      "longitude": 114.579,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 64.701.04",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.31741,
+      "longitude": 114.59189,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.4497,
+      "longitude": 116.0024,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pasir Belengkong",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -1.96478,
+      "longitude": 116.21272,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 64.701.03",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.31599,
+      "longitude": 114.58995,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 63.762.01",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -1.8597,
+      "longitude": 116.17445,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 64.705.008",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.27634,
+      "longitude": 114.59293,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 64.721.11 Serongga",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.2067,
+      "longitude": 115.99871,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 64.714.05",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.41856,
+      "longitude": 115.42838,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 64.706.02",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.40429,
+      "longitude": 114.66853,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.89638,
+      "longitude": 115.09488,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 64.737.02",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.16298,
+      "longitude": 115.21917,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 64.706.05",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.42343,
+      "longitude": 114.68317,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pom Bensin \"Pasar Hanyar\"",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.58658,
+      "longitude": 115.37695,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Gunung Raja",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.63482,
+      "longitude": 114.70383,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Angsana",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.70887,
+      "longitude": 115.58431,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BBM TAMBANG & OLI",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -1.9921,
+      "longitude": 115.15453,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.34465,
+      "longitude": 114.623,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 63-701-003",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.31934,
+      "longitude": 114.61875,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.31161,
+      "longitude": 114.61602,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.29832,
+      "longitude": 114.60464,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.32457,
+      "longitude": 114.62519,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 64.702.02",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.34991,
+      "longitude": 114.6259,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 61-706-01",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.37418,
+      "longitude": 114.64457,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Belitung Darat",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.30191,
+      "longitude": 114.5754,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.44211,
+      "longitude": 114.69693,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina (Trucks Only)",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.35362,
+      "longitude": 114.57704,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.3666,
+      "longitude": 114.58456,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.41561,
+      "longitude": 114.70069,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamini",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.85265,
+      "longitude": 115.00329,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sungai Tabuk Kota",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.3157,
+      "longitude": 114.69492,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sungai Tabuk",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.32233,
+      "longitude": 114.68401,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.94058,
+      "longitude": 115.14692,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.00102,
+      "longitude": 114.77652,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 63-701-002",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.34331,
+      "longitude": 114.60691,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Veteran",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.42327,
+      "longitude": 114.83849,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sungai Paring 64.706.01",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.43627,
+      "longitude": 114.84886,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 64.706.07",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.442,
+      "longitude": 114.7376,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 65.715.02",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.16229,
+      "longitude": 115.43504,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 64.715.03",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.19779,
+      "longitude": 115.44677,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.95638,
+      "longitude": 115.15241,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.93511,
+      "longitude": 115.08827,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.38269,
+      "longitude": 115.97705,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kalimantan Selatan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.63083,
+      "longitude": 115.34098,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 63.713.01",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -2.57419,
+      "longitude": 115.39566,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU MANTANGAI",
+      "brand": "Pertamina",
+      "address": "Jalan Lintas Trans Kalimantan, Mantangai Hilir, Kapuas",
+      "city": "Kapuas",
+      "latitude": -2.51775,
+      "longitude": 114.49618,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 64.707.10",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.43495,
+      "longitude": 114.69028,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 64.701.09",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kalimantan Selatan",
+      "city": "Kalimantan Selatan",
+      "latitude": -3.28108,
+      "longitude": 114.58916,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
       ]
     }
   ]

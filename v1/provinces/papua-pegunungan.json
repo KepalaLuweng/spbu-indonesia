@@ -1,7 +1,7 @@
 {
   "province": "Papua Pegunungan",
   "province_slug": "papua-pegunungan",
-  "total_stations": 1,
+  "total_stations": 6,
   "updated_at": "2026-09-30",
   "stations": [
     {
@@ -18,6 +18,81 @@
         "Pertamax",
         "Dexlite",
         "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Papua Pegunungan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Pegunungan",
+      "city": "Papua Pegunungan",
+      "latitude": -4.08588,
+      "longitude": 138.94183,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Papua Pegunungan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Pegunungan",
+      "city": "Papua Pegunungan",
+      "latitude": -4.10093,
+      "longitude": 138.92959,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Papua Pegunungan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Pegunungan",
+      "city": "Papua Pegunungan",
+      "latitude": -4.08149,
+      "longitude": 138.939,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Papua Pegunungan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Pegunungan",
+      "city": "Papua Pegunungan",
+      "latitude": -4.09633,
+      "longitude": 138.94436,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Papua Pegunungan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Pegunungan",
+      "city": "Papua Pegunungan",
+      "latitude": -4.87518,
+      "longitude": 139.48062,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
       ]
     }
   ]

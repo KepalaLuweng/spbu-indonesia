@@ -1,7 +1,7 @@
 {
   "province": "Kepulauan Bangka Belitung",
   "province_slug": "bangka-belitung",
-  "total_stations": 1,
+  "total_stations": 40,
   "updated_at": "2026-09-30",
   "stations": [
     {
@@ -18,6 +18,605 @@
         "Pertamax",
         "Dexlite",
         "Solar"
+      ]
+    },
+    {
+      "name": "SPBU A. Yani",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.12392,
+      "longitude": 106.10697,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 23.331.11",
+      "brand": "Pertamina",
+      "address": "Jl. Yos Sudarso",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.10169,
+      "longitude": 106.12339,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.331.67",
+      "brand": "Pertamina",
+      "address": "Jl. Soekarno - Hatta",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.16241,
+      "longitude": 106.13168,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.332.133",
+      "brand": "Pertamina",
+      "address": "Jl. Jenderal Sudirman",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -1.89731,
+      "longitude": 106.11087,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.331.151",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.13398,
+      "longitude": 106.14797,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.33168",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.13816,
+      "longitude": 106.11989,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.77933,
+      "longitude": 107.65253,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Bangka Belitung",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.59523,
+      "longitude": 107.63427,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Bangka Belitung",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.74771,
+      "longitude": 107.65045,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Bangka Belitung",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.7278,
+      "longitude": 107.65846,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Bangka Belitung",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.86316,
+      "longitude": 108.27046,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Air Ruay Kec.Pemali",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -1.87697,
+      "longitude": 106.08324,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Bangka Belitung",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.09892,
+      "longitude": 106.11167,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 25.334.159",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.74159,
+      "longitude": 107.62886,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 2P33426",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.71861,
+      "longitude": 107.6303,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 28.415.06",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.70593,
+      "longitude": 107.62026,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 24.33479",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.74746,
+      "longitude": 107.65706,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kepulauan Bangka Belitung",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -3.01044,
+      "longitude": 106.45946,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sarana Pengisian Bahan Bakar Nelayan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.08679,
+      "longitude": 106.15404,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sp. Kepoh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.99286,
+      "longitude": 106.47838,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Berok",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.48724,
+      "longitude": 106.40656,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Depot Pertamina Aviation",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.16051,
+      "longitude": 106.13656,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertaminan Belinyu",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -1.64797,
+      "longitude": 105.78818,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -1.63767,
+      "longitude": 105.77136,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.333.76",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.0565,
+      "longitude": 105.17192,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -1.73722,
+      "longitude": 105.86124,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.333.77",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -1.89655,
+      "longitude": 105.70583,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Gadung",
+      "brand": "Pertamina",
+      "address": "Jl. Raya Gadung, Toboali",
+      "city": "Toboali",
+      "latitude": -2.96555,
+      "longitude": 106.47289,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Parit 9",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -3.00772,
+      "longitude": 106.4998,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Temayang",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.9787,
+      "longitude": 106.44484,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Mangkol",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.14846,
+      "longitude": 106.09527,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Kampung Keramat",
+      "brand": "Pertamina",
+      "address": "Pangkalpinang",
+      "city": "Pangkalpinang",
+      "latitude": -2.13796,
+      "longitude": 106.0949,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pal 3 Muntok",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Pangkalpinang - Muntok No. 3, Bangka",
+      "city": "Bangka",
+      "latitude": -2.04685,
+      "longitude": 105.19229,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.33.1127",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Mentok",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.13177,
+      "longitude": 106.05678,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.331.141",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.02338,
+      "longitude": 105.94109,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.333.129",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -2.04132,
+      "longitude": 105.2209,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.333.97",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -1.87385,
+      "longitude": 105.46612,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.333.125",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -1.87126,
+      "longitude": 105.65888,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPPBE",
+      "brand": "Pertamina",
+      "address": "Area SPBU Kepulauan Bangka Belitung",
+      "city": "Kepulauan Bangka Belitung",
+      "latitude": -1.87117,
+      "longitude": 105.66235,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
       ]
     }
   ]

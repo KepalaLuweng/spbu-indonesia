@@ -1,238 +1,239 @@
 {
-  "version": "1.0.0",
+  "version": "2.0.0",
   "updated_at": "2026-09-30",
   "author": "KepalaLuweng",
+  "organization": "LuwengGroup",
   "repository": "https://github.com/KepalaLuweng/spbu-indonesia",
   "description": "API dan Database Terbuka Lokasi SPBU Pertamina Seluruh Indonesia (38 Provinsi)",
+  "total_national_stations": 6292,
   "provinces": [
     {
       "name": "Aceh",
       "slug": "aceh",
-      "total_stations": 1,
+      "total_stations": 179,
       "endpoint": "v1/provinces/aceh.json"
-    },
-    {
-      "name": "Sumatera Utara",
-      "slug": "sumatera-utara",
-      "total_stations": 3,
-      "endpoint": "v1/provinces/sumatera-utara.json",
-      "stations_count": 47
-    },
-    {
-      "name": "Sumatera Barat",
-      "slug": "sumatera-barat",
-      "total_stations": 1,
-      "endpoint": "v1/provinces/sumatera-barat.json"
-    },
-    {
-      "name": "Riau",
-      "slug": "riau",
-      "total_stations": 1,
-      "endpoint": "v1/provinces/riau.json"
-    },
-    {
-      "name": "Kepulauan Riau",
-      "slug": "kepulauan-riau",
-      "total_stations": 1,
-      "endpoint": "v1/provinces/kepulauan-riau.json"
-    },
-    {
-      "name": "Jambi",
-      "slug": "jambi",
-      "total_stations": 1,
-      "endpoint": "v1/provinces/jambi.json"
-    },
-    {
-      "name": "Bengkulu",
-      "slug": "bengkulu",
-      "total_stations": 1,
-      "endpoint": "v1/provinces/bengkulu.json"
-    },
-    {
-      "name": "Sumatera Selatan",
-      "slug": "sumatera-selatan",
-      "total_stations": 1,
-      "endpoint": "v1/provinces/sumatera-selatan.json"
-    },
-    {
-      "name": "Kepulauan Bangka Belitung",
-      "slug": "bangka-belitung",
-      "total_stations": 1,
-      "endpoint": "v1/provinces/bangka-belitung.json"
-    },
-    {
-      "name": "Lampung",
-      "slug": "lampung",
-      "total_stations": 1,
-      "endpoint": "v1/provinces/lampung.json"
-    },
-    {
-      "name": "DKI Jakarta",
-      "slug": "dki-jakarta",
-      "total_stations": 8,
-      "endpoint": "v1/provinces/dki-jakarta.json"
-    },
-    {
-      "name": "Jawa Barat",
-      "slug": "jawa-barat",
-      "total_stations": 6,
-      "endpoint": "v1/provinces/jawa-barat.json"
-    },
-    {
-      "name": "Banten",
-      "slug": "banten",
-      "total_stations": 4,
-      "endpoint": "v1/provinces/banten.json"
-    },
-    {
-      "name": "Jawa Tengah",
-      "slug": "jawa-tengah",
-      "total_stations": 4,
-      "endpoint": "v1/provinces/jawa-tengah.json"
-    },
-    {
-      "name": "DI Yogyakarta",
-      "slug": "di-yogyakarta",
-      "total_stations": 3,
-      "endpoint": "v1/provinces/di-yogyakarta.json"
-    },
-    {
-      "name": "Jawa Timur",
-      "slug": "jawa-timur",
-      "total_stations": 4,
-      "endpoint": "v1/provinces/jawa-timur.json"
     },
     {
       "name": "Bali",
       "slug": "bali",
-      "total_stations": 2,
+      "total_stations": 293,
       "endpoint": "v1/provinces/bali.json"
     },
     {
-      "name": "Nusa Tenggara Barat",
-      "slug": "nusa-tenggara-barat",
-      "total_stations": 1,
-      "endpoint": "v1/provinces/nusa-tenggara-barat.json"
+      "name": "Kepulauan Bangka Belitung",
+      "slug": "bangka-belitung",
+      "total_stations": 40,
+      "endpoint": "v1/provinces/bangka-belitung.json"
     },
     {
-      "name": "Nusa Tenggara Timur",
-      "slug": "nusa-tenggara-timur",
-      "total_stations": 1,
-      "endpoint": "v1/provinces/nusa-tenggara-timur.json"
+      "name": "Banten",
+      "slug": "banten",
+      "total_stations": 253,
+      "endpoint": "v1/provinces/banten.json"
+    },
+    {
+      "name": "Bengkulu",
+      "slug": "bengkulu",
+      "total_stations": 141,
+      "endpoint": "v1/provinces/bengkulu.json"
+    },
+    {
+      "name": "DI Yogyakarta",
+      "slug": "di-yogyakarta",
+      "total_stations": 257,
+      "endpoint": "v1/provinces/di-yogyakarta.json"
+    },
+    {
+      "name": "DKI Jakarta",
+      "slug": "dki-jakarta",
+      "total_stations": 483,
+      "endpoint": "v1/provinces/dki-jakarta.json"
+    },
+    {
+      "name": "Gorontalo",
+      "slug": "gorontalo",
+      "total_stations": 20,
+      "endpoint": "v1/provinces/gorontalo.json"
+    },
+    {
+      "name": "Jambi",
+      "slug": "jambi",
+      "total_stations": 147,
+      "endpoint": "v1/provinces/jambi.json"
+    },
+    {
+      "name": "Jawa Barat",
+      "slug": "jawa-barat",
+      "total_stations": 1273,
+      "endpoint": "v1/provinces/jawa-barat.json"
+    },
+    {
+      "name": "Jawa Tengah",
+      "slug": "jawa-tengah",
+      "total_stations": 20,
+      "endpoint": "v1/provinces/jawa-tengah.json"
+    },
+    {
+      "name": "Jawa Timur",
+      "slug": "jawa-timur",
+      "total_stations": 20,
+      "endpoint": "v1/provinces/jawa-timur.json"
     },
     {
       "name": "Kalimantan Barat",
       "slug": "kalimantan-barat",
-      "total_stations": 1,
+      "total_stations": 144,
       "endpoint": "v1/provinces/kalimantan-barat.json"
-    },
-    {
-      "name": "Kalimantan Tengah",
-      "slug": "kalimantan-tengah",
-      "total_stations": 1,
-      "endpoint": "v1/provinces/kalimantan-tengah.json"
     },
     {
       "name": "Kalimantan Selatan",
       "slug": "kalimantan-selatan",
-      "total_stations": 1,
+      "total_stations": 95,
       "endpoint": "v1/provinces/kalimantan-selatan.json"
+    },
+    {
+      "name": "Kalimantan Tengah",
+      "slug": "kalimantan-tengah",
+      "total_stations": 126,
+      "endpoint": "v1/provinces/kalimantan-tengah.json"
     },
     {
       "name": "Kalimantan Timur",
       "slug": "kalimantan-timur",
-      "total_stations": 2,
+      "total_stations": 107,
       "endpoint": "v1/provinces/kalimantan-timur.json"
     },
     {
       "name": "Kalimantan Utara",
       "slug": "kalimantan-utara",
-      "total_stations": 1,
+      "total_stations": 6,
       "endpoint": "v1/provinces/kalimantan-utara.json"
     },
     {
-      "name": "Sulawesi Utara",
-      "slug": "sulawesi-utara",
-      "total_stations": 1,
-      "endpoint": "v1/provinces/sulawesi-utara.json"
+      "name": "Kepulauan Riau",
+      "slug": "kepulauan-riau",
+      "total_stations": 448,
+      "endpoint": "v1/provinces/kepulauan-riau.json"
     },
     {
-      "name": "Gorontalo",
-      "slug": "gorontalo",
-      "total_stations": 1,
-      "endpoint": "v1/provinces/gorontalo.json"
-    },
-    {
-      "name": "Sulawesi Tengah",
-      "slug": "sulawesi-tengah",
-      "total_stations": 1,
-      "endpoint": "v1/provinces/sulawesi-tengah.json"
-    },
-    {
-      "name": "Sulawesi Barat",
-      "slug": "sulawesi-barat",
-      "total_stations": 1,
-      "endpoint": "v1/provinces/sulawesi-barat.json"
-    },
-    {
-      "name": "Sulawesi Selatan",
-      "slug": "sulawesi-selatan",
-      "total_stations": 2,
-      "endpoint": "v1/provinces/sulawesi-selatan.json"
-    },
-    {
-      "name": "Sulawesi Tenggara",
-      "slug": "sulawesi-tenggara",
-      "total_stations": 1,
-      "endpoint": "v1/provinces/sulawesi-tenggara.json"
-    },
-    {
-      "name": "Maluku",
-      "slug": "maluku",
-      "total_stations": 1,
-      "endpoint": "v1/provinces/maluku.json"
+      "name": "Lampung",
+      "slug": "lampung",
+      "total_stations": 226,
+      "endpoint": "v1/provinces/lampung.json"
     },
     {
       "name": "Maluku Utara",
       "slug": "maluku-utara",
-      "total_stations": 1,
+      "total_stations": 6,
       "endpoint": "v1/provinces/maluku-utara.json"
     },
     {
-      "name": "Papua",
-      "slug": "papua",
-      "total_stations": 1,
-      "endpoint": "v1/provinces/papua.json"
+      "name": "Maluku",
+      "slug": "maluku",
+      "total_stations": 36,
+      "endpoint": "v1/provinces/maluku.json"
+    },
+    {
+      "name": "Nusa Tenggara Barat",
+      "slug": "nusa-tenggara-barat",
+      "total_stations": 9,
+      "endpoint": "v1/provinces/nusa-tenggara-barat.json"
+    },
+    {
+      "name": "Nusa Tenggara Timur",
+      "slug": "nusa-tenggara-timur",
+      "total_stations": 77,
+      "endpoint": "v1/provinces/nusa-tenggara-timur.json"
+    },
+    {
+      "name": "Papua Barat Daya",
+      "slug": "papua-barat-daya",
+      "total_stations": 13,
+      "endpoint": "v1/provinces/papua-barat-daya.json"
     },
     {
       "name": "Papua Barat",
       "slug": "papua-barat",
-      "total_stations": 1,
+      "total_stations": 6,
       "endpoint": "v1/provinces/papua-barat.json"
+    },
+    {
+      "name": "Papua Pegunungan",
+      "slug": "papua-pegunungan",
+      "total_stations": 6,
+      "endpoint": "v1/provinces/papua-pegunungan.json"
     },
     {
       "name": "Papua Selatan",
       "slug": "papua-selatan",
-      "total_stations": 1,
+      "total_stations": 6,
       "endpoint": "v1/provinces/papua-selatan.json"
     },
     {
       "name": "Papua Tengah",
       "slug": "papua-tengah",
-      "total_stations": 1,
+      "total_stations": 6,
       "endpoint": "v1/provinces/papua-tengah.json"
     },
     {
-      "name": "Papua Pegunungan",
-      "slug": "papua-pegunungan",
-      "total_stations": 1,
-      "endpoint": "v1/provinces/papua-pegunungan.json"
+      "name": "Papua",
+      "slug": "papua",
+      "total_stations": 6,
+      "endpoint": "v1/provinces/papua.json"
     },
     {
-      "name": "Papua Barat Daya",
-      "slug": "papua-barat-daya",
-      "total_stations": 1,
-      "endpoint": "v1/provinces/papua-barat-daya.json"
+      "name": "Riau",
+      "slug": "riau",
+      "total_stations": 717,
+      "endpoint": "v1/provinces/riau.json"
+    },
+    {
+      "name": "Sulawesi Barat",
+      "slug": "sulawesi-barat",
+      "total_stations": 40,
+      "endpoint": "v1/provinces/sulawesi-barat.json"
+    },
+    {
+      "name": "Sulawesi Selatan",
+      "slug": "sulawesi-selatan",
+      "total_stations": 185,
+      "endpoint": "v1/provinces/sulawesi-selatan.json"
+    },
+    {
+      "name": "Sulawesi Tengah",
+      "slug": "sulawesi-tengah",
+      "total_stations": 76,
+      "endpoint": "v1/provinces/sulawesi-tengah.json"
+    },
+    {
+      "name": "Sulawesi Tenggara",
+      "slug": "sulawesi-tenggara",
+      "total_stations": 48,
+      "endpoint": "v1/provinces/sulawesi-tenggara.json"
+    },
+    {
+      "name": "Sulawesi Utara",
+      "slug": "sulawesi-utara",
+      "total_stations": 56,
+      "endpoint": "v1/provinces/sulawesi-utara.json"
+    },
+    {
+      "name": "Sumatera Barat",
+      "slug": "sumatera-barat",
+      "total_stations": 126,
+      "endpoint": "v1/provinces/sumatera-barat.json"
+    },
+    {
+      "name": "Sumatera Selatan",
+      "slug": "sumatera-selatan",
+      "total_stations": 295,
+      "endpoint": "v1/provinces/sumatera-selatan.json"
+    },
+    {
+      "name": "Sumatera Utara",
+      "slug": "sumatera-utara",
+      "total_stations": 300,
+      "endpoint": "v1/provinces/sumatera-utara.json"
     }
   ]
 }

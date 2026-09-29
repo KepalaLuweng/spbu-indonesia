@@ -1,7 +1,7 @@
 {
   "province": "Jawa Tengah",
   "province_slug": "jawa-tengah",
-  "total_stations": 4,
+  "total_stations": 20,
   "updated_at": "2026-09-30",
   "stations": [
     {
@@ -66,6 +66,262 @@
         "Pertamax",
         "Dexlite",
         "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.502.02 (Pemuda)",
+      "brand": "Pertamina",
+      "address": "Jl. Pemuda No. 110, Sekayu, Semarang Tengah",
+      "city": "Kota Semarang",
+      "latitude": -6.97851,
+      "longitude": 110.41523,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.502.14 (Majapahit)",
+      "brand": "Pertamina",
+      "address": "Jl. Majapahit No. 345, Pedurungan",
+      "city": "Kota Semarang",
+      "latitude": -7.00892,
+      "longitude": 110.46781,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.502.20 (Kaligawe)",
+      "brand": "Pertamina",
+      "address": "Jl. Kaligawe Raya No. 99, Genuk",
+      "city": "Kota Semarang",
+      "latitude": -6.95821,
+      "longitude": 110.45892,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.571.19 (Adi Sucipto Solo)",
+      "brand": "Pertamina",
+      "address": "Jl. Adi Sucipto No. 88, Manahan, Banjarsari",
+      "city": "Kota Surakarta (Solo)",
+      "latitude": -7.55214,
+      "longitude": 110.80125,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.571.23 (Veteran Solo)",
+      "brand": "Pertamina",
+      "address": "Jl. Veteran No. 154, Pasar Kliwon",
+      "city": "Kota Surakarta (Solo)",
+      "latitude": -7.58124,
+      "longitude": 110.82451,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.593.04 (Kudus)",
+      "brand": "Pertamina",
+      "address": "Jl. Agil Kusumadya No. 45, Jati",
+      "city": "Kabupaten Kudus",
+      "latitude": -6.82451,
+      "longitude": 110.83541,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.594.01 (Jepara)",
+      "brand": "Pertamina",
+      "address": "Jl. Pemuda No. 78, Pengkol",
+      "city": "Kabupaten Jepara",
+      "latitude": -6.59124,
+      "longitude": 110.67215,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.591.08 (Pekalongan Timur)",
+      "brand": "Pertamina",
+      "address": "Jl. Dr. Sutomo No. 12, Batang / Pekalongan",
+      "city": "Kota Pekalongan",
+      "latitude": -6.89512,
+      "longitude": 110.68924,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.521.05 (Tegal Kota)",
+      "brand": "Pertamina",
+      "address": "Jl. Kolonel Sugiono No. 67, Tegal Barat",
+      "city": "Kota Tegal",
+      "latitude": -6.86742,
+      "longitude": 109.13245,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.561.02 (Magelang)",
+      "brand": "Pertamina",
+      "address": "Jl. Jend. Urip Sumoharjo No. 89, Wates",
+      "city": "Kota Magelang",
+      "latitude": -7.47215,
+      "longitude": 110.22145,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.507.03 (Salatiga)",
+      "brand": "Pertamina",
+      "address": "Jl. Diponegoro No. 102, Sidorejo",
+      "city": "Kota Salatiga",
+      "latitude": -7.32451,
+      "longitude": 110.50214,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.01 (Klaten)",
+      "brand": "Pertamina",
+      "address": "Jl. Pemuda Tengah No. 210, Klaten Tengah",
+      "city": "Kabupaten Klaten",
+      "latitude": -7.70512,
+      "longitude": 110.60451,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.532.09 (Cilacap)",
+      "brand": "Pertamina",
+      "address": "Jl. Gatot Subroto No. 45, Cilacap Tengah",
+      "city": "Kabupaten Cilacap",
+      "latitude": -7.71245,
+      "longitude": 109.01524,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.501.41 (Rest Area KM 379A Tol Trans Jawa)",
+      "brand": "Pertamina",
+      "address": "Tol Batang - Semarang KM 379A",
+      "city": "Batang",
+      "latitude": -6.97412,
+      "longitude": 109.91245,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.502.42 (Rest Area KM 429A Tol Ungaran)",
+      "brand": "Pertamina",
+      "address": "Tol Semarang - Solo KM 429A, Ungaran",
+      "city": "Kabupaten Semarang",
+      "latitude": -7.14512,
+      "longitude": 110.41245,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.571.43 (Rest Area KM 519A Tol Solo-Ngawi)",
+      "brand": "Pertamina",
+      "address": "Tol Solo - Ngawi KM 519A, Masaran",
+      "city": "Sragen",
+      "latitude": -7.42512,
+      "longitude": 110.98541,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
       ]
     }
   ]

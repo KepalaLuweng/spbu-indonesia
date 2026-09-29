@@ -1,7 +1,7 @@
 {
   "province": "Gorontalo",
   "province_slug": "gorontalo",
-  "total_stations": 1,
+  "total_stations": 20,
   "updated_at": "2026-09-30",
   "stations": [
     {
@@ -18,6 +18,310 @@
         "Pertamax",
         "Dexlite",
         "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Gorontalo",
+      "brand": "Pertamina",
+      "address": "Area SPBU Gorontalo",
+      "city": "Gorontalo",
+      "latitude": 0.54243,
+      "longitude": 123.06129,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Gorontalo",
+      "brand": "Pertamina",
+      "address": "Area SPBU Gorontalo",
+      "city": "Gorontalo",
+      "latitude": 0.56979,
+      "longitude": 123.06091,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Gorontalo",
+      "brand": "Pertamina",
+      "address": "Area SPBU Gorontalo",
+      "city": "Gorontalo",
+      "latitude": 0.58696,
+      "longitude": 123.03833,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Gorontalo",
+      "brand": "Pertamina",
+      "address": "Area SPBU Gorontalo",
+      "city": "Gorontalo",
+      "latitude": 0.61329,
+      "longitude": 123.02095,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Gorontalo",
+      "brand": "Pertamina",
+      "address": "Area SPBU Gorontalo",
+      "city": "Gorontalo",
+      "latitude": 0.52197,
+      "longitude": 123.06432,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pom Bensin \"Tinaloga\"",
+      "brand": "Pertamina",
+      "address": "Jalan Tinaloga",
+      "city": "Gorontalo",
+      "latitude": 0.56516,
+      "longitude": 123.08907,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Gorontalo",
+      "brand": "Pertamina",
+      "address": "Area SPBU Gorontalo",
+      "city": "Gorontalo",
+      "latitude": 0.91287,
+      "longitude": 123.27701,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Gorontalo",
+      "brand": "Pertamina",
+      "address": "Area SPBU Gorontalo",
+      "city": "Gorontalo",
+      "latitude": 0.77719,
+      "longitude": 122.86083,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPBE",
+      "brand": "Pertamina",
+      "address": "Area SPBU Gorontalo",
+      "city": "Gorontalo",
+      "latitude": 0.56541,
+      "longitude": 123.02273,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pangkalan Gas LPG TIGA BERKAT",
+      "brand": "Pertamina",
+      "address": "Area SPBU Gorontalo",
+      "city": "Gorontalo",
+      "latitude": 0.52372,
+      "longitude": 123.0664,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PT. Pertamina Unit Pemasaran VII",
+      "brand": "Pertamina",
+      "address": "Area SPBU Gorontalo",
+      "city": "Gorontalo",
+      "latitude": 0.51324,
+      "longitude": 123.06032,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Gorontalo",
+      "brand": "Pertamina",
+      "address": "Area SPBU Gorontalo",
+      "city": "Gorontalo",
+      "latitude": 0.57033,
+      "longitude": 123.04686,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU ENDURO EXPRESS ARBA GRUP",
+      "brand": "Pertamina",
+      "address": "Area SPBU Gorontalo",
+      "city": "Gorontalo",
+      "latitude": 0.53914,
+      "longitude": 123.04884,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Raja Eyato 7496104",
+      "brand": "Pertamina",
+      "address": "Area SPBU Gorontalo",
+      "city": "Gorontalo",
+      "latitude": 0.53932,
+      "longitude": 123.04832,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Gorontalo",
+      "brand": "Pertamina",
+      "address": "Area SPBU Gorontalo",
+      "city": "Gorontalo",
+      "latitude": 0.58625,
+      "longitude": 123.03887,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Gorontalo",
+      "brand": "Pertamina",
+      "address": "Area SPBU Gorontalo",
+      "city": "Gorontalo",
+      "latitude": 0.52297,
+      "longitude": 123.06424,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Gorontalo",
+      "brand": "Pertamina",
+      "address": "Area SPBU Gorontalo",
+      "city": "Gorontalo",
+      "latitude": 0.61934,
+      "longitude": 122.98833,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamini",
+      "brand": "Pertamina",
+      "address": "Area SPBU Gorontalo",
+      "city": "Gorontalo",
+      "latitude": 0.61891,
+      "longitude": 123.01313,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Tamalate, Kec Kota Timur",
+      "brand": "Pertamina",
+      "address": "Area SPBU Gorontalo",
+      "city": "Gorontalo",
+      "latitude": 0.54185,
+      "longitude": 123.0795,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
       ]
     }
   ]

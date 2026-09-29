@@ -1,7 +1,7 @@
 {
   "province": "Maluku Utara",
   "province_slug": "maluku-utara",
-  "total_stations": 1,
+  "total_stations": 6,
   "updated_at": "2026-09-30",
   "stations": [
     {
@@ -18,6 +18,86 @@
         "Pertamax",
         "Dexlite",
         "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 74.977.01 (Ternate Bastiong)",
+      "brand": "Pertamina",
+      "address": "Jl. Bastiong No. 45, Ternate Selatan",
+      "city": "Kota Ternate",
+      "latitude": 0.77245,
+      "longitude": 127.37541,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 74.977.03 (Ternate Jambula)",
+      "brand": "Pertamina",
+      "address": "Jl. Raya Jambula No. 18, Ternate Pulau",
+      "city": "Kota Ternate",
+      "latitude": 0.74512,
+      "longitude": 127.34512,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 74.978.02 (Tidore)",
+      "brand": "Pertamina",
+      "address": "Jl. Sultan Mansyur No. 22, Tidore",
+      "city": "Kota Tidore Kepulauan",
+      "latitude": 0.68541,
+      "longitude": 127.43541,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 74.978.05 (Sofifi)",
+      "brand": "Pertamina",
+      "address": "Jl. Trans Halmahera KM 10, Oba Utara",
+      "city": "Kota Tidore Kepulauan (Sofifi)",
+      "latitude": 0.72512,
+      "longitude": 127.57541,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 74.979.01 (Tobelo Halmahera Utara)",
+      "brand": "Pertamina",
+      "address": "Jl. Kemakmuran No. 89, Tobelo",
+      "city": "Halmahera Utara",
+      "latitude": 1.72854,
+      "longitude": 128.00541,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
       ]
     }
   ]

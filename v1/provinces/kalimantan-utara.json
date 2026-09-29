@@ -1,7 +1,7 @@
 {
   "province": "Kalimantan Utara",
   "province_slug": "kalimantan-utara",
-  "total_stations": 1,
+  "total_stations": 6,
   "updated_at": "2026-09-30",
   "stations": [
     {
@@ -18,6 +18,86 @@
         "Pertamax",
         "Dexlite",
         "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 64.771.01 (Tarakan Kusuma Bangsa)",
+      "brand": "Pertamina",
+      "address": "Jl. Kusuma Bangsa No. 88, Tarakan Timur",
+      "city": "Kota Tarakan",
+      "latitude": 3.30854,
+      "longitude": 117.61541,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 64.771.04 (Tarakan Juata)",
+      "brand": "Pertamina",
+      "address": "Jl. Pangeran Aji Iskandar, Tarakan Utara",
+      "city": "Kota Tarakan",
+      "latitude": 3.39512,
+      "longitude": 117.58541,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 64.772.02 (Tanjung Selor Bulungan)",
+      "brand": "Pertamina",
+      "address": "Jl. Sengkawit No. 45, Tanjung Selor Hilir",
+      "city": "Kabupaten Bulungan",
+      "latitude": 2.84512,
+      "longitude": 117.36854,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 64.773.01 (Nunukan)",
+      "brand": "Pertamina",
+      "address": "Jl. TVRI No. 12, Nunukan Timur",
+      "city": "Kabupaten Nunukan",
+      "latitude": 4.13541,
+      "longitude": 117.65214,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 64.774.01 (Malinau)",
+      "brand": "Pertamina",
+      "address": "Jl. Pusat Pemerintahan No. 20, Malinau Kota",
+      "city": "Kabupaten Malinau",
+      "latitude": 3.58541,
+      "longitude": 116.63541,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "Dexlite"
       ]
     }
   ]

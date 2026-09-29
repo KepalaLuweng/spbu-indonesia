@@ -1,7 +1,7 @@
 {
   "province": "Jambi",
   "province_slug": "jambi",
-  "total_stations": 1,
+  "total_stations": 147,
   "updated_at": "2026-09-30",
   "stations": [
     {
@@ -18,6 +18,2228 @@
         "Pertamax",
         "Dexlite",
         "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jambi",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.4422,
+      "longitude": 101.01793,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pom Mini",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.11481,
+      "longitude": 102.01663,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop 2P.371.238",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.16902,
+      "longitude": 101.59718,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pom Mini",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.12038,
+      "longitude": 101.94219,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jambi",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.47445,
+      "longitude": 103.02428,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jambi",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.4892,
+      "longitude": 102.09906,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.67112,
+      "longitude": 101.22735,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jambi",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.65367,
+      "longitude": 101.31664,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.65904,
+      "longitude": 101.25481,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.78569,
+      "longitude": 101.39845,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.73643,
+      "longitude": 101.36144,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.63539,
+      "longitude": 101.28074,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.68584,
+      "longitude": 101.34433,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.66614,
+      "longitude": 101.3443,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.60333,
+      "longitude": 101.12247,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.25449,
+      "longitude": 101.13609,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.10428,
+      "longitude": 101.42411,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jambi",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.43752,
+      "longitude": 101.15093,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jambi",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.06811,
+      "longitude": 101.38726,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.39901,
+      "longitude": 101.15331,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.48831,
+      "longitude": 101.09134,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.3761,
+      "longitude": 101.14809,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.17698,
+      "longitude": 101.05892,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jambi",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.08257,
+      "longitude": 101.40883,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jambi",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.03933,
+      "longitude": 101.3871,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jambi",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.76072,
+      "longitude": 101.30632,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.51259,
+      "longitude": 101.0843,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.79719,
+      "longitude": 101.29863,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jambi",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.56502,
+      "longitude": 101.25481,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.02183,
+      "longitude": 101.37732,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.54435,
+      "longitude": 101.11432,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.77614,
+      "longitude": 101.26346,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.8913,
+      "longitude": 101.29822,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.72079,
+      "longitude": 101.34325,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.8425,
+      "longitude": 101.26007,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jambi",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.58778,
+      "longitude": 101.18381,
+      "is_24_hours": true,
+      "facilities": "Toilet • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Pertamina Dex"
+      ]
+    },
+    {
+      "name": "SPBU Simpang Sawmill",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.39951,
+      "longitude": 102.03025,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Muara Labuh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.47685,
+      "longitude": 101.04791,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU 24.372.44",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.49847,
+      "longitude": 102.10496,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.372.21",
+      "brand": "Pertamina",
+      "address": "JL. LINTAS SUMATERA",
+      "city": "Jambi",
+      "latitude": -1.45122,
+      "longitude": 102.12306,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sukajaya",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.88051,
+      "longitude": 103.5936,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Mekar Jaya",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.94482,
+      "longitude": 103.64896,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Tempino",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.77857,
+      "longitude": 103.51849,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sungai Buluh",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.70814,
+      "longitude": 103.31466,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sungai Puar",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.64328,
+      "longitude": 102.92956,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.307.157",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.4516,
+      "longitude": 103.95203,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pal 9",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.53695,
+      "longitude": 102.09959,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Muara Bulian",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.72133,
+      "longitude": 103.24667,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Semaran",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.11351,
+      "longitude": 102.86169,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Bernai",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.30274,
+      "longitude": 102.69502,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Rantau Puri",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.66899,
+      "longitude": 103.32575,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Durian Luncuk",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.87545,
+      "longitude": 103.00342,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Muara Tebo",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.46779,
+      "longitude": 102.43926,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU 24-372-23",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.4617,
+      "longitude": 102.46125,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sungai Bengkal",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.53506,
+      "longitude": 102.69853,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.275.506",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -0.76422,
+      "longitude": 101.03571,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Silaut",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.33541,
+      "longitude": 101.1545,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 14.293.642",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -0.76686,
+      "longitude": 102.55115,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.372.30",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.68693,
+      "longitude": 102.15349,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Koto Rayo",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.81153,
+      "longitude": 102.26064,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pelawan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.38957,
+      "longitude": 102.70286,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Senamat",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.64686,
+      "longitude": 102.13854,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU 24.372.22",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.53811,
+      "longitude": 102.09886,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU 23.373.06",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.96426,
+      "longitude": 102.28974,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Siulak",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.95236,
+      "longitude": 101.3377,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Simpang Babeko",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.49227,
+      "longitude": 102.20268,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU 24.372.67",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.47381,
+      "longitude": 102.16495,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Bangko",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.05834,
+      "longitude": 102.2744,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU 24.361.02",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.58303,
+      "longitude": 103.5564,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pondok Meja",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.69386,
+      "longitude": 103.58508,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU 24.363.49",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.66923,
+      "longitude": 103.59323,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Paal VI",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.64224,
+      "longitude": 103.60299,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU 24.361.38",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.63613,
+      "longitude": 103.65626,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Bandara",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.62751,
+      "longitude": 103.63496,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU 24.361.42",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.63092,
+      "longitude": 103.62478,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Kebun Handil",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.62217,
+      "longitude": 103.62001,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU 24.361.06",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.61274,
+      "longitude": 103.60586,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU 24.361.51",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.62001,
+      "longitude": 103.57971,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sungai Duren",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.60044,
+      "longitude": 103.50212,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU 24.361.03",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.61226,
+      "longitude": 103.57692,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU 24.361.41",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.62076,
+      "longitude": 103.57443,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Simpang Rimbo",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.62364,
+      "longitude": 103.55154,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Tembesi",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.72206,
+      "longitude": 103.1366,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Dusun Bangko",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.07538,
+      "longitude": 102.29017,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Mini 26.373.12",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.15538,
+      "longitude": 102.07917,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Tanah Kampung",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.0748,
+      "longitude": 101.42677,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Persijam",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.61202,
+      "longitude": 103.63018,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Merlung",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.27064,
+      "longitude": 103.0575,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sengeti",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.47079,
+      "longitude": 103.50643,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Bukit Baling",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.42111,
+      "longitude": 103.49423,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.365.37",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.31275,
+      "longitude": 103.24158,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Bayung Lencir",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.04445,
+      "longitude": 103.69085,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU 25.363.01",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.4107,
+      "longitude": 103.94405,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Bajubang",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.77586,
+      "longitude": 103.32109,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sijenjang",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.56832,
+      "longitude": 103.64807,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.372.48 Muaro Bungo",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.49596,
+      "longitude": 102.12404,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pamenang",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.1054,
+      "longitude": 102.50291,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Bathin VIII",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.24426,
+      "longitude": 102.50756,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sungai Rumbai",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.2357,
+      "longitude": 101.73838,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Rantau Ikil",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.32981,
+      "longitude": 101.76776,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24-363-68",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.54578,
+      "longitude": 103.5357,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Kampung Baru",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.08338,
+      "longitude": 102.99495,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.363.59",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.36034,
+      "longitude": 103.38892,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Simpang Tuan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.28596,
+      "longitude": 103.49437,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU 23.361.03",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.63013,
+      "longitude": 103.63386,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU 13 273 504",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.42892,
+      "longitude": 101.38057,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.363.39",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.79714,
+      "longitude": 103.42471,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sarolangun",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.31192,
+      "longitude": 102.73176,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pembengis",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -0.84665,
+      "longitude": 103.42411,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sabak",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.21538,
+      "longitude": 103.7943,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU 24.361.05",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.59919,
+      "longitude": 103.61892,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Karang Mendapo",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.21184,
+      "longitude": 102.78509,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU SPPBE Tebing Tinggi",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.6423,
+      "longitude": 103.33348,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 13.275.512",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.15825,
+      "longitude": 101.71907,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Bagan Pete",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.65089,
+      "longitude": 103.56098,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.361.35",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.60364,
+      "longitude": 103.60188,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU 24.361.77",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.64427,
+      "longitude": 103.58057,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Paal V",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.62236,
+      "longitude": 103.60267,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU 24.361.09",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.60366,
+      "longitude": 103.6406,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Singkut",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.5133,
+      "longitude": 102.71314,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 25.372.09",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.61137,
+      "longitude": 102.34099,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 23.372.05",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.37499,
+      "longitude": 101.89201,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Simpang Lubuk Landai",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.38294,
+      "longitude": 101.93314,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 25.363.07",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.00606,
+      "longitude": 103.40963,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.383.17",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.6405,
+      "longitude": 101.16152,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Keritang",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -0.87919,
+      "longitude": 102.65885,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Selensen",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -0.97105,
+      "longitude": 102.77086,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pasar Atas Bangko",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.09134,
+      "longitude": 102.2529,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.373.80",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.07161,
+      "longitude": 102.41917,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jambi",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.9849,
+      "longitude": 102.99027,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.383.22",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.55506,
+      "longitude": 101.10164,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.365.52",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.05833,
+      "longitude": 103.38302,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 14.275.5104",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -0.91476,
+      "longitude": 101.42704,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Rimbo Bujang",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.31737,
+      "longitude": 102.10159,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Tapan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.1353,
+      "longitude": 101.07945,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.373.84",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.06062,
+      "longitude": 102.32065,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24.316.53",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.73913,
+      "longitude": 102.89793,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU 24.316.89",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.59497,
+      "longitude": 102.74933,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Tebing Tinggi",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.63181,
+      "longitude": 103.34001,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Babat Toman",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.73963,
+      "longitude": 103.63224,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Perikanan",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.60676,
+      "longitude": 103.54083,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Tanjung Kerang",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.7895,
+      "longitude": 104.11114,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sukamaju",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -2.64968,
+      "longitude": 104.08678,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Talang Gulo",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.67501,
+      "longitude": 103.61257,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sungai Rengas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.62536,
+      "longitude": 102.86559,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU 24-363-101",
+      "brand": "Pertamina",
+      "address": "Area SPBU Jambi",
+      "city": "Jambi",
+      "latitude": -1.69936,
+      "longitude": 103.4595,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
       ]
     }
   ]

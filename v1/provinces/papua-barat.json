@@ -1,7 +1,7 @@
 {
   "province": "Papua Barat",
   "province_slug": "papua-barat",
-  "total_stations": 1,
+  "total_stations": 6,
   "updated_at": "2026-09-30",
   "stations": [
     {
@@ -18,6 +18,86 @@
         "Pertamax",
         "Dexlite",
         "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Papua Barat",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Barat",
+      "city": "Papua Barat",
+      "latitude": -0.86283,
+      "longitude": 133.77976,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU Puncak",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Barat",
+      "city": "Papua Barat",
+      "latitude": -2.9209,
+      "longitude": 132.29858,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Tanama",
+      "brand": "Pertamina",
+      "address": "Area SPBU Papua Barat",
+      "city": "Papua Barat",
+      "latitude": -2.9273,
+      "longitude": 132.28238,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Martabe Papua Sejahtera",
+      "brand": "Pertamina",
+      "address": "Jayapura",
+      "city": "Jayapura",
+      "latitude": -1.51024,
+      "longitude": 134.17777,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Fef",
+      "brand": "Pertamina",
+      "address": "Wayo, Fef, Tambrauw",
+      "city": "Tambrauw",
+      "latitude": -0.80774,
+      "longitude": 132.44277,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
       ]
     }
   ]

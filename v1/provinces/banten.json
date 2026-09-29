@@ -1,7 +1,7 @@
 {
   "province": "Banten",
   "province_slug": "banten",
-  "total_stations": 4,
+  "total_stations": 253,
   "updated_at": "2026-09-30",
   "stations": [
     {
@@ -66,6 +66,3883 @@
         "Pertamax",
         "Dexlite",
         "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Leuwiliang",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.57327,
+      "longitude": 106.63081,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.40518,
+      "longitude": 106.74563,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.56842,
+      "longitude": 106.73822,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.09446,
+      "longitude": 106.68985,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.142,
+      "longitude": 106.68541,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.17501,
+      "longitude": 106.59883,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Raya Serpong",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Serpong",
+      "city": "Banten",
+      "latitude": -6.33899,
+      "longitude": 106.67255,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-15322",
+      "brand": "Pertamina",
+      "address": "Jalan Rawa Buntu",
+      "city": "Banten",
+      "latitude": -6.34387,
+      "longitude": 106.6872,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 11602",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.17896,
+      "longitude": 106.74861,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-11611",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.18683,
+      "longitude": 106.72536,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 11607",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.19606,
+      "longitude": 106.72984,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-11609",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.2191,
+      "longitude": 106.73094,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 31.118-02",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.15519,
+      "longitude": 106.71123,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 31-118-03",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.15897,
+      "longitude": 106.69286,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-15119",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.11468,
+      "longitude": 106.68892,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-11806",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.1304,
+      "longitude": 106.70332,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-11801",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.14306,
+      "longitude": 106.69829,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-11802",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.10365,
+      "longitude": 106.71093,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-11714",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.16923,
+      "longitude": 106.7284,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.16074,
+      "longitude": 106.63276,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 11708",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.18271,
+      "longitude": 106.71883,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-11705",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.16929,
+      "longitude": 106.72726,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-11706",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.15259,
+      "longitude": 106.71932,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-11707",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.13048,
+      "longitude": 106.72954,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-11711",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.14463,
+      "longitude": 106.7213,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-11712",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.15461,
+      "longitude": 106.74495,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-11703",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.14883,
+      "longitude": 106.72827,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-11710",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.13388,
+      "longitude": 106.73078,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34.14409",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.10723,
+      "longitude": 106.71983,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 14411",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.12161,
+      "longitude": 106.7325,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.68236,
+      "longitude": 105.97299,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.95434,
+      "longitude": 106.4801,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.19453,
+      "longitude": 106.42485,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Blue Gazz",
+      "brand": "Pertamina",
+      "address": "Jalan Kincir Raya, Cengkareng Timur, West Jakarta",
+      "city": "Cengkareng Timur, West Jakarta",
+      "latitude": -6.14714,
+      "longitude": 106.73001,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Tenjo",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.32896,
+      "longitude": 106.44949,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.17369,
+      "longitude": 106.62526,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Pandeglang",
+      "brand": "Pertamina",
+      "address": "Pandeglang",
+      "city": "Pandeglang",
+      "latitude": -6.24309,
+      "longitude": 105.82771,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-15122",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.19048,
+      "longitude": 106.6243,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Bensin Eceran",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.18205,
+      "longitude": 106.59923,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Tigaraksa",
+      "brand": "Pertamina",
+      "address": "Jalan Aria Jaya Sentika, Tangerang",
+      "city": "Tangerang",
+      "latitude": -6.24197,
+      "longitude": 106.47224,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Tigaraksa",
+      "brand": "Pertamina",
+      "address": "Pemda Tangerang, Tangerang",
+      "city": "Tangerang",
+      "latitude": -6.25958,
+      "longitude": 106.48539,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamini",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.24956,
+      "longitude": 106.4665,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 24-35564",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -5.84801,
+      "longitude": 105.7315,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Jalan Raden Saleh Raya, Karang Mulya",
+      "city": "Karang Mulya",
+      "latitude": -6.20383,
+      "longitude": 106.71724,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Tangerang",
+      "brand": "Pertamina",
+      "address": "Tangerang",
+      "city": "Tangerang",
+      "latitude": -6.23043,
+      "longitude": 106.50103,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.19277,
+      "longitude": 106.63612,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.17187,
+      "longitude": 106.67241,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.11516,
+      "longitude": 106.68076,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.14517,
+      "longitude": 106.63244,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.10497,
+      "longitude": 106.6627,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.98671,
+      "longitude": 106.5433,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -5.865,
+      "longitude": 105.74747,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Cilongok",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.17244,
+      "longitude": 106.54757,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.17124,
+      "longitude": 106.60756,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.17126,
+      "longitude": 106.60967,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.1807,
+      "longitude": 106.52946,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.1893,
+      "longitude": 106.59368,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pom bensin Ciledug",
+      "brand": "Pertamina",
+      "address": "Jalan Haji Oemar Said Cokroaminoto",
+      "city": "Banten",
+      "latitude": -6.22562,
+      "longitude": 106.71227,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.16158,
+      "longitude": 106.64432,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Pondok Randu Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Pondok Randu Raya",
+      "city": "Banten",
+      "latitude": -6.17567,
+      "longitude": 106.72491,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.29827,
+      "longitude": 106.61835,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Pandeglang",
+      "brand": "Pertamina",
+      "address": "Pandeglang",
+      "city": "Pandeglang",
+      "latitude": -6.33066,
+      "longitude": 106.08059,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Pandeglang",
+      "brand": "Pertamina",
+      "address": "Pandeglang",
+      "city": "Pandeglang",
+      "latitude": -6.33892,
+      "longitude": 105.83032,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Bagbagan Pertamina 34 43308",
+      "brand": "Pertamina",
+      "address": "Jl. Raya Bagbagan, Citarik, Pelabuhanratu",
+      "city": "Citarik, Pelabuhanratu",
+      "latitude": -7.01171,
+      "longitude": 106.56947,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.25802,
+      "longitude": 106.57641,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.30924,
+      "longitude": 106.44824,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.28939,
+      "longitude": 106.49787,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.28806,
+      "longitude": 106.47179,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.57751,
+      "longitude": 106.73255,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.15409",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.36039,
+      "longitude": 106.7483,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU.N 38.422.02",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.66827,
+      "longitude": 105.5768,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.96959,
+      "longitude": 106.52107,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.94966,
+      "longitude": 106.44178,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.12165,
+      "longitude": 106.57914,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.12897,
+      "longitude": 106.58851,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.06279,
+      "longitude": 106.63979,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.22988,
+      "longitude": 106.72298,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.27783,
+      "longitude": 106.48178,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BP",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.20012,
+      "longitude": 106.70444,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.01937,
+      "longitude": 106.05264,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.01375,
+      "longitude": 105.98074,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.01548,
+      "longitude": 105.9764,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.01007,
+      "longitude": 106.02153,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BP",
+      "brand": "Pertamina",
+      "address": "Jalan Utan Jati",
+      "city": "Banten",
+      "latitude": -6.14531,
+      "longitude": 106.70667,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.24553,
+      "longitude": 106.52888,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Mobil",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.31334,
+      "longitude": 106.66067,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -5.91222,
+      "longitude": 106.00736,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -5.83395,
+      "longitude": 105.61583,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.19376,
+      "longitude": 106.42543,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.09559,
+      "longitude": 106.63847,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-15207",
+      "brand": "Pertamina",
+      "address": "Jalan Pondok Kacang, Tangerang Selatan",
+      "city": "Tangerang Selatan",
+      "latitude": -6.24465,
+      "longitude": 106.69438,
+      "is_24_hours": true,
+      "facilities": "Toilet",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.57311,
+      "longitude": 106.74404,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Boulevard Gading Serpong",
+      "brand": "Pertamina",
+      "address": "Jalan Boulevard Gading Serpong",
+      "city": "Banten",
+      "latitude": -6.25016,
+      "longitude": 106.62491,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.23046,
+      "longitude": 106.55978,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.41525,
+      "longitude": 106.7338,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.43474,
+      "longitude": 106.73456,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.18827,
+      "longitude": 106.59985,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pompa Bensin Non-Subsidi",
+      "brand": "Pertamina",
+      "address": "Hartono Raya",
+      "city": "Banten",
+      "latitude": -6.20053,
+      "longitude": 106.64057,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Imam Bonjol",
+      "brand": "Pertamina",
+      "address": "Jalan Imam Bonjol",
+      "city": "Banten",
+      "latitude": -6.22171,
+      "longitude": 106.62038,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Pajajaran Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Pajajaran Raya",
+      "city": "Banten",
+      "latitude": -6.33647,
+      "longitude": 106.74002,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.37951,
+      "longitude": 106.74602,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU POM Bensin PERTAMINA",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.22288,
+      "longitude": 106.70506,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Bintaro Sektor 9",
+      "brand": "Pertamina",
+      "address": "Jalan Boulevard Bintaro Jaya, Parigi, Tangerang Selatan",
+      "city": "Tangerang Selatan",
+      "latitude": -6.27308,
+      "longitude": 106.7125,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Modernland",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.19471,
+      "longitude": 106.63556,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Alam Sutera Blvd",
+      "brand": "Pertamina",
+      "address": "Jalan Alam Sutera Blvd",
+      "city": "Banten",
+      "latitude": -6.23893,
+      "longitude": 106.65917,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-15117",
+      "brand": "Pertamina",
+      "address": "Jalan Raden Fattah, Tangerang Selatan",
+      "city": "Tangerang Selatan",
+      "latitude": -6.23219,
+      "longitude": 106.70225,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 3442113",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.12025,
+      "longitude": 106.17445,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Aria Putra",
+      "brand": "Pertamina",
+      "address": "Jalan Aria Putra",
+      "city": "Banten",
+      "latitude": -6.31628,
+      "longitude": 106.7415,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Letnan Sutopo",
+      "brand": "Pertamina",
+      "address": "Jalan Letnan Sutopo",
+      "city": "Banten",
+      "latitude": -6.2954,
+      "longitude": 106.68021,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.29036,
+      "longitude": 106.66533,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.29498,
+      "longitude": 106.71394,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.39326,
+      "longitude": 105.85687,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Pandeglang",
+      "brand": "Pertamina",
+      "address": "Pandeglang",
+      "city": "Pandeglang",
+      "latitude": -6.38345,
+      "longitude": 105.83615,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.39513,
+      "longitude": 105.9938,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.13202,
+      "longitude": 106.20544,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.13252,
+      "longitude": 106.20372,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.214,
+      "longitude": 106.67821,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.21439,
+      "longitude": 106.68159,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Rest Area 45",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.18572,
+      "longitude": 106.40778,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.2435,
+      "longitude": 106.62653,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Raya Serpong",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Serpong",
+      "city": "Banten",
+      "latitude": -6.25048,
+      "longitude": 106.64993,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DKI Jakarta",
+      "brand": "Pertamina",
+      "address": "DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.18427,
+      "longitude": 106.73041,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Roro Jonggrang Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Roro Jonggrang Raya",
+      "city": "Banten",
+      "latitude": -6.21721,
+      "longitude": 106.6016,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 3442407",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -5.99136,
+      "longitude": 106.02857,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU 3442412",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.02885,
+      "longitude": 105.96341,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU 3442410",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -5.96514,
+      "longitude": 106.00319,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU 3442408",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -5.94988,
+      "longitude": 106.00236,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU 3442409",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -5.95863,
+      "longitude": 106.00609,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Imam Bonjol",
+      "brand": "Pertamina",
+      "address": "Jalan Imam Bonjol",
+      "city": "Banten",
+      "latitude": -6.21582,
+      "longitude": 106.61928,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Raya Serang",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Serang",
+      "city": "Banten",
+      "latitude": -6.21552,
+      "longitude": 106.56317,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.32169,
+      "longitude": 106.64114,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 3442411",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.01069,
+      "longitude": 106.01839,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU 3442405",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.03156,
+      "longitude": 106.0786,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Depot Gas Pertamina",
+      "brand": "Pertamina",
+      "address": "Jalan Fajar Baru 2 No. 1, Cengkareng Timur, West Jakarta",
+      "city": "Cengkareng Timur, West Jakarta",
+      "latitude": -6.14529,
+      "longitude": 106.72989,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 3442403 CIGADING",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.01618,
+      "longitude": 105.97502,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Jombang Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Jombang Raya",
+      "city": "Banten",
+      "latitude": -6.26785,
+      "longitude": 106.70655,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Bintaro Utama 3",
+      "brand": "Pertamina",
+      "address": "Bintaro Utama 3",
+      "city": "Banten",
+      "latitude": -6.2725,
+      "longitude": 106.7493,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina WR Supratman",
+      "brand": "Pertamina",
+      "address": "WR Supratman, Tangerang Selatan",
+      "city": "Tangerang Selatan",
+      "latitude": -6.28095,
+      "longitude": 106.74636,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.31747,
+      "longitude": 106.11923,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Raya Cijengir Binong",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Cijengir Binong",
+      "city": "Banten",
+      "latitude": -6.23807,
+      "longitude": 106.58348,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Cikande",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.20757,
+      "longitude": 106.35941,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.31807,
+      "longitude": 106.58725,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.32654,
+      "longitude": 106.60361,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Raya Serpong",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Serpong",
+      "city": "Banten",
+      "latitude": -6.26144,
+      "longitude": 106.6536,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Raya Serpong",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Serpong",
+      "city": "Banten",
+      "latitude": -6.24388,
+      "longitude": 106.64931,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.35663,
+      "longitude": 106.03156,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.39741,
+      "longitude": 105.95915,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Pandeglang",
+      "brand": "Pertamina",
+      "address": "Pandeglang",
+      "city": "Pandeglang",
+      "latitude": -6.27502,
+      "longitude": 106.12068,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU 3442118",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.15394,
+      "longitude": 106.19043,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU 3442401",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.02473,
+      "longitude": 106.06925,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU 3442413",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.04966,
+      "longitude": 106.06284,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU 3442406",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -5.98403,
+      "longitude": 106.01616,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU 3442402",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -5.96896,
+      "longitude": 106.00451,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Jalan Jombang Raya",
+      "city": "Banten",
+      "latitude": -6.24846,
+      "longitude": 106.70166,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.36873,
+      "longitude": 106.02355,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina (Self-Service)",
+      "brand": "Pertamina",
+      "address": "Jalan Letnan Sutopo",
+      "city": "Banten",
+      "latitude": -6.29431,
+      "longitude": 106.68065,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Pahlawan Seribu",
+      "brand": "Pertamina",
+      "address": "Jalan Pahlawan Seribu",
+      "city": "Banten",
+      "latitude": -6.29981,
+      "longitude": 106.66844,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Ciledug Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Ciledug Raya",
+      "city": "Banten",
+      "latitude": -6.23644,
+      "longitude": 106.74271,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Ceger Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Ceger Raya",
+      "city": "Banten",
+      "latitude": -6.26133,
+      "longitude": 106.73907,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BP",
+      "brand": "Pertamina",
+      "address": "Jalan Ir. Sukarno",
+      "city": "Banten",
+      "latitude": -6.26508,
+      "longitude": 106.63002,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Benteng Betawi",
+      "brand": "Pertamina",
+      "address": "Jalan Benteng Betawi",
+      "city": "Banten",
+      "latitude": -6.17481,
+      "longitude": 106.65275,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Jenderal Sudirman",
+      "brand": "Pertamina",
+      "address": "Jalan Jenderal Sudirman",
+      "city": "Banten",
+      "latitude": -6.19218,
+      "longitude": 106.64062,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Jenderal Sudirman",
+      "brand": "Pertamina",
+      "address": "Jalan Jenderal Sudirman",
+      "city": "Banten",
+      "latitude": -6.19285,
+      "longitude": 106.63757,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Boulevard Graha Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Boulevard Graha Raya",
+      "city": "Banten",
+      "latitude": -6.23136,
+      "longitude": 106.68129,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina KH Hasyim Ashari",
+      "brand": "Pertamina",
+      "address": "KH Hasyim Ashari",
+      "city": "Banten",
+      "latitude": -6.22294,
+      "longitude": 106.69307,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Gatot Subroto",
+      "brand": "Pertamina",
+      "address": "Jalan Gatot Subroto",
+      "city": "Banten",
+      "latitude": -6.19695,
+      "longitude": 106.58359,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Gatot Subroto",
+      "brand": "Pertamina",
+      "address": "Jalan Gatot Subroto",
+      "city": "Banten",
+      "latitude": -6.2016,
+      "longitude": 106.57371,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sukabakti, Ciputat",
+      "brand": "Pertamina",
+      "address": "Jalan Aria Putra Raya",
+      "city": "Banten",
+      "latitude": -6.30621,
+      "longitude": 106.71895,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Jombang Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Jombang Raya",
+      "city": "Banten",
+      "latitude": -6.30112,
+      "longitude": 106.7147,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Bintaro Jaya",
+      "brand": "Pertamina",
+      "address": "Jalan Bintaro Jaya",
+      "city": "Banten",
+      "latitude": -6.27998,
+      "longitude": 106.71759,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Merpati Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Merpati Raya",
+      "city": "Banten",
+      "latitude": -6.30051,
+      "longitude": 106.73131,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Bintaro Sektor 7",
+      "brand": "Pertamina",
+      "address": "MH Thamrin No. 7, Pondok Jaya, Tangerang Selatan",
+      "city": "Tangerang Selatan",
+      "latitude": -6.27511,
+      "longitude": 106.72289,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Tegal Rotan Raya",
+      "brand": "Pertamina",
+      "address": "Tegal Rotan Raya",
+      "city": "Banten",
+      "latitude": -6.28596,
+      "longitude": 106.72599,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BP",
+      "brand": "Pertamina",
+      "address": "Jalan Boulevard Bintaro Jaya",
+      "city": "Banten",
+      "latitude": -6.27394,
+      "longitude": 106.70138,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Pantai Indah Kapuk",
+      "brand": "Pertamina",
+      "address": "Jalan Pantai Indah Kapuk, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.10628,
+      "longitude": 106.74111,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.18012,
+      "longitude": 106.14712,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Raya Legok-Karawaci",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Legok-Karawaci",
+      "city": "Banten",
+      "latitude": -6.27341,
+      "longitude": 106.59803,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Raya Legok-Karawaci",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Legok-Karawaci",
+      "city": "Banten",
+      "latitude": -6.26123,
+      "longitude": 106.60563,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.19917,
+      "longitude": 106.69674,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Ciater Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Ciater Raya",
+      "city": "Banten",
+      "latitude": -6.31482,
+      "longitude": 106.70139,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.32325,
+      "longitude": 106.68373,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34.153.09",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.31642,
+      "longitude": 106.67817,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BP",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.32048,
+      "longitude": 106.68173,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-15421",
+      "brand": "Pertamina",
+      "address": "Jalan Cendrawasih Raya",
+      "city": "Banten",
+      "latitude": -6.29098,
+      "longitude": 106.73127,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Laksamana RE Martadinata",
+      "brand": "Pertamina",
+      "address": "Jalan Laksamana RE Martadinata",
+      "city": "Banten",
+      "latitude": -6.32696,
+      "longitude": 106.74757,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Teman Royal",
+      "brand": "Pertamina",
+      "address": "Jalan Teman Royal",
+      "city": "Banten",
+      "latitude": -6.17896,
+      "longitude": 106.65927,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Parakan",
+      "brand": "Pertamina",
+      "address": "Jalan Parakan",
+      "city": "Banten",
+      "latitude": -6.34596,
+      "longitude": 106.71268,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Siliwangi",
+      "brand": "Pertamina",
+      "address": "Jalan Siliwangi",
+      "city": "Banten",
+      "latitude": -6.34461,
+      "longitude": 106.72015,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Dockter Setia Budi",
+      "brand": "Pertamina",
+      "address": "Jalan Dockter Setia Budi",
+      "city": "Banten",
+      "latitude": -6.34858,
+      "longitude": 106.73714,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Ciater Raya",
+      "brand": "Pertamina",
+      "address": "Jalan Ciater Raya",
+      "city": "Banten",
+      "latitude": -6.31351,
+      "longitude": 106.69232,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan K.H. Hasyim Ashari",
+      "brand": "Pertamina",
+      "address": "Jalan K.H. Hasyim Ashari",
+      "city": "Banten",
+      "latitude": -6.19136,
+      "longitude": 106.66894,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Maulana Hasanudin",
+      "brand": "Pertamina",
+      "address": "Jalan Maulana Hasanudin",
+      "city": "Banten",
+      "latitude": -6.1736,
+      "longitude": 106.67914,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan K.H. Hasyim Ashari",
+      "brand": "Pertamina",
+      "address": "Jalan K.H. Hasyim Ashari",
+      "city": "Banten",
+      "latitude": -6.18488,
+      "longitude": 106.65008,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BP",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.31431,
+      "longitude": 106.69675,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34-15712",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.22335,
+      "longitude": 106.54384,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.3759,
+      "longitude": 106.68233,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.34724,
+      "longitude": 106.69105,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.34666,
+      "longitude": 106.69707,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.32214,
+      "longitude": 106.70884,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Ayip Usman",
+      "brand": "Pertamina",
+      "address": "Jalan Ayip Usman, Lopang",
+      "city": "Lopang",
+      "latitude": -6.10286,
+      "longitude": 106.16274,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 34-42314",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.54383,
+      "longitude": 106.38951,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.15377,
+      "longitude": 106.58493,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 34 11612",
+      "brand": "Pertamina",
+      "address": "Jalan Kembang Kerep, DKI Jakarta",
+      "city": "DKI Jakarta",
+      "latitude": -6.19788,
+      "longitude": 106.74196,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Parung",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Parung, Pemegarsari, Kabupaten Bogor",
+      "city": "Kabupaten Bogor",
+      "latitude": -6.44828,
+      "longitude": 106.73222,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Dokter Cipto Mangunkusumo",
+      "brand": "Pertamina",
+      "address": "Jalan Dokter Cipto Mangunkusumo",
+      "city": "Banten",
+      "latitude": -6.24227,
+      "longitude": 106.7126,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.34207,
+      "longitude": 106.69252,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 31-11804",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.13082,
+      "longitude": 106.68796,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Kampung Cikoneng",
+      "brand": "Pertamina",
+      "address": "Kampung Cikoneng, Anyar",
+      "city": "Banten",
+      "latitude": -6.06906,
+      "longitude": 105.89215,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Ciater",
+      "brand": "Pertamina",
+      "address": "Jalan Ciater Raya No. 4, Ciater, Tangerang Selatan",
+      "city": "Tangerang Selatan",
+      "latitude": -6.3159,
+      "longitude": 106.70269,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.27571,
+      "longitude": 106.6953,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.38399,
+      "longitude": 105.90393,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.56944,
+      "longitude": 106.73533,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.6068,
+      "longitude": 106.73958,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.53809,
+      "longitude": 106.72508,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jl. Raya Cibanteng",
+      "brand": "Pertamina",
+      "address": "Jl. Raya Cibanteng, Cibanteng",
+      "city": "Cibanteng",
+      "latitude": -6.55836,
+      "longitude": 106.71158,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.56236,
+      "longitude": 106.68381,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.5645,
+      "longitude": 106.67762,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.1551,
+      "longitude": 106.53197,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU VIVO Pamulang",
+      "brand": "Pertamina",
+      "address": "Jalan Pajajaran Raya No. 45b, Pamulang Barat, Tangerang Selatan",
+      "city": "Tangerang Selatan",
+      "latitude": -6.33986,
+      "longitude": 106.73901,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Vivo",
+      "brand": "Pertamina",
+      "address": "Jalan Pahlawan Seribu No. 6, Lengkong Gudang, Tangerang Selatan",
+      "city": "Tangerang Selatan",
+      "latitude": -6.28747,
+      "longitude": 106.66583,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.50895,
+      "longitude": 105.7831,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.53692,
+      "longitude": 105.75698,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.5247,
+      "longitude": 105.7395,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.60305,
+      "longitude": 105.69613,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.6642,
+      "longitude": 105.58562,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.71045,
+      "longitude": 105.69854,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.76394,
+      "longitude": 105.85914,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.5038,
+      "longitude": 105.98328,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.31228,
+      "longitude": 105.99612,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.25331,
+      "longitude": 106.56096,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.18476,
+      "longitude": 106.51064,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU BP",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.2109,
+      "longitude": 106.62932,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.21652,
+      "longitude": 106.63152,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.21759,
+      "longitude": 106.63139,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.22396,
+      "longitude": 106.63695,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.32184,
+      "longitude": 106.74678,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.32107,
+      "longitude": 106.74583,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU BP",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.06449,
+      "longitude": 106.69022,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.24067,
+      "longitude": 106.6706,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.97013,
+      "longitude": 106.73574,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.14293,
+      "longitude": 106.54837,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.17154,
+      "longitude": 106.55719,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Citra Raya Boulevard",
+      "brand": "Pertamina",
+      "address": "Citra Raya Boulevard",
+      "city": "Banten",
+      "latitude": -6.25261,
+      "longitude": 106.52088,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.34143,
+      "longitude": 106.24034,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.34916,
+      "longitude": 106.22845,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.34356,
+      "longitude": 106.20788,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Raya Rangkasbitung",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Rangkasbitung",
+      "city": "Banten",
+      "latitude": -6.35594,
+      "longitude": 106.27756,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PERTAMINA",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.14902,
+      "longitude": 106.67398,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Banten",
+      "brand": "Pertamina",
+      "address": "Area SPBU Banten",
+      "city": "Banten",
+      "latitude": -6.36041,
+      "longitude": 106.61891,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
       ]
     }
   ]

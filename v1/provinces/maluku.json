@@ -1,7 +1,7 @@
 {
   "province": "Maluku",
   "province_slug": "maluku",
-  "total_stations": 1,
+  "total_stations": 36,
   "updated_at": "2026-09-30",
   "stations": [
     {
@@ -18,6 +18,563 @@
         "Pertamax",
         "Dexlite",
         "Solar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Maluku",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -3.66353,
+      "longitude": 128.1695,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Maluku",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -3.62323,
+      "longitude": 128.24789,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Maluku",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -3.64189,
+      "longitude": 128.24178,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Maluku",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -8.46858,
+      "longitude": 126.45922,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina SPBU Puncak",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -2.9209,
+      "longitude": 132.29858,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Solar 24 Horas",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -8.43995,
+      "longitude": 126.98299,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Maluku",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -8.48877,
+      "longitude": 126.37269,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Tanama",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -2.9273,
+      "longitude": 132.28238,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Maluku",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -3.69125,
+      "longitude": 128.18039,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Maluku",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -3.70499,
+      "longitude": 128.1632,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Maluku",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -8.47516,
+      "longitude": 126.45565,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pom Bensin 84.971.02",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -3.66359,
+      "longitude": 128.20372,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU namrole",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -3.83761,
+      "longitude": 126.73949,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Maluku",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -3.8478,
+      "longitude": 126.70573,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pom Bensin Leksula",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -3.78095,
+      "longitude": 126.51898,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop Negeri Lama",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -3.62937,
+      "longitude": 128.2376,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pom bensin Militer",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -3.69271,
+      "longitude": 128.18126,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -3.70664,
+      "longitude": 128.19836,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Neira",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -4.52293,
+      "longitude": 129.89873,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 84.971.06",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -3.6787,
+      "longitude": 128.19467,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SOABALI",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -3.70024,
+      "longitude": 128.17846,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Titer",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -8.49085,
+      "longitude": 126.99321,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jln. Pantai Ina Marina",
+      "brand": "Pertamina",
+      "address": "Jln. Pantai Ina Marina No. 1, Ampera",
+      "city": "Ampera",
+      "latitude": -3.29676,
+      "longitude": 128.95393,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina - SPBU Erwin Timex",
+      "brand": "Pertamina",
+      "address": "Kota Tual",
+      "city": "Kota Tual",
+      "latitude": -5.62881,
+      "longitude": 132.75677,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 8697512",
+      "brand": "Pertamina",
+      "address": "Dusun Supulessy, kabuten maluku tengah",
+      "city": "kabuten maluku tengah",
+      "latitude": -3.36188,
+      "longitude": 129.53053,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Maluku",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -8.47058,
+      "longitude": 126.43632,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Maluku",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -8.4751,
+      "longitude": 126.44689,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU realistic",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -8.47453,
+      "longitude": 126.44687,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Nagarjo",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -8.46251,
+      "longitude": 126.42861,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Maluku",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -8.4764,
+      "longitude": 126.59498,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Posto Gasolina Laga",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -8.47243,
+      "longitude": 126.59829,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -3.6916,
+      "longitude": 128.19296,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -3.65812,
+      "longitude": 128.18418,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Maluku",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -7.9723,
+      "longitude": 131.3099,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Maluku",
+      "brand": "Pertamina",
+      "address": "Area SPBU Maluku",
+      "city": "Maluku",
+      "latitude": -7.95633,
+      "longitude": 131.31275,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
       ]
     }
   ]

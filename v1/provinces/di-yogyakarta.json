@@ -1,7 +1,7 @@
 {
   "province": "DI Yogyakarta",
   "province_slug": "di-yogyakarta",
-  "total_stations": 3,
+  "total_stations": 257,
   "updated_at": "2026-09-30",
   "stations": [
     {
@@ -50,6 +50,3989 @@
         "Pertalite",
         "Pertamax",
         "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Mendut 44.565.01",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.60242,
+      "longitude": 110.22527,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.10 Sidorejo",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.76091,
+      "longitude": 110.26493,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.57241,
+      "longitude": 110.12137,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.06 Godean",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.77351,
+      "longitude": 110.31512,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.19 Mlati Baru",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.73899,
+      "longitude": 110.3626,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.564.03 Ponggol",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.5778,
+      "longitude": 110.27423,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.551.08 Jogokariyan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.82452,
+      "longitude": 110.3673,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.551.01 Dukuh",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.81903,
+      "longitude": 110.35591,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.551.04 Bugisan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.81235,
+      "longitude": 110.35141,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Sidomoyo",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.75463,
+      "longitude": 110.3203,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.5059,
+      "longitude": 110.20468,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.05 Prujakan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.73619,
+      "longitude": 110.39452,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.08 Ngaglik",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.72354,
+      "longitude": 110.40134,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.22 Cawas",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.75845,
+      "longitude": 110.6943,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 44.575.08 Kedungjambal",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.74754,
+      "longitude": 110.76476,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.557.08 Payak",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.83221,
+      "longitude": 110.46116,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.557.04 Tegalyoso",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.82807,
+      "longitude": 110.4475,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.557.02 Piyungan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.82055,
+      "longitude": 110.48069,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.552.01 Mulungan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.73266,
+      "longitude": 110.36343,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.551.10 Mantup",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.82064,
+      "longitude": 110.42158,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.551.06 Kadipiro",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.80051,
+      "longitude": 110.34514,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.551.12 Singosaren",
+      "brand": "Pertamina",
+      "address": "Ring Road Selatan",
+      "city": "DI Yogyakarta",
+      "latitude": -7.83759,
+      "longitude": 110.39914,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.557.09 Patalan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.92969,
+      "longitude": 110.34821,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.558.06 Sambipitu",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.87709,
+      "longitude": 110.53827,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Kemiri",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.54788,
+      "longitude": 110.60928,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.02 Helsen",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.70854,
+      "longitude": 110.35471,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.02 Medari",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.67657,
+      "longitude": 110.33676,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU salam",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.64019,
+      "longitude": 110.32279,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.557.11 Pucung Pendowoharjo",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.85283,
+      "longitude": 110.34191,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.556.09 Temon",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.88463,
+      "longitude": 110.05008,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.556.02 Sukoreno",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.87173,
+      "longitude": 110.2082,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.556.04 Ngramang",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.86766,
+      "longitude": 110.1802,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.5738,
+      "longitude": 110.27355,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.557.05 Imogiri",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.91508,
+      "longitude": 110.38204,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.561.04",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.50865,
+      "longitude": 110.22488,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.04 Kebon Arum",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.71873,
+      "longitude": 110.57731,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.551.14 Tamantirto",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.81892,
+      "longitude": 110.32457,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.551.03 Diro",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.86095,
+      "longitude": 110.3406,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pom Bensin Kedung Pucang",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.64594,
+      "longitude": 110.04905,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.556.05 Kenteng Nanggulan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.7563,
+      "longitude": 110.21112,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.07 Mangunan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.66104,
+      "longitude": 110.40715,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.557.03 Cengkiran",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.91408,
+      "longitude": 110.28647,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.551.18 Sewon",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.84479,
+      "longitude": 110.36102,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.13 Banyuraden",
+      "brand": "Pertamina",
+      "address": "Jalan Godean, Banyuraden, Sleman",
+      "city": "Sleman",
+      "latitude": -7.77983,
+      "longitude": 110.34319,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.552.16 Munggur",
+      "brand": "Pertamina",
+      "address": "Jalan Munggur, Yogyakarta",
+      "city": "Yogyakarta",
+      "latitude": -7.78558,
+      "longitude": 110.38792,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.551.05 Gambiran",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.81815,
+      "longitude": 110.39033,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.53523,
+      "longitude": 110.66814,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 43.552.18 Jombor",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.7468,
+      "longitude": 110.35397,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.51402,
+      "longitude": 110.58703,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.22 Klepu",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.66274,
+      "longitude": 110.66928,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.14 Belangwetan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.68788,
+      "longitude": 110.63337,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Bolon",
+      "brand": "Pertamina",
+      "address": "Jl Tentara Pelajar, Colomadu",
+      "city": "Colomadu",
+      "latitude": -7.53096,
+      "longitude": 110.73204,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.577.10 Blulukan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.5414,
+      "longitude": 110.76673,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Gas Station 44.552.13 Caturtunggal",
+      "brand": "Pertamina",
+      "address": "Jalan Babarsari Raya, Caturtunggal, Kledokan",
+      "city": "Kledokan",
+      "latitude": -7.77398,
+      "longitude": 110.41037,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.552.17 Tajem",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.76626,
+      "longitude": 110.43166,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.03 Gejayan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.75982,
+      "longitude": 110.39468,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.552.11 Bener",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.78131,
+      "longitude": 110.35196,
+      "is_24_hours": true,
+      "facilities": "ATM",
+      "fuels": [
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.551.13 Lowanu",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.82412,
+      "longitude": 110.37793,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.53877,
+      "longitude": 110.61764,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.81678,
+      "longitude": 110.0171,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.68969,
+      "longitude": 110.0315,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.05 Karang",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.6289,
+      "longitude": 110.69533,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.58017,
+      "longitude": 110.76914,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.74321,
+      "longitude": 110.1428,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.557.10 Candimas",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.81298,
+      "longitude": 110.26735,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.82561,
+      "longitude": 110.3451,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU 44.574.24",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.66685,
+      "longitude": 110.75444,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.20 Wedomartani",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.74063,
+      "longitude": 110.43403,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.09 Pakis",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.60769,
+      "longitude": 110.70182,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.74067,
+      "longitude": 110.456,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU HMC Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.73559,
+      "longitude": 110.43736,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.558.15 Patuk",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.84984,
+      "longitude": 110.48386,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.558.13 Sapiturrang",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.99939,
+      "longitude": 110.68056,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.558.01 Siyono",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.94912,
+      "longitude": 110.58546,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.558.11 Mijahan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.98642,
+      "longitude": 110.62601,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.558.02 bALEHARJO",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.98077,
+      "longitude": 110.6164,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.74465,
+      "longitude": 110.40372,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.33 Kadisoka",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.75319,
+      "longitude": 110.44637,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.33 Bowan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.64962,
+      "longitude": 110.68448,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.01 Pandan SImping",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.74718,
+      "longitude": 110.52498,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.16 Kemudo",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.74745,
+      "longitude": 110.52367,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.34 Semangkak",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.69597,
+      "longitude": 110.60095,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.11 Jogonalan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.72472,
+      "longitude": 110.55434,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.13 Kaliwingko",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.63852,
+      "longitude": 110.69078,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.54826,
+      "longitude": 110.73277,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.54619,
+      "longitude": 110.72503,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.01",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.76126,
+      "longitude": 110.47692,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop 4P.55549",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.81411,
+      "longitude": 110.44276,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 43.557.15 Palbapang",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.91005,
+      "longitude": 110.31832,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.21 Klaten",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.71188,
+      "longitude": 110.5933,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.34 Berbah",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.80503,
+      "longitude": 110.44604,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.36 Bimomartani",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.68969,
+      "longitude": 110.46176,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.38 Pakem Binangun",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.65858,
+      "longitude": 110.42174,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.558.07 Baron",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.97303,
+      "longitude": 110.602,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.17 Mindi",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.70495,
+      "longitude": 110.43115,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.23 Ngupit",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.6624,
+      "longitude": 110.59095,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop Kadirojo",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.77325,
+      "longitude": 110.44472,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.16 Balecatur",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.80727,
+      "longitude": 110.29103,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PERTASHOP BUMDES NGARGOSARI",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.66056,
+      "longitude": 110.15633,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44 541 14",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.67311,
+      "longitude": 110.03792,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.18 Pedak",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.71084,
+      "longitude": 110.40929,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.557.14 UAD",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.81711,
+      "longitude": 110.24826,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.96092,
+      "longitude": 110.67741,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.558.08 Ngipak",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.95229,
+      "longitude": 110.66724,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.551.16 Jambidan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.84374,
+      "longitude": 110.41061,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pom Mini",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.59182,
+      "longitude": 110.70529,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.558.04 Semin",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.85631,
+      "longitude": 110.73708,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.551.22 Bakulan",
+      "brand": "Pertamina",
+      "address": "Jalan Bakulan - Barongan, Sumberagung, Bantul",
+      "city": "Bantul",
+      "latitude": -7.9117,
+      "longitude": 110.36308,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.551.21 Bibis",
+      "brand": "Pertamina",
+      "address": "Jalan Bibis, Tamantirto, Bantul",
+      "city": "Bantul",
+      "latitude": -7.82922,
+      "longitude": 110.31912,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.558.18 Ngawen",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.84134,
+      "longitude": 110.69783,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 43.558.10 Dhaksinarga",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.96786,
+      "longitude": 110.61688,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.558.19 Piyaman",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.94353,
+      "longitude": 110.60446,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.558.17 Mulo",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -8.0346,
+      "longitude": 110.58461,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.558.16 Karangmojo",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.93607,
+      "longitude": 110.6846,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.557.16 Pleret",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.86927,
+      "longitude": 110.40191,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.31 Balong",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.6811,
+      "longitude": 110.38992,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.35 UII",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.69634,
+      "longitude": 110.41733,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.556.13 Giripeni",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.87981,
+      "longitude": 110.15333,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.556.18 Beji",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.85929,
+      "longitude": 110.15244,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 45.556.15 Barongan Karangsewu",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.95071,
+      "longitude": 110.21415,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.25 Karangnongko",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.67509,
+      "longitude": 110.5356,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 45.574.25 Wilis Nglinggi",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.70269,
+      "longitude": 110.57617,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.26 Gedaren",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.64138,
+      "longitude": 110.60007,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.07 Jatinom",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.63053,
+      "longitude": 110.60382,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 45.574.31 Tarubasan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.65851,
+      "longitude": 110.62856,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 45.574.37 Sidowayah",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.59321,
+      "longitude": 110.66175,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 43.574.28 Pandanaran",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.7735,
+      "longitude": 110.61521,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.15 Danguran",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.7365,
+      "longitude": 110.58422,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.08 Jatimulyo",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.70055,
+      "longitude": 110.72009,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.30 Wonosari",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.6139,
+      "longitude": 110.73018,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.81567,
+      "longitude": 110.37421,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.52795,
+      "longitude": 110.22998,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.6594,
+      "longitude": 110.62843,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.56295,
+      "longitude": 110.62002,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.51528,
+      "longitude": 110.5217,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.52726,
+      "longitude": 110.5566,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.54969,
+      "longitude": 110.24438,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.5498,
+      "longitude": 110.26004,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.98409,
+      "longitude": 110.53791,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.87798,
+      "longitude": 110.45521,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.86139,
+      "longitude": 110.47272,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.95189,
+      "longitude": 110.53769,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.96397,
+      "longitude": 110.51375,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -8.04189,
+      "longitude": 110.51832,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -8.00059,
+      "longitude": 110.51328,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.71434,
+      "longitude": 110.60101,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.72953,
+      "longitude": 110.4081,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.63963,
+      "longitude": 110.35887,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.84239,
+      "longitude": 110.10065,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.71889,
+      "longitude": 110.12111,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.70662,
+      "longitude": 110.62095,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.552.06 Terban",
+      "brand": "Pertamina",
+      "address": "Jalan Cornelis Simanjuntak, Yogyakarta",
+      "city": "Yogyakarta",
+      "latitude": -7.78216,
+      "longitude": 110.37214,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.575.09 Tempel",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.58641,
+      "longitude": 110.71164,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 43.571.01 Manahan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.55412,
+      "longitude": 110.79867,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.556.02 Wates Kota",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.86708,
+      "longitude": 110.14986,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.556.08 Glagah",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.90581,
+      "longitude": 110.07893,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 41.551.01 Baciro",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.79045,
+      "longitude": 110.37991,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 41.552.01 Laksda Adisucipto",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.783,
+      "longitude": 110.40805,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.24 Pokoh",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.66883,
+      "longitude": 110.42878,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.552.07 Ambarketawang",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.80288,
+      "longitude": 110.3133,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.571.01 Pabelan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.56112,
+      "longitude": 110.76468,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar",
+        "Dexlite"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.571.18 Gembongan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.55643,
+      "longitude": 110.75119,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.55377,
+      "longitude": 110.74447,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.575.11 Kopen",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.55926,
+      "longitude": 110.74844,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.575.16 Ngabeyan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.54491,
+      "longitude": 110.7441,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Semen",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.62151,
+      "longitude": 110.31188,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.556.09 Bantengan Galur",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.94034,
+      "longitude": 110.22811,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.60574,
+      "longitude": 110.79117,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.552.09 Kentungan",
+      "brand": "Pertamina",
+      "address": "Jalan Kaliurang",
+      "city": "DI Yogyakarta",
+      "latitude": -7.75583,
+      "longitude": 110.38248,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.573.02 Sawit",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.57094,
+      "longitude": 110.71919,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.552.10 Janti",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.7836,
+      "longitude": 110.40657,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.552.19 Kasam Babarsari",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.77651,
+      "longitude": 110.41494,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.29 Gito Gati",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.71975,
+      "longitude": 110.37539,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.22 Sidomoyo",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.75817,
+      "longitude": 110.32023,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.15 Kalasan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.77464,
+      "longitude": 110.46275,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.59126,
+      "longitude": 110.28311,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.23 Gendol",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.68395,
+      "longitude": 110.29862,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU 44.555.09",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.72798,
+      "longitude": 110.38031,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.12 Kembang Arum",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.65253,
+      "longitude": 110.37354,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.558.12 Duwet",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.99808,
+      "longitude": 110.59244,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.18 Daleman",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.62155,
+      "longitude": 110.76443,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.03 Jonggrangan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.69001,
+      "longitude": 110.61806,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.551.09 Semaki",
+      "brand": "Pertamina",
+      "address": "Jalan Kusumanegara, Yogyakarta",
+      "city": "Yogyakarta",
+      "latitude": -7.80176,
+      "longitude": 110.3858,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.60226,
+      "longitude": 110.2997,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.551.02 Ketandan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.811,
+      "longitude": 110.40463,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.558.05 Kepek",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.95911,
+      "longitude": 110.59402,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.557.13 Kretek",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.99223,
+      "longitude": 110.31561,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.21 Bokoharjo",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.78842,
+      "longitude": 110.48218,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.26 Seyegan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.72372,
+      "longitude": 110.30796,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.25 Selomartani",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.72179,
+      "longitude": 110.47274,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.14 Kalitirto",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.77916,
+      "longitude": 110.45573,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.557.07 Jalimbar",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.86057,
+      "longitude": 110.37427,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamini",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.75362,
+      "longitude": 110.41087,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.556.12 Dekso",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.71534,
+      "longitude": 110.22681,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.30 Cebongan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.73224,
+      "longitude": 110.32553,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44 541 01",
+      "brand": "Pertamina",
+      "address": "Jalan Raya Yogya, Purworejo",
+      "city": "Purworejo",
+      "latitude": -7.74944,
+      "longitude": 110.00274,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 41.552.02 Tegalrejo",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.78563,
+      "longitude": 110.35273,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.28 Getas",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.73442,
+      "longitude": 110.33964,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.53258,
+      "longitude": 110.73047,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.552.14",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.79198,
+      "longitude": 110.35731,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.551.15 Sentul",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.80202,
+      "longitude": 110.37841,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.552.15 Tugu",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.7817,
+      "longitude": 110.36753,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Pandak",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.91105,
+      "longitude": 110.2938,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.552.03 Banguntapan",
+      "brand": "Pertamina",
+      "address": "Jalan Janti, Banguntapan, Bantul",
+      "city": "Bantul",
+      "latitude": -7.79834,
+      "longitude": 110.40832,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.552.08 Monjali",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.76012,
+      "longitude": 110.36925,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.32 Krapyak",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.69521,
+      "longitude": 110.34605,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.552.04 Adisucipto",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.78313,
+      "longitude": 110.43616,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Toko Mba W",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.55271,
+      "longitude": 110.03883,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.89158,
+      "longitude": 110.3273,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44 541 09",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.70741,
+      "longitude": 110.01499,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44 541 05",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.72466,
+      "longitude": 110.02456,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.556.14",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.88694,
+      "longitude": 110.06933,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.556.06 Sogan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.89011,
+      "longitude": 110.11366,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.556.10 Temon",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.88963,
+      "longitude": 110.09937,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.20 Cokro",
+      "brand": "Pertamina",
+      "address": "Jl. Cokro Tulung, klaten",
+      "city": "klaten",
+      "latitude": -7.60161,
+      "longitude": 110.64603,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pulosari",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.52434,
+      "longitude": 110.74905,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.551.19 Timoho",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.79811,
+      "longitude": 110.39283,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.557.01 Imogiri Timur",
+      "brand": "Pertamina",
+      "address": "Jalan Imogiri Timur, Bantul",
+      "city": "Bantul",
+      "latitude": -7.86503,
+      "longitude": 110.38934,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.558.09 Gading",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.9095,
+      "longitude": 110.55345,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.02 Karangwuni",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.67484,
+      "longitude": 110.65382,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Pertamax Turbo",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.551.11 Giwangan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.83627,
+      "longitude": 110.39307,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Jalan Alternatif Boyolali - Klaten",
+      "brand": "Pertamina",
+      "address": "Jalan Alternatif Boyolali - Klaten",
+      "city": "DI Yogyakarta",
+      "latitude": -7.57601,
+      "longitude": 110.62229,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.556.11 Pengasih",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.83276,
+      "longitude": 110.18108,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU SPBE Pertamina",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.86037,
+      "longitude": 110.23245,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.703,
+      "longitude": 110.73676,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.74468,
+      "longitude": 110.47169,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.571.32 Transito",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.56276,
+      "longitude": 110.79213,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.558.03 Gabusan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.88593,
+      "longitude": 110.35249,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 45.574.32 Krecek",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.62037,
+      "longitude": 110.68794,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.29 Trucuk",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.70593,
+      "longitude": 110.65928,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertashop 5P",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.78214,
+      "longitude": 110.53402,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.556.01 Sentolo",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.82601,
+      "longitude": 110.22589,
+      "is_24_hours": true,
+      "facilities": "Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.19 Kebonalas",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.69441,
+      "longitude": 110.48883,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertamax",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU PERTAMINA 44.573.18 SUDIMORO",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.55665,
+      "longitude": 110.6396,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.27 Wonorejo",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.64034,
+      "longitude": 110.76192,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.574.17 Jebugan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.67892,
+      "longitude": 110.60342,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Ngangkruk 44.574.19",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.58101,
+      "longitude": 110.59447,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.552.22 Trihanggo",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.75504,
+      "longitude": 110.33826,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 45.557.17 Terong",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.88571,
+      "longitude": 110.45189,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina Nyaen Pendowoharjo",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.69074,
+      "longitude": 110.36883,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.39 Sardonoharjo",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.70178,
+      "longitude": 110.4064,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.552.21 Godean",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.76633,
+      "longitude": 110.28941,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.555.37 Minggir",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.72086,
+      "longitude": 110.23931,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.556.15 Demangrejo",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.88123,
+      "longitude": 110.20648,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.556.17 Nanggulan",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.79616,
+      "longitude": 110.22836,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.556.19 Kalibawang",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.65169,
+      "longitude": 110.25648,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.557.18 Mangkuluhur",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.90189,
+      "longitude": 110.3453,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 45.574.36 Pomah",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.61701,
+      "longitude": 110.58634,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 45.574.39 Padas",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.6425,
+      "longitude": 110.61254,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.67313,
+      "longitude": 110.71046,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.571.04 Pajang",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.56833,
+      "longitude": 110.78664,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina 44.577.12 Klodran",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.53456,
+      "longitude": 110.79248,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.67825,
+      "longitude": 110.80025,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
+      ]
+    },
+    {
+      "name": "SPBU Pertamina DI Yogyakarta",
+      "brand": "Pertamina",
+      "address": "Area SPBU DI Yogyakarta",
+      "city": "DI Yogyakarta",
+      "latitude": -7.53248,
+      "longitude": 110.60222,
+      "is_24_hours": true,
+      "facilities": "Toilet • Musholla • ATM • Nitrogen",
+      "fuels": [
+        "Pertalite",
+        "Pertamax",
+        "Dexlite",
+        "BioSolar"
       ]
     }
   ]
